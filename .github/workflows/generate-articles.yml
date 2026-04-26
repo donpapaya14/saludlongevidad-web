@@ -2,9 +2,8 @@ name: Generate SEO Articles
 
 on:
   schedule:
-    - cron: '10 6 * * *'     # Batch 1: 2 artículos
-    - cron: '10 13 * * *'    # Batch 2: 2 artículos
-    - cron: '10 20 * * *'    # Batch 3: 2 artículos
+    - cron: '40 6 * * *'     # 2 artículos
+    - cron: '40 14 * * *'     # 2 artículos
   workflow_dispatch:
     inputs:
       count:
