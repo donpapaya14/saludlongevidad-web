@@ -2,6 +2,8 @@
 title: "Ejercicios para vivir más: el tipo de actividad física que más alarga la vida"
 description: "Descubre qué ejercicio te puede hacer vivir más. Conoce los estudios epidemiológicos que demuestran el impacto de la actividad física en la longevidad."
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/14151205/pexels-photo-14151205.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "Woman performing lunges in outdoor gym setting in Ciudad de México"
 category: "ejercicio"
 tags: ["ejercicio", "longevidad", "actividad física", "envejecimiento", "salud"]
 author: "SaludLongevidad"

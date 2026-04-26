@@ -2,6 +2,8 @@
 title: "Los 5 Habitos de las Zonas Azules para Vivir Mas de 100 Anos"
 description: "Descubre los habitos de las personas mas longevas del mundo segun el estudio de Dan Buettner en las zonas azules."
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/36893545/pexels-photo-36893545.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "Bright image of a blue loading zone with yellow text 'Zona de Descarga'."
 category: "habitos"
 tags: ["zonas azules", "longevidad", "habitos", "centenarios", "Dan Buettner"]
 author: "SaludLongevidad"

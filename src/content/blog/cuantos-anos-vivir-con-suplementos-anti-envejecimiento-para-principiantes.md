@@ -2,6 +2,8 @@
 title: "Cuantos años vivir con suplementos anti envejecimiento para principiantes"
 description: "Descubre los suplementos con evidencia científica para alcanzar la longevidad, incluyendo dosis y precauciones"
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/35274767/pexels-photo-35274767.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "Liposomal and anti-dark circle serums showcased in stylish amber bottles with droppers."
 category: "nutricion"
 tags: ["suplementos anti envejecimiento", "longevidad", "resveratrol", "curcumina", "coenzima Q10"]
 author: "SaludLongevidad"

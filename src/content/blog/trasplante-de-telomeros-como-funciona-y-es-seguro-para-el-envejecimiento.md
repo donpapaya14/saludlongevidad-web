@@ -2,6 +2,8 @@
 title: "Trasplante de telómeros: ¿cómo funciona y es seguro para el envejecimiento?"
 description: "Descubre el estudio que revoluciona la ciencia del envejecimiento con el trasplante de telómeros: ¿qué es, beneficios y riesgos."
 pubDate: 2026-04-26
+image: "https://images.pexels.com/photos/33801236/pexels-photo-33801236.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+imageAlt: "A woman reading a book titled 'Este dolor no es mío', focusing on mental health awareness."
 category: "ciencia"
 tags: ["trasplante de telómeros", "envejecimiento", "telómeros", "inflamación", "demencia", "artritis"]
 author: "SaludLongevidad"
