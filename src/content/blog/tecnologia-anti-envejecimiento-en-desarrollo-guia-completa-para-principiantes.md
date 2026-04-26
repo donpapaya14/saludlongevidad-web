@@ -2,7 +2,7 @@
 title: "Tecnología anti-envejecimiento en desarrollo: guía completa para principiantes"
 description: "Descubre las últimas tecnologías para rejuvenecer y prolongar la vida. Explora la evidencia y la timeline realista en este artículo."
 pubDate: 2026-04-26
-image: "https://images.pexels.com/photos/7582558/pexels-photo-7582558.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/7582558/pexels-photo-7582558.jpeg"
 imageAlt: "A serene spa therapy session with a senior woman enjoying a facial massage for rejuvenation."
 category: "ciencia"
 tags: ["tecnología anti-envejecimiento", "envejecimiento celular", "longevidad", "tratamientos anti-envejecimiento", "células madre", "telómeros"]

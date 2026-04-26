@@ -2,7 +2,7 @@
 title: "Cómo el sueño afecta la longevidad: guía completa para principiantes"
 description: "Descubre cómo el sueño nocturno influye en la longevidad y cómo puedes mejorarla para vivir más de 100 años."
 pubDate: 2026-04-26
-image: "https://images.pexels.com/photos/37101735/pexels-photo-37101735.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+image: "https://images.pexels.com/photos/37101735/pexels-photo-37101735.jpeg"
 imageAlt: "Scenic view of historic windmills and castle in Consuegra, Spain."
 category: "sueno"
 tags: ["sueño", "longevidad", "salud general", "rutina de sueño", "alimentos para el sueño", "actividad física y sueño"]
