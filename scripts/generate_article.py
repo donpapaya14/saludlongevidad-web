@@ -43,7 +43,10 @@ def research_topic(category: str, formula: str, existing_titles: list[str]) -> d
     """Paso 1: Elige tema con keyword long-tail y plan detallado."""
     existing_str = "\n".join(f"- {t}" for t in existing_titles[:20]) if existing_titles else "Ninguno"
 
-    prompt = f"""Eres editor jefe de un blog profesional en español sobre {CATEGORY_NAMES.get(category, category)}.
+    prompt = f"""Eres editor jefe de SaludLongevidad, un blog de CIENCIA DE LA LONGEVIDAD en español.
+ENFOQUE: envejecimiento saludable, zonas azules, biomarcadores, suplementos anti-aging, sueño, telómeros.
+Tu lector quiere VIVIR MÁS AÑOS con mejor salud.
+NO escribas sobre dietas para bajar peso, recetas de cocina ni ejercicio básico — eso es otro blog.
 
 Tu trabajo: elegir UN tema para un artículo que sea REALMENTE ÚTIL para el lector.
 
