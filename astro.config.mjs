@@ -5,7 +5,7 @@ import mdx from '@astrojs/mdx';
 import vercel from '@astrojs/vercel';
 
 export default defineConfig({
-  site: 'https://saludlongevidad-web.vercel.app',
+  site: 'https://saludlongevidad.org',
   output: 'static',
   integrations: [
     sitemap({
