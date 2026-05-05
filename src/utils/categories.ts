@@ -1,9 +1,9 @@
 export const CATEGORIES = {
-  'habitos': { name: 'Habitos', slug: 'habitos', description: 'Habitos diarios para vivir mas y mejor' },
-  'nutricion': { name: 'Nutricion', slug: 'nutricion', description: 'Alimentacion para la longevidad con ciencia' },
-  'ejercicio': { name: 'Ejercicio', slug: 'ejercicio', description: 'Movimiento minimo efectivo para longevidad' },
-  'sueno': { name: 'Sueno', slug: 'sueno', description: 'Optimizar el sueno para la salud' },
-  'ciencia': { name: 'Ciencia', slug: 'ciencia', description: 'Ultimos avances en investigacion del envejecimiento' },
+  'habits': { name: 'Habits', slug: 'habits', description: 'Daily habits for a longer life' },
+  'nutrition': { name: 'Nutrition', slug: 'nutrition', description: 'Foods that extend your lifespan' },
+  'exercise': { name: 'Exercise', slug: 'exercise', description: 'Move to live longer' },
+  'sleep': { name: 'Sleep', slug: 'sleep', description: 'Sleep science for longevity' },
+  'aging-science': { name: 'Aging Science', slug: 'aging-science', description: 'Cutting-edge aging research' }
 } as const;
 
 export type Category = keyof typeof CATEGORIES;
