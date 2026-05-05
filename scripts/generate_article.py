@@ -43,7 +43,7 @@ def research_topic(category: str, formula: str, existing_titles: list[str]) -> d
     """Paso 1: Elige tema con keyword long-tail y plan detallado."""
     existing_str = "\n".join(f"- {t}" for t in existing_titles[:20]) if existing_titles else "Ninguno"
 
-    prompt = f"""You are editor-in-chief of LongevityLab, an English blog about the SCIENCE OF LONGEVITY.
+    prompt = f"""You are editor-in-chief of SaludLongevidad, an English blog about the SCIENCE OF LONGEVITY.
 FOCUS: healthy aging, Blue Zones, biomarkers, anti-aging supplements, sleep, telomeres.
 Your reader wants to LIVE MORE YEARS with better health.
 Do NOT write about weight loss diets, cooking recipes or basic exercise — that is a different blog.
