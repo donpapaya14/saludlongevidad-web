@@ -2,30 +2,35 @@
 import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="Sobre nosotros" description="SaludLongevidad: salud y bienestar basados en evidencia cientifica. Conoce nuestra mision.">
+<BaseLayout title="Sobre SaludLongevidad" description="Vladys Z. — desarrollador de apps y cocinero profesional. Longevidad y envejecimiento saludable basados en ciencia real.">
   <section class="about">
     <div class="container about__inner">
       <h1>Sobre SaludLongevidad</h1>
+      <div class="about-author">
+        <h2>Vladys Z.</h2>
+        <p class="author-subtitle">Desarrollador de aplicaciones · Cocinero profesional</p>
+      </div>
 
-      <p class="about__lead">
-        SaludLongevidad investiga la ciencia del envejecimiento saludable. Cada articulo.
-      </p>
+      <p>Soy Vladys, desarrollador de aplicaciones y cocinero profesional con formación en ambos campos. Después de años investigando la ciencia del envejecimiento, decidí crear un espacio donde compartir lo que realmente funciona — sin modas, sin humo, solo evidencia.</p>
 
-      <h2>Nuestra mision</h2>
-      <p>SaludLongevidad nacio con un objetivo claro: hacer accesible la informacion de salud respaldada por evidencia cientifica. Cada articulo que publicamos incluye referencias a estudios reales, publicados en revistas cientificas reconocidas.</p>
+      <p><strong>SaludLongevidad</strong> nace de mi fascinación por la ciencia del envejecimiento y los hábitos que realmente extienden la vida — no modas pasajeras, sino evidencia publicada en revistas como Nature, The Lancet y Cell.</p>
 
-      <h2>Como trabajamos</h2>
-      <p>Investigamos temas de salud, nutricion, ejercicio y bienestar. Consultamos estudios publicados en revistas como The New England Journal of Medicine, JAMA, The Lancet, y publicaciones de instituciones como Harvard, Oxford y la OMS. Cada afirmacion va acompanada de su fuente.</p>
+      <h2>¿Por qué este blog?</h2>
 
-      <h2>Lo que NO somos</h2>
-      <p>No somos medicos ni profesionales sanitarios. Nuestro contenido es informativo y educativo. Siempre recomendamos consultar con un profesional de la salud antes de tomar decisiones medicas.</p>
+      <p>Como cocinero profesional, la nutrición para la longevidad es algo que vivo cada día. Y como desarrollador, analizo los datos antes de creer cualquier afirmación.</p>
 
-      <h2>Donde encontrarnos</h2>
+      <p>Cada artículo que publico cita estudios científicos reales con fuentes verificables. No repito mitos ni generalidades. Si algo no tiene evidencia sólida, no lo publico.</p>
+
+      <h2>Mi compromiso</h2>
       <ul>
-        <li><a href="https://youtube.com/@SaludLongevidad" target="_blank" rel="noopener">YouTube</a> — Tips de salud en 60 segundos</li>
-        <li><a href="/newsletter">Newsletter</a> — Lo mejor de la semana, cada domingo</li>
-        <li><a href="/rss.xml">RSS</a> — Para lectores de feeds</li>
+        <li><strong>Ciencia real</strong> — Cada dato lleva su fuente: universidad, revista científica o institución</li>
+        <li><strong>Cero productos milagro</strong> — No promociono gadgets, suplementos dudosos ni apps de pago</li>
+        <li><strong>Experiencia personal</strong> — Comparto lo que he probado y lo que funciona de verdad</li>
+        <li><strong>Contenido gratuito</strong> — Todo el conocimiento es libre y accesible</li>
       </ul>
+
+      <h2>También en YouTube</h2>
+      <p>Publico contenido diario en mi canal <a href="https://youtube.com/@SaludLongevidad-e3i" target="_blank" rel="noopener">@SaludLongevidad-e3i</a> con tips sobre longevidad, biohacking basado en ciencia y envejecimiento saludable.</p>
 
       <h2>Contacto</h2>
       <p>vladys.z96@gmail.com</p>
@@ -36,11 +41,11 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 <style>
   .about { padding: 3rem 0; }
   .about__inner { max-width: var(--content-width); }
-  .about__lead {
-    font-size: 1.25rem;
+  .about-author { margin-bottom: 2rem; }
+  .author-subtitle {
+    font-size: 1.1rem;
     color: var(--color-text-light);
-    margin-bottom: 2rem;
-    line-height: 1.7;
+    margin-top: 0.25rem;
   }
   .about h2 { margin-top: 2rem; margin-bottom: 0.75rem; }
   .about p { margin-bottom: 1rem; color: var(--color-text-light); line-height: 1.7; }
