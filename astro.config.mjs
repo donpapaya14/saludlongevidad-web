@@ -7,6 +7,7 @@ import vercel from '@astrojs/vercel';
 export default defineConfig({
   site: 'https://saludlongevidad.org',
   output: 'static',
+  trailingSlash: 'never',
   integrations: [
     sitemap({
       filter: (page) =>
