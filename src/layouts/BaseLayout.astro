@@ -55,13 +55,19 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   <meta name="twitter:description" content={description} />
   <meta name="twitter:image" content={resolvedOgImage} />
 
-  <!-- Fonts -->
+  <!-- Fonts: Fraunces (display serif) + Inter (sans) + JetBrains Mono (data) -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..500&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+  <!-- Theme color (matches off-white bg) -->
+  <meta name="theme-color" content="#fafaf7" />
 
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="SaludLongevidad" href="/rss.xml" />
@@ -82,6 +88,9 @@ const resolvedCanonical = canonicalUrl ?? Astro.url.href;
   </script>
 </head>
 <body>
+  <!-- Decorative background (subtle gradients + grain) -->
+  <div class="site-bg" aria-hidden="true"></div>
+
   <Header />
   <main>
     <slot />

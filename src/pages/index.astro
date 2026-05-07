@@ -13,16 +13,45 @@ const latestPosts = allPosts
 const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[Category]][];
 ---
 
-<BaseLayout title="SaludLongevidad" description="Salud, bienestar y nutricion basados en ciencia. Consejos practicos respaldados por estudios reales.">
+<BaseLayout title="SaludLongevidad" description="Longevidad cientifica, biohacking real y habitos blue zones. Datos respaldados por estudios revisados.">
   <!-- Hero -->
   <section class="hero">
-    <div class="container hero__inner">
-      <h1 class="hero__title">Envejecer mejor con ciencia y habitos reales <span>con datos reales</span></h1>
-      <p class="hero__subtitle">
-        Longevidad, anti-envejecimiento y habitos saludables basados en estudios cientificos reales.
-      </p>
-      <div class="hero__actions">
-        <a href="/blog" class="btn btn--primary">Ver articulos</a>
+    <div class="container hero__inner hero-grid">
+      <div class="hero-text">
+        <div class="eyebrow">Documental editorial &middot; Longevidad</div>
+        <h1 class="display hero__title">
+          Vivir mas,<br />
+          <em>vivir mejor</em>
+        </h1>
+        <p class="lede hero__subtitle">
+          Longevidad cientifica, biohacking accesible y habitos de las blue zones.
+          Datos respaldados por estudios revisados, sin promesas magicas.
+        </p>
+        <div class="hero__actions">
+          <a href="/blog" class="btn-primary">Leer articulos &rarr;</a>
+          <a href="#categories" class="btn-ghost">Explorar categorias</a>
+        </div>
+
+        <div class="pop-chips" aria-label="Temas populares">
+          <span class="pop-chips-label">Temas</span>
+          <a href="/categoria/habits" class="pop-chip">Habitos diarios</a>
+          <a href="/categoria/nutrition" class="pop-chip">Blue zones</a>
+          <a href="/categoria/exercise" class="pop-chip">Movimiento</a>
+          <a href="/categoria/sleep" class="pop-chip">Sueno profundo</a>
+          <a href="/categoria/aging-science" class="pop-chip">Edad biologica</a>
+        </div>
+      </div>
+
+      <div class="hero-visual-wrap">
+        <figure class="hero__visual">
+          <img
+            src="https://images.pexels.com/photos/3683074/pexels-photo-3683074.jpeg?auto=compress&cs=tinysrgb&w=900"
+            alt="Persona mayor caminando en la naturaleza, simbolo de longevidad activa"
+            loading="eager"
+            decoding="async"
+          />
+          <figcaption class="hero__visual-caption">Okinawa &middot; Blue Zone</figcaption>
+        </figure>
       </div>
     </div>
   </section>
@@ -31,7 +60,10 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   <section class="section">
     <div class="container">
       <div class="section__header">
-        <h2>Ultimos articulos</h2>
+        <div>
+          <div class="eyebrow">Recientes</div>
+          <h2 class="section-title">Ultimos articulos</h2>
+        </div>
         <a href="/blog" class="section__link">Ver todos &rarr;</a>
       </div>
       <div class="articles-grid">
@@ -51,9 +83,12 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
   </section>
 
   <!-- Categories -->
-  <section class="section section--alt">
+  <section id="categories" class="section section--alt">
     <div class="container">
-      <h2 class="section__heading-center">Explora por categoria</h2>
+      <div style="text-align:center;margin-bottom:36px">
+        <div class="eyebrow" style="justify-content:center">Explorar</div>
+        <h2 class="section-title">Por categoria</h2>
+      </div>
       <div class="categories-grid">
         {categories.map(([key, cat]) => (
           <a href={`/categoria/${key}`} class={`cat-card cat-card--${key}`}>
@@ -64,16 +99,51 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
       </div>
     </div>
   </section>
-  
+
+  <!-- Stats / Data section (dark) -->
+  <section class="section section--dark">
+    <div class="container">
+      <div style="text-align:center;margin-bottom:24px">
+        <div class="eyebrow" style="justify-content:center">Datos</div>
+        <h2 class="section-title">La longevidad en numeros</h2>
+        <p class="lede" style="max-width:580px;margin:18px auto 0">
+          Indicadores reales de las regiones mas longevas del planeta y la ciencia detras de ellos.
+        </p>
+      </div>
+      <div class="stats-grid">
+        <div class="stat">
+          <div class="stat__value data">+12<span style="font-size:0.6em">a&ntilde;os</span></div>
+          <span class="stat__label">Esperanza extra</span>
+          <span class="stat__source">Habitos Blue Zone vs media</span>
+        </div>
+        <div class="stat">
+          <div class="stat__value data">7-9<span style="font-size:0.5em">h</span></div>
+          <span class="stat__label">Sueno optimo</span>
+          <span class="stat__source">Sleep Foundation 2023</span>
+        </div>
+        <div class="stat">
+          <div class="stat__value data">150<span style="font-size:0.5em">min</span></div>
+          <span class="stat__label">Ejercicio semana</span>
+          <span class="stat__source">OMS minimo recomendado</span>
+        </div>
+        <div class="stat">
+          <div class="stat__value data">95<span style="font-size:0.5em">%</span></div>
+          <span class="stat__label">Plant-based</span>
+          <span class="stat__source">Dieta longeva (Buettner)</span>
+        </div>
+      </div>
+    </div>
+  </section>
 
   <!-- YouTube CTA -->
   <section class="section">
     <div class="container yt-section">
       <div class="yt-section__text">
-        <h2>Tambien en YouTube</h2>
-        <p>Tips en 60 segundos. Shorts diarios con datos reales.</p>
-        <a href="https://youtube.com/@SaludLongevidad-e3i" target="_blank" rel="noopener" class="btn btn--outline">
-          Ver canal
+        <div class="eyebrow" style="justify-content:center">Video</div>
+        <h2 class="section-title">Tambien en YouTube</h2>
+        <p class="lede">Shorts diarios con tips de longevidad respaldados por estudios. 60 segundos, datos reales.</p>
+        <a href="https://youtube.com/@SaludLongevidad-e3i" target="_blank" rel="noopener" class="btn-primary btn--lg">
+          Ver canal &rarr;
         </a>
       </div>
     </div>
@@ -81,116 +151,27 @@ const categories = Object.entries(CATEGORIES) as [Category, (typeof CATEGORIES)[
 </BaseLayout>
 
 <style>
-  .hero {
-    background: linear-gradient(135deg, #0A2E28 0%, #1B3D36 50%, #0A2E28 100%);
-    color: white;
-    padding: 5rem 0 4rem;
+  .hero-visual-wrap {
+    width: 100%;
   }
-  .hero__inner { max-width: 700px; }
-  .hero__title {
-    font-size: 3rem;
-    font-weight: 800;
-    line-height: 1.15;
-    color: white;
-  }
-  .hero__title span { color: var(--color-primary-light); }
-  .hero__subtitle {
-    font-size: 1.125rem;
-    color: #D1D5DB;
-    margin-top: 1.25rem;
-    line-height: 1.7;
-  }
-  .hero__actions {
-    display: flex;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-  .hero .btn--outline {
-    color: white;
-    border-color: rgba(255,255,255,0.3);
-  }
-  .hero .btn--outline:hover {
-    background: rgba(255,255,255,0.1);
-    color: white;
-  }
-  .section { padding: 4rem 0; }
-  .section--alt { background: #F3F4F6; }
-  .section__header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 2rem;
-  }
-  .section__link {
-    font-size: 0.875rem;
-    font-weight: 600;
-    color: var(--color-primary);
-  }
-  .section__heading-center {
-    text-align: center;
-    margin-bottom: 2rem;
-  }
-  .articles-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
-  }
-  .categories-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    gap: 1rem;
-  }
-  .cat-card {
-    display: block;
-    padding: 1.5rem;
-    border-radius: var(--radius);
-    color: white;
-    transition: transform 0.2s, box-shadow 0.2s;
-    text-decoration: none;
-  }
-  .cat-card:hover {
-    transform: translateY(-3px);
-    box-shadow: var(--shadow-lg);
-    color: white;
-  }
-  .cat-card h3 { font-size: 1.125rem; margin-bottom: 0.5rem; color: white; }
-  .cat-card p { font-size: 0.8125rem; opacity: 0.9; }
-  
-  
-  
-  
-  
-    .cat-card--habitos { background: #009688; }
-  .cat-card--nutricion { background: #2E7D32; }
-  .cat-card--ejercicio { background: #E65100; }
-  .cat-card--sueno { background: #1565C0; }
-  .cat-card--ciencia { background: #6A1B9A; }
-  .newsletter-hero {
-    background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-dark) 100%);
-    color: white;
-  }
-  .newsletter-hero__inner { text-align: center; max-width: 550px; margin: 0 auto; }
-  .newsletter-hero h2 { color: white; font-size: 1.75rem; }
-  .newsletter-hero p { color: #FECACA; margin: 1rem 0 1.5rem; }
-  .newsletter-hero .btn--primary {
-    background: white;
-    color: var(--color-primary);
-  }
-  .newsletter-hero .btn--primary:hover { background: #FFF5F5; }
-  .btn--lg { padding: 0.875rem 2rem; font-size: 1rem; }
   .yt-section {
     text-align: center;
-    max-width: 550px;
+    max-width: 580px;
     margin: 0 auto;
   }
-  .yt-section p {
-    color: var(--color-text-light);
-    margin: 0.75rem 0 1.5rem;
+  .yt-section .lede {
+    margin: 14px auto 28px;
   }
+  .cat-card--habits         { /* default teal accent applied via global */ }
+  .cat-card--nutrition,
+  .cat-card--exercise,
+  .cat-card--sleep,
+  .cat-card--aging-science  { /* uses global cat-card hover accent */ }
+
   @media (max-width: 600px) {
-    .hero { padding: 3rem 0; }
-    .hero__title { font-size: 2rem; }
-    .hero__actions { flex-direction: column; }
-    .articles-grid { grid-template-columns: 1fr; }
+    .hero { padding: 32px 0 48px; }
+    .hero__actions { flex-direction: column; align-items: flex-start; }
+    .hero__actions .btn-primary,
+    .hero__actions .btn-ghost { width: 100%; justify-content: center; }
   }
 </style>

@@ -1,118 +1,144 @@
 ---
 const year = new Date().getFullYear();
 const categories = [
-  { href: '/categoria/habitos', label: 'Habitos' },
-  { href: '/categoria/nutricion', label: 'Nutricion' },
-  { href: '/categoria/ejercicio', label: 'Ejercicio' },
-  { href: '/categoria/sueno', label: 'Sueno' },
-  { href: '/categoria/ciencia', label: 'Ciencia' },
+  { href: '/categoria/habits',         label: 'Habitos' },
+  { href: '/categoria/nutrition',      label: 'Nutricion' },
+  { href: '/categoria/exercise',       label: 'Ejercicio' },
+  { href: '/categoria/sleep',          label: 'Sueno' },
+  { href: '/categoria/aging-science',  label: 'Ciencia del envejecimiento' },
 ];
 const legal = [
-  { href: '/aviso-legal', label: 'Aviso legal' },
-  { href: '/politica-privacidad', label: 'Politica de privacidad' },
-  { href: '/politica-cookies', label: 'Politica de cookies' },
+  { href: '/aviso-legal',          label: 'Aviso legal' },
+  { href: '/politica-privacidad',  label: 'Privacidad' },
+  { href: '/politica-cookies',     label: 'Cookies' },
+];
+const sites = [
+  { href: 'https://vida-sana-360.com',      label: 'VidaSana360' },
+  { href: 'https://finanzasclara.uk',       label: 'FinanzasClara' },
+  { href: 'https://catbrothers.uk',         label: 'CatBrothers' },
+  { href: 'https://espaciointeligente.org', label: 'Espacio Inteligente' },
+  { href: 'https://cash-cafe.org',          label: 'Cash Cafe' },
 ];
 ---
 
-<footer class="footer">
-  <div class="container footer__inner">
-    <div class="footer__brand">
-      <span class="footer__logo">&#9829; Salud<strong>Longevidad</strong></span>
-      <p class="footer__tagline">Envejecer mejor con ciencia y habitos reales</p>
+<footer class="site-footer">
+  <div class="container site-footer__inner">
+    <div class="site-footer__brand">
+      <a href="/" class="topbar__brand" style="text-decoration:none">
+        <span class="brand-mark" aria-hidden="true">L</span>
+        <span class="brand-name">Salud<em>Longevidad</em></span>
+      </a>
+      <p class="lede" style="font-size:13.5px;margin-top:14px;max-width:340px;color:var(--ink-2)">
+        Documental editorial sobre longevidad. Ciencia revisada, habitos blue zones y datos reales — sin promesas magicas.
+      </p>
     </div>
 
-    <div class="footer__col">
+    <nav class="site-footer__col" aria-label="Categorias">
       <h4>Categorias</h4>
       <ul>
         {categories.map(c => <li><a href={c.href}>{c.label}</a></li>)}
       </ul>
-    </div>
+    </nav>
 
-    <div class="footer__col">
-      <h4>Legal</h4>
-      <ul>
-        {legal.map(l => <li><a href={l.href}>{l.label}</a></li>)}
-      </ul>
-    </div>
-
-    <div class="footer__col">
+    <nav class="site-footer__col" aria-label="Conecta">
       <h4>Conecta</h4>
       <ul>
         <li><a href="https://youtube.com/@SaludLongevidad-e3i" target="_blank" rel="noopener">YouTube</a></li>
-                <li><a href="/rss.xml">RSS</a></li>
+        <li><a href="/rss.xml">RSS</a></li>
+        <li><a href="/sobre-nosotros">Sobre nosotros</a></li>
       </ul>
-    </div>
+    </nav>
 
-    <div class="footer__col">
+    <nav class="site-footer__col site-footer__col--sites" aria-label="Nuestras webs">
       <h4>Nuestras webs</h4>
       <ul>
-        <li><a href="https://vida-sana-360.com" target="_blank" rel="noopener">VidaSana360</a></li>
-        <li><a href="https://finanzasclara.uk" target="_blank" rel="noopener">FinanzasClara</a></li>
-        <li><a href="https://catbrothers.uk" target="_blank" rel="noopener">CatBrothers</a></li>
-        <li><a href="https://espaciointeligente.org" target="_blank" rel="noopener">Espacio Inteligente</a></li>
-        <li><a href="https://cash-cafe.org" target="_blank" rel="noopener">Cash Café</a></li>
+        {sites.map(s => (
+          <li><a href={s.href} target="_blank" rel="noopener">{s.label}</a></li>
+        ))}
       </ul>
-    </div>
+    </nav>
   </div>
 
-  <div class="footer__bottom">
-    <div class="container">
-      <p>&copy; {year} SaludLongevidad. Contenido informativo, no sustituye consejo medico profesional.</p>
+  <div class="site-footer__bar">
+    <div class="container site-footer__bar-inner">
+      <span class="micro">&copy; {year} SaludLongevidad &middot; Contenido informativo, no sustituye consejo medico profesional</span>
+      <ul class="site-footer__legal">
+        {legal.map(l => <li><a href={l.href}>{l.label}</a></li>)}
+      </ul>
     </div>
   </div>
 </footer>
 
 <style>
-  .footer {
-    background: var(--color-text);
-    color: #D1D5DB;
-    margin-top: 4rem;
-    padding-top: 3rem;
+  .site-footer {
+    border-top: 1px solid var(--line);
+    padding: 56px 0 0;
+    margin-top: 80px;
+    background: linear-gradient(180deg, var(--surface-2) 0%, var(--bg) 100%);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
   }
-  .footer__inner {
+  .site-footer__inner {
     display: grid;
-    grid-template-columns: 1.5fr repeat(4, 1fr);
-    gap: 2rem;
-    padding-bottom: 2rem;
+    grid-template-columns: 1.6fr repeat(3, 1fr);
+    gap: 32px;
+    padding-bottom: 44px;
   }
-  .footer__logo {
-    font-size: 1.25rem;
-    font-weight: 600;
-    color: white;
-  }
-  .footer__logo strong { color: var(--color-primary-light); }
-  .footer__tagline {
-    margin-top: 0.5rem;
-    font-size: 0.875rem;
-    color: #9CA3AF;
-  }
-  .footer__col h4 {
-    color: white;
-    font-size: 0.875rem;
+  .site-footer__col h4 {
+    color: var(--ink-1);
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    font-weight: 500;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    margin-bottom: 1rem;
+    letter-spacing: 0.14em;
+    margin-bottom: 16px;
   }
-  .footer__col ul { list-style: none; }
-  .footer__col li { margin-bottom: 0.5rem; }
-  .footer__col a {
-    color: #9CA3AF;
-    font-size: 0.875rem;
-    transition: color 0.2s;
+  .site-footer__col ul { list-style: none; padding: 0; margin: 0; }
+  .site-footer__col li { margin-bottom: 8px; }
+  .site-footer__col a {
+    color: var(--ink-2);
+    font-size: 13.5px;
+    text-decoration: none;
+    transition: color 0.15s;
   }
-  .footer__col a:hover { color: white; }
-  .footer__bottom {
-    border-top: 1px solid #374151;
-    padding: 1.25rem 0;
-  }
-  .footer__bottom p {
-    font-size: 0.8125rem;
-    color: #6B7280;
-    text-align: center;
-  }
+  .site-footer__col a:hover { color: var(--accent); }
 
-  @media (max-width: 700px) {
-    .footer__inner { grid-template-columns: 1fr 1fr; }
-    .footer__brand { grid-column: 1 / -1; }
+  .site-footer__bar {
+    border-top: 1px solid var(--line);
+    padding: 18px 0 28px;
+  }
+  .site-footer__bar-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+  }
+  .site-footer__legal {
+    list-style: none;
+    display: flex;
+    gap: 18px;
+    margin: 0;
+    padding: 0;
+  }
+  .site-footer__legal a {
+    color: var(--ink-3);
+    font-family: var(--font-mono);
+    font-size: 11px;
+    letter-spacing: 0.04em;
+    text-decoration: none;
+  }
+  .site-footer__legal a:hover { color: var(--accent); }
+
+  @media (max-width: 880px) {
+    .site-footer__inner {
+      grid-template-columns: 1fr 1fr;
+      gap: 28px;
+    }
+    .site-footer__brand { grid-column: 1 / -1; }
+  }
+  @media (max-width: 560px) {
+    .site-footer__inner { grid-template-columns: 1fr; }
+    .site-footer__bar-inner { flex-direction: column; align-items: flex-start; }
   }
 </style>
