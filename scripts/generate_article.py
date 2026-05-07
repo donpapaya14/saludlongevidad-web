@@ -34,7 +34,7 @@ CATEGORY_NAMES = {
     "aging-science": "Aging Science",
 }
 
-AMAZON_TAG = os.getenv("AMAZON_TAG", "vds96-20")
+AMAZON_TAG = os.getenv("AMAZON_TAG", "vladys-21")
 SITE_URL = os.getenv("SITE_URL", "https://saludlongevidad.org")
 BRAND = os.getenv("BRAND", "SaludLongevidad")
 AUTHOR = "Vladys Z."
@@ -182,16 +182,16 @@ def inject_amazon_links(content: str, amazon_keywords: list[str]) -> str:
     def replace_amazon(match):
         product = match.group(1)
         search_query = product.replace(" ", "+")
-        return f"[{product} en Amazon](https://www.amazon.com/s?k={search_query}&tag={AMAZON_TAG})"
+        return f"[{product} en Amazon](https://www.amazon.es/s?k={search_query}&tag={AMAZON_TAG})"
 
     content = re.sub(r'\[AMAZON:([^\]]+)\]', replace_amazon, content)
 
-    if amazon_keywords and "amazon.com" not in content:
+    if amazon_keywords and "amazon.es" not in content:
         content += "\n\n---\n\n"
         content += "*Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*\n\n"
         for kw in amazon_keywords[:2]:
             search = kw.replace(" ", "+")
-            content += f"- [{kw}](https://www.amazon.com/s?k={search}&tag={AMAZON_TAG})\n"
+            content += f"- [{kw}](https://www.amazon.es/s?k={search}&tag={AMAZON_TAG})\n"
 
     return content
 
