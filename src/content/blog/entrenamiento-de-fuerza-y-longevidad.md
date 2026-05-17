@@ -57,7 +57,7 @@ Los ejercicios de fuerza mejores para principiantes son los que trabajan múltip
 Los telómeros son las estructuras que protegen los extremos de los cromosomas y su longitud es un indicador de la edad biológica. Un estudio publicado en la revista **Cell Reports** (2019) encontró que el entrenamiento de fuerza puede aumentar la longitud de los telómeros en un **15%**.
 
 ### ¿Qué productos puedo utilizar para realizar entrenamiento de fuerza en casa?
-Puedes utilizar [pesas de mano para entrenamiento de fuerza](https://www.amazon.com/pesas-de-mano-para-entrenamiento-de-fuerza) y otros productos como [bandas de resistencia](https://www.amazon.com/bandas-de-resistencia-para-entrenamiento-de-fuerza) y [colchonetas de ejercicios](https://www.amazon.com/colchonetas-de-ejercicios-para-entrenamiento-de-fuerza).
+Puedes utilizar [pesas de mano para entrenamiento de fuerza](https://www.amazon.es/pesas-de-mano-para-entrenamiento-de-fuerza) y otros productos como [bandas de resistencia](https://www.amazon.es/bandas-de-resistencia-para-entrenamiento-de-fuerza) y [colchonetas de ejercicios](https://www.amazon.es/colchonetas-de-ejercicios-para-entrenamiento-de-fuerza).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, siempre he sido consciente de la importancia de la salud y el bienestar. Sin embargo, no fue hasta que comencé a realizar entrenamiento de fuerza que me di cuenta de los beneficios que puede tener en la longevidad. Me gustaría compartir una anécdota personal: cuando comencé a realizar entrenamiento de fuerza, noté una mejora significativa en mi condición física y mi estado de ánimo. Ahora, me siento más enérgico y motivado para enfrentar los desafíos del día a día.
@@ -69,7 +69,7 @@ Aquí te presento 6 puntos de acción concretos para incorporar el entrenamiento
 3. Comienza con ejercicios básicos y seguros
 4. Aumenta gradualmente la intensidad y la frecuencia
 5. No te olvides de calentar y estirar antes y después de cada sesión
-6. Utiliza productos como [pesas de mano para entrenamiento de fuerza](https://www.amazon.com/pesas-de-mano-para-entrenamiento-de-fuerza) y [bandas de resistencia](https://www.amazon.com/bandas-de-resistencia-para-entrenamiento-de-fuerza) para realizar entrenamiento de fuerza en casa
+6. Utiliza productos como [pesas de mano para entrenamiento de fuerza](https://www.amazon.es/pesas-de-mano-para-entrenamiento-de-fuerza) y [bandas de resistencia](https://www.amazon.es/bandas-de-resistencia-para-entrenamiento-de-fuerza) para realizar entrenamiento de fuerza en casa
 
 
 ---

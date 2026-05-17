@@ -68,8 +68,8 @@ Como desarrollador de apps y cocinero profesional, he aprendido la importancia d
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Vitaminas para la salud del telómero](https://www.amazon.com/s?k=Vitaminas+para+la+salud+del+telómero&tag=vds96-20)
-- [Suplementos antioxidantes](https://www.amazon.com/s?k=Suplementos+antioxidantes&tag=vds96-20)
+- [Vitaminas para la salud del telómero](https://www.amazon.es/s?k=Vitaminas+para+la+salud+del+telómero&tag=vladys-21)
+- [Suplementos antioxidantes](https://www.amazon.es/s?k=Suplementos+antioxidantes&tag=vladys-21)
 
 
 ### You might also like

@@ -102,7 +102,7 @@ Aquí hay algunos puntos de acción para mejorar la calidad del sueño y reducir
 5. **Evita la cafeína y la nicotina**: Ambas sustancias pueden interferir con la calidad del sueño.
 6. **Duerme entre 7 y 9 horas cada noche**: La falta de sueño puede aumentar el riesgo de envejecimiento celular.
 7. **Practica la actividad física regular**: La actividad física regular puede ayudar a reducir el riesgo de enfermedades crónicas.
-8. **Considera [almohada de memoria en Amazon](https://www.amazon.es/s?k=almohada+de+memoria&tag=vladys-21)(https://www.amazon.com/) para mejorar la calidad del sueño.
+8. **Considera [almohada de memoria en Amazon](https://www.amazon.es/s?k=almohada+de+memoria&tag=vladys-21)(https://www.amazon.es/) para mejorar la calidad del sueño.
 
 
 ### You might also like

@@ -33,7 +33,7 @@ El sulforafano activa la vía Nrf2, una ruta de señalización que regula la exp
 Un ensayo clínico de la [Universidad de California](https://www.ucsf.edu/) encontró que el sulforafano puede reducir los biomarcadores de envejecimiento, como la **IL-6** y la **PCR**, en adultos mayores. Esto sugiere que el sulforafano puede tener un efecto anti-envejecimiento en humanos.
 
 1. Consumir **3-5 porciones** de crucíferas a la semana para obtener beneficios para la salud.
-2. Agregar suplementos de sulforafano a tu dieta, como el [Suplemento de Sulforafano (BroccoMax)](https://www.amazon.com/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
+2. Agregar suplementos de sulforafano a tu dieta, como el [Suplemento de Sulforafano (BroccoMax)](https://www.amazon.es/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
 
 ## Dosis óptima y mejor forma de consumirlo
 La dosis óptima de sulforafano no se ha establecido, pero se cree que **1-2 gramos** de sulforafano al día pueden ser beneficiosos. El brócoli crudo es una buena fuente de sulforafano, pero también se puede encontrar en otros alimentos, como la col rizada y el repollo. Un estudio de la [Universidad de Illinois](https://www.illinois.edu/) encontró que el brócoli cocido puede retener hasta el **50%** de su contenido de sulforafano.
@@ -43,13 +43,13 @@ El sulforafano puede combinarse con otros compuestos anti-envejecimiento, como l
 
 ### Preguntas Frecuentes
 ### ¿Cuál es la mejor forma de consumir sulforafano?
-La mejor forma de consumir sulforafano es a través de una dieta equilibrada que incluya crucíferas como el brócoli, la col rizada y el repollo. También se puede tomar como suplemento, como el [Suplemento de Sulforafano (BroccoMax)](https://www.amazon.com/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
+La mejor forma de consumir sulforafano es a través de una dieta equilibrada que incluya crucíferas como el brócoli, la col rizada y el repollo. También se puede tomar como suplemento, como el [Suplemento de Sulforafano (BroccoMax)](https://www.amazon.es/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
 ### ¿Cuánto sulforafano debo consumir al día?
 La dosis óptima de sulforafano no se ha establecido, pero se cree que **1-2 gramos** al día pueden ser beneficiosos.
 ### ¿Puedo tomar sulforafano con otros suplementos?
 Sí, el sulforafano puede combinarse con otros suplementos anti-envejecimiento, como la curcumina y el resveratrol, para potenciar sus efectos.
 ### ¿Dónde puedo comprar sulforafano?
-El sulforafano se puede encontrar en forma de suplemento en tiendas de salud y en línea, como [ Suplemento de Sulforafano (BroccoMax) en Amazon](https://www.amazon.es/s?k=+Suplemento+de+Sulforafano+(BroccoMax)&tag=vladys-21)(https://www.amazon.com/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
+El sulforafano se puede encontrar en forma de suplemento en tiendas de salud y en línea, como [ Suplemento de Sulforafano (BroccoMax) en Amazon](https://www.amazon.es/s?k=+Suplemento+de+Sulforafano+(BroccoMax)&tag=vladys-21)(https://www.amazon.es/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
 ### ¿Es seguro tomar sulforafano?
 El sulforafano es generalmente considerado seguro, pero es importante consultar con un profesional de la salud antes de tomar cualquier suplemento.
 ### ¿Cuáles son los beneficios del sulforafano?
@@ -62,12 +62,12 @@ En mi cocina, me gusta experimentar con diferentes recetas que incluyan crucífe
 
 ## Resumen Práctico
 1. Consumir **3-5 porciones** de crucíferas a la semana para obtener beneficios para la salud.
-2. Agregar suplementos de sulforafano a tu dieta, como el [Suplemento de Sulforafano (BroccoMax)](https://www.amazon.com/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
+2. Agregar suplementos de sulforafano a tu dieta, como el [Suplemento de Sulforafano (BroccoMax)](https://www.amazon.es/BroccoMax-Sulforaphane-Supplement-Cruciferous-Vegetables/dp/B076MX9RYG).
 3. Combinar sulforafano con otros compuestos anti-envejecimiento, como la curcumina y el resveratrol, para potenciar sus efectos.
 4. Consultar con un profesional de la salud antes de tomar cualquier suplemento.
 5. Incorporar más crucíferas en tu dieta y experimentar con diferentes recetas.
 6. Agregar un poco de mostaza o wasabi a tus comidas para aumentar la actividad de la mirosinasa y maximizar la producción de sulforafano.
-7. Considerar la adición de otros productos complementarios, como [ Curcumina en Amazon](https://www.amazon.es/s?k=+Curcumina&tag=vladys-21)(https://www.amazon.com/Turmeric-Curcumin-Supplement-1500mg-Capsules/dp/B07B9R7RYG) o [ Resveratrol en Amazon](https://www.amazon.es/s?k=+Resveratrol&tag=vladys-21)(https://www.amazon.com/Resveratrol-Supplement-1200mg-60-Capsules/dp/B07B9R7RYG), a tu rutina de suplementos.
+7. Considerar la adición de otros productos complementarios, como [ Curcumina en Amazon](https://www.amazon.es/s?k=+Curcumina&tag=vladys-21)(https://www.amazon.es/Turmeric-Curcumin-Supplement-1500mg-Capsules/dp/B07B9R7RYG) o [ Resveratrol en Amazon](https://www.amazon.es/s?k=+Resveratrol&tag=vladys-21)(https://www.amazon.es/Resveratrol-Supplement-1200mg-60-Capsules/dp/B07B9R7RYG), a tu rutina de suplementos.
 8. Mantener una dieta equilibrada y un estilo de vida saludable para maximizar los beneficios del sulforafano.
 
 

@@ -42,9 +42,9 @@ Algunos alimentos que contienen compuestos que activan las sirtuinas incluyen:
 
 ## Suplementos que apoyan las sirtuinas
 Algunos suplementos que pueden apoyar la producción de sirtuinas incluyen:
-* **Resveratrol**: como el [Resveratrol de NOW Foods en Amazon](https://www.amazon.com/s?k=Resveratrol+de+NOW+Foods&tag=vds96-20)
-* **NAD+**: como el [NAD+ de Jarrow Formulas en Amazon](https://www.amazon.com/s?k=NAD++de+Jarrow+Formulas&tag=vds96-20)
-* **Vitamina D**: como el [Vitamina D de Nature Made en Amazon](https://www.amazon.com/s?k=Vitamina+D+de+Nature+Made&tag=vds96-20)
+* **Resveratrol**: como el [Resveratrol de NOW Foods en Amazon](https://www.amazon.es/s?k=Resveratrol+de+NOW+Foods&tag=vladys-21)
+* **NAD+**: como el [NAD+ de Jarrow Formulas en Amazon](https://www.amazon.es/s?k=NAD++de+Jarrow+Formulas&tag=vladys-21)
+* **Vitamina D**: como el [Vitamina D de Nature Made en Amazon](https://www.amazon.es/s?k=Vitamina+D+de+Nature+Made&tag=vladys-21)
 
 ## Conclusión y recomendaciones
 En resumen, las sirtuinas son una familia de proteínas que juegan un papel crucial en el proceso de envejecimiento celular. Activar las sirtuinas a través de la restricción calórica, el ejercicio físico y la suplementación con resveratrol puede tener beneficios para la longevidad.

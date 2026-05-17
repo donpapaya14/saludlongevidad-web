@@ -56,7 +56,7 @@ La [Revista de Nutrición y Envejecimiento (2021)](https://www.nutritionandaging
 - **Vitamina D**: Niveles >40 ng/ml asociados a telómeros un 9% más largos.
 - **Omega-3**: 2g diarios reducen la edad epigenética 1.2 años en 6 meses.
 
-Libro recomendado: [Telómeros: El Secreto para Vivir Más y Mejor en Amazon](https://www.amazon.com/s?k=Telómeros:+El+Secreto+para+Vivir+Más+y+Mejor&tag=vds96-20)(https://www.amazon.com).
+Libro recomendado: [Telómeros: El Secreto para Vivir Más y Mejor en Amazon](https://www.amazon.es/s?k=Telómeros:+El+Secreto+para+Vivir+Más+y+Mejor&tag=vladys-21)(https://www.amazon.es).
 
 ## Preguntas Frecuentes
 
@@ -77,7 +77,7 @@ Dosis moderadas (1 copa/día mujeres, 2 hombres) de vino tinto rico en resveratr
 
 ## Mi Experiencia
 
-Como desarrollador de apps de salud y cocinero profesional, he probado en mí mismo el impacto de la dieta anti-envejecimiento. Tras 6 meses midiendo mis biomarcadores con [Oura Ring en Amazon](https://www.amazon.com/s?k=Oura+Ring&tag=vds96-20)(https://www.amazon.com) y suplementando con NMN, mi edad biológica bajó de 42 a 38 años (tengo 40 cronológicos). El cambio clave fue eliminar ultraprocesados y añadir 15 minutos diarios de sauna, que según estudios finlandeses reduce un 27% la mortalidad.
+Como desarrollador de apps de salud y cocinero profesional, he probado en mí mismo el impacto de la dieta anti-envejecimiento. Tras 6 meses midiendo mis biomarcadores con [Oura Ring en Amazon](https://www.amazon.es/s?k=Oura+Ring&tag=vladys-21)(https://www.amazon.es) y suplementando con NMN, mi edad biológica bajó de 42 a 38 años (tengo 40 cronológicos). El cambio clave fue eliminar ultraprocesados y añadir 15 minutos diarios de sauna, que según estudios finlandeses reduce un 27% la mortalidad.
 
 ## Resumen Práctico
 1. Hazte un test epigenético a los 35 años (presupuesto $500-1,000).

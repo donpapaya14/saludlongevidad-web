@@ -46,8 +46,8 @@ Un microbioma intestinal saludable puede reducir el riesgo de enfermedades crón
 ## Suplementos probióticos y su eficacia
 Los suplementos probióticos pueden ser beneficiosos para mantener un microbioma intestinal saludable. Un estudio clínico publicado en la revista Journal of Clinical Gastroenterology (2019) encontró que los suplementos probióticos pueden reducir la inflamación y mejorar la función inmunológica en personas con enfermedades gastrointestinales. Algunos ejemplos de suplementos probióticos son:
 * Garden of Life RAW Probiotics
-* [Garden of Life RAW Probiotics en Amazon](https://www.amazon.com/s?k=Garden+of+Life+RAW+Probiotics&tag=vds96-20)
-* [Renew Life Ultimate Probiotics en Amazon](https://www.amazon.com/s?k=Renew+Life+Ultimate+Probiotics&tag=vds96-20)
+* [Garden of Life RAW Probiotics en Amazon](https://www.amazon.es/s?k=Garden+of+Life+RAW+Probiotics&tag=vladys-21)
+* [Renew Life Ultimate Probiotics en Amazon](https://www.amazon.es/s?k=Renew+Life+Ultimate+Probiotics&tag=vladys-21)
 
 ## Preguntas Frecuentes
 ### ¿Qué es el microbioma intestinal?

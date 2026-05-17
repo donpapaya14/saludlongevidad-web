@@ -59,7 +59,7 @@ Como desarrollador de apps y cocinero profesional, he estado interesado en la fi
 * La fisetina puede reducir los marcadores de senescencia y contribuir a la larga vida.
 * Es importante tener en cuenta las interacciones de la fisetina con anticoagulantes y otros medicamentos.
 * Se puede combinar la fisetina con quercetina o ejercicio de resistencia para potenciar sus efectos.
-* Se puede encontrar la fisetina en fuentes naturales como fresas y mangos, o en suplementos como [Fisetina 500mg con Quercetina (Life Extension)](https://www.amazon.com/Fisetina-500mg-Quercetina-Life-Extension/dp/B076MX9RYG/).
+* Se puede encontrar la fisetina en fuentes naturales como fresas y mangos, o en suplementos como [Fisetina 500mg con Quercetina (Life Extension)](https://www.amazon.es/Fisetina-500mg-Quercetina-Life-Extension/dp/B076MX9RYG/).
 
 
 ---

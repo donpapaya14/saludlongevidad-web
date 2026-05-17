@@ -60,7 +60,7 @@ El [Instituto Nacional de Salud (2020)](https://www.nih.gov/) vincula la privaci
 
 ## Suplementos y Terapias para el Sueño
 
-- **Melatonina de alta pureza** [ Melatonina 1.9mg en Amazon](https://www.amazon.com/s?k=+Melatonina+1.9mg&tag=vds96-20): Dosis efectiva según *Journal of Clinical Sleep Medicine* (2020) es 0.5-3mg, 30 min antes de dormir
+- **Melatonina de alta pureza** [ Melatonina 1.9mg en Amazon](https://www.amazon.es/s?k=+Melatonina+1.9mg&tag=vladys-21): Dosis efectiva según *Journal of Clinical Sleep Medicine* (2020) es 0.5-3mg, 30 min antes de dormir
 - **Terapia cognitivo-conductual**: Reduce el tiempo para conciliar el sueño en **21 minutos** según metaanálisis con 3,200 pacientes
 
 ## Preguntas Frecuentes
@@ -76,7 +76,7 @@ Sí, pero con límites: 20-30 minutos antes de las 15h. Investigación de la *NA
 
 ## Mi Experiencia
 
-Como desarrollador de apps, pasé años trabajando hasta altas horas con 4-5 horas de sueño. Noté cómo mi piel perdía elasticidad y cometía errores de código básicos. Al implementar **horarios estrictos de sueño** usando la app [Sleep Cycle](https://www.sleepcycle.com/), en 3 meses recuperé mi capacidad de concentración y reduje mis ojeras visiblemente. Ahora uso [ Máscara de sueño con seda en Amazon](https://www.amazon.com/s?k=+Máscara+de+sueño+con+seda&tag=vds96-20) para bloquear luz completamente - ¡cambió mi calidad de descanso!
+Como desarrollador de apps, pasé años trabajando hasta altas horas con 4-5 horas de sueño. Noté cómo mi piel perdía elasticidad y cometía errores de código básicos. Al implementar **horarios estrictos de sueño** usando la app [Sleep Cycle](https://www.sleepcycle.com/), en 3 meses recuperé mi capacidad de concentración y reduje mis ojeras visiblemente. Ahora uso [ Máscara de sueño con seda en Amazon](https://www.amazon.es/s?k=+Máscara+de+sueño+con+seda&tag=vladys-21) para bloquear luz completamente - ¡cambió mi calidad de descanso!
 
 ## Resumen Práctico
 

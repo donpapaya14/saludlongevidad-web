@@ -36,7 +36,7 @@ El **microbioma intestinal** juega un papel importante en nuestra salud. Un estu
 ## Solución práctica: el protocolo de 4 pasos
 Para recuperar horas de sueño perdido, se puede seguir un protocolo de 4 pasos:
 1. **Establecer un horario de sueño regular**
-2. **Crear un ambiente de sueño relajante**, como usar una [Máscara de sueño con luz roja THERABRIGHT](https://www.amazon.com/THERABRIGHT-M%C3%A1scara-Sue%C3%B1o-Luz-Roja/dp/B07B9R7RYG)
+2. **Crear un ambiente de sueño relajante**, como usar una [Máscara de sueño con luz roja THERABRIGHT](https://www.amazon.es/THERABRIGHT-M%C3%A1scara-Sue%C3%B1o-Luz-Roja/dp/B07B9R7RYG)
 3. **Evitar la estimulación antes de dormir**, como la luz azul de los dispositivos electrónicos
 4. **Incluir suplementos específicos**, como la melatonina o el valeriano
 
@@ -60,7 +60,7 @@ Como desarrollador de apps y cocinero profesional, he experimentado personalment
 ## Resumen Práctico
 Para resumir, aquí hay 6 puntos de acción concretos para mejorar tu sueño y reducir el envejecimiento celular:
 1. **Establece un horario de sueño regular**
-2. **Crea un ambiente de sueño relajante**, como usar una [Máscara de sueño con luz roja THERABRIGHT](https://www.amazon.com/THERABRIGHT-M%C3%A1scara-Sue%C3%B1o-Luz-Roja/dp/B07B9R7RYG)
+2. **Crea un ambiente de sueño relajante**, como usar una [Máscara de sueño con luz roja THERABRIGHT](https://www.amazon.es/THERABRIGHT-M%C3%A1scara-Sue%C3%B1o-Luz-Roja/dp/B07B9R7RYG)
 3. **Evita la estimulación antes de dormir**, como la luz azul de los dispositivos electrónicos
 4. **Incluye suplementos específicos**, como la melatonina o el valeriano
 5. **Reduce el estrés** y **practica la relajación**

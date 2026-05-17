@@ -53,7 +53,7 @@ La respuesta es **sí**. Sin embargo, es importante consultar con un médico ant
 La respuesta es **reducir el estrés y la ansiedad**. Un estudio publicado en la revista Journal of Psychosomatic Research (2019) encontró que el ejercicio regular puede reducir el estrés y la ansiedad en un **25%**.
 
 ### ¿Puedo hacer ejercicio en casa?
-La respuesta es **sí**. Puedes hacer ejercicio en casa con **equipos de ejercicio** como [pesas en Amazon](https://www.amazon.com/s?k=pesas&tag=vds96-20), [bandas de resistencia en Amazon](https://www.amazon.com/s?k=bandas+de+resistencia&tag=vds96-20) o [colchoneta de yoga en Amazon](https://www.amazon.com/s?k=colchoneta+de+yoga&tag=vds96-20).
+La respuesta es **sí**. Puedes hacer ejercicio en casa con **equipos de ejercicio** como [pesas en Amazon](https://www.amazon.es/s?k=pesas&tag=vladys-21), [bandas de resistencia en Amazon](https://www.amazon.es/s?k=bandas+de+resistencia&tag=vladys-21) o [colchoneta de yoga en Amazon](https://www.amazon.es/s?k=colchoneta+de+yoga&tag=vladys-21).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he encontrado que el ejercicio regular es fundamental para mantener la energía y la motivación. Me gusta **caminar** y **correr** en mi tiempo libre, y también disfruto de **hacer ejercicio en casa** con mis hijos. Recomiendo encontrar un ejercicio que te guste y hacerlo con regularidad para mantener la salud y la longevidad.
