@@ -52,7 +52,7 @@ La dieta antiinflamatoria puede reducir la inflamación crónica y promover la l
 ### ¿Cómo puedo incorporar la dieta antiinflamatoria en mi vida diaria?
 Para incorporar la dieta antiinflamatoria en la vida diaria, es importante planificar las comidas, elegir opciones de compra saludables y modificar la dieta según las necesidades individuales. La Academia de Nutrición y Dietética ofrece recursos y consejos para seguir una dieta saludable.
 ### ¿Qué suplementos puedo tomar para reducir la inflamación?
-El **Suplemento de omega-3** puede ser beneficioso para reducir la inflamación. También se pueden considerar otros suplementos como el **[Vitamina D en Amazon](https://www.amazon.es/s?k=Vitamina+D&tag=vladys-21)(https://www.amazon.es/)** y el **[Probióticos en Amazon](https://www.amazon.es/s?k=Probióticos&tag=vladys-21)(https://www.amazon.es/)**.
+El **Suplemento de omega-3** puede ser beneficioso para reducir la inflamación. También se pueden considerar otros suplementos como el **[Vitamina D en Amazon](https://www.amazon.es/s?k=Vitamina+D&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21)** y el **[Probióticos en Amazon](https://www.amazon.es/s?k=Probióticos&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21)**.
 ### ¿Cómo puedo mantener una buena salud en general?
 Para mantener una buena salud en general, es importante seguir una dieta equilibrada y variada, hacer ejercicio regularmente y dormir lo suficiente. La [Organización Mundial de la Salud](https://www.who.int/) ofrece consejos y recursos para mantener una buena salud.
 ### ¿Qué recursos puedo utilizar para aprender más sobre la dieta antiinflamatoria?
@@ -66,7 +66,7 @@ Para resumir, aquí hay 6 puntos de acción concretos para incorporar la dieta a
 1. **Planifica tus comidas**: incluye alimentos antiinflamatorios en tus comidas diarias
 2. **Elige opciones de compra saludables**: opta por alimentos frescos y naturales en lugar de procesados
 3. **Modifica tu dieta según tus necesidades individuales**: considera tus necesidades dietéticas personales y ajusta la dieta antiinflamatoria en consecuencia
-4. **Toma suplementos**: considera tomar suplementos como el **Suplemento de omega-3** y el **[Vitamina D en Amazon](https://www.amazon.es/s?k=Vitamina+D&tag=vladys-21)(https://www.amazon.es/)**
+4. **Toma suplementos**: considera tomar suplementos como el **Suplemento de omega-3** y el **[Vitamina D en Amazon](https://www.amazon.es/s?k=Vitamina+D&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21)**
 5. **Mantén una buena salud en general**: sigue una dieta equilibrada y variada, haz ejercicio regularmente y duerme lo suficiente
 6. **Aprende más**: utiliza recursos como la [Universidad de Harvard](https://www.harvard.edu/), la [Universidad de California](https://www.uc.edu/) y la Academia de Nutrición y Dietética para aprender más sobre la dieta antiinflamatoria
 

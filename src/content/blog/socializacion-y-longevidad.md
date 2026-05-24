@@ -37,7 +37,7 @@ En resumen, las **conexiones sociales** son fundamentales para nuestra salud y *
 
 ## Recursos adicionales para la construcción de conexiones sociales
 Para aquellos interesados en profundizar en el tema, se recomienda consultar:
-* [ El poder de las relaciones en Amazon](https://www.amazon.es/s?k=+El+poder+de+las+relaciones&tag=vladys-21)(https://www.amazon.com/)
+* [ El poder de las relaciones en Amazon](https://www.amazon.es/s?k=+El+poder+de+las+relaciones&tag=vladys-21)(https://www.amazon.com/?tag=vladys-21)
 * [OMS](https://www.who.int/)
 * [Universidad de Harvard](https://www.harvard.edu/)
 

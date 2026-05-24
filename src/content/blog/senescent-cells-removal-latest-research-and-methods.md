@@ -55,7 +55,7 @@ Puedes reducir la senescencia celular mediante la combinación de suplementos, e
 ### ¿Qué es la fisetina?
 La fisetina es un senolítico natural que puede eliminar células senescentes. Un estudio de la [Universidad de Illinois (2020)](https://www.illinois.edu/) encontró que la fisetina puede ser efectiva en la reducción de la carga senescente.
 ### ¿Dónde puedo comprar suplementos de fisetina?
-Puedes comprar suplementos de fisetina en [ Fisetin Supplement 100mg (Pure Encapsulations) en Amazon](https://www.amazon.es/s?k=+Fisetin+Supplement+100mg+(Pure+Encapsulations)&tag=vladys-21) o en otras tiendas en línea.
+Puedes comprar suplementos de fisetina en [ Fisetin Supplement 100mg (Pure Encapsulations) en Amazon](https://www.amazon.es/s?k=+Fisetin+Supplement+100mg+(Pure+Encapsulations&tag=vladys-21)&tag=vladys-21) o en otras tiendas en línea.
 ### ¿Qué otros productos pueden ser útiles?
 Otros productos que pueden ser útiles para reducir la senescencia celular son [ Quercetin 500mg en Amazon](https://www.amazon.es/s?k=+Quercetin+500mg&tag=vladys-21) y [ Resveratrol 100mg en Amazon](https://www.amazon.es/s?k=+Resveratrol+100mg&tag=vladys-21).
 ### ¿Es seguro tomar senolíticos?

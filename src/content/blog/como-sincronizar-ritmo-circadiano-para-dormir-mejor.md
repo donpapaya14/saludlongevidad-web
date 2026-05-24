@@ -70,7 +70,7 @@ La longevidad es la capacidad de vivir una vida larga y saludable. Un estudio de
 La neurociencia del sueño es el estudio de cómo funciona el cerebro durante el sueño. Un estudio del Dr. Samer Hattar (Johns Hopkins, 2020) encontró que la exposición a la luz azul puede influir en el sueño.
 
 ## Mi Experiencia
-Como desarrollador de apps y cocinero profesional, he encontrado que la sincronización del ritmo circadiano es crucial para mi salud y bienestar. He utilizado la [Lámpara de terapia de luz Verilux HappyLight](https://www.amazon.es/Verilux-HappyLight-Lux-Energy-Light/) para ayudar a regular mi ciclo de sueño-vigilia.
+Como desarrollador de apps y cocinero profesional, he encontrado que la sincronización del ritmo circadiano es crucial para mi salud y bienestar. He utilizado la [Lámpara de terapia de luz Verilux HappyLight](https://www.amazon.es/Verilux-HappyLight-Lux-Energy-Light/?tag=vladys-21) para ayudar a regular mi ciclo de sueño-vigilia.
 
 ## Resumen Práctico
 1. **Entender el SCN**: El SCN es una estructura hipotalámica que regula nuestros ciclos de sueño-vigilia.

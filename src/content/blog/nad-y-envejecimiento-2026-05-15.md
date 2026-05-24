@@ -100,7 +100,7 @@ A continuación, se presentan 8 puntos de acción concretos para mejorar la long
 2. **Considera la suplementación con NAD+**: La suplementación con NAD+ puede ser segura y efectiva si se sigue las recomendaciones adecuadas.
 3. **Consulta con un profesional de la salud**: Es importante consultar con un profesional de la salud antes de iniciar la suplementación con NAD+.
 4. **Elige un producto de alta calidad**: Es importante elegir un producto de alta calidad y seguir las recomendaciones del fabricante.
-5. **Incorpora el [NR (Nicotinamida Ribosida) de Thorne Research en Amazon](https://www.amazon.es/s?k=NR+(Nicotinamida+Ribosida)+de+Thorne+Research&tag=vladys-21) en tu rutina**: El NR es un precursor del NAD+ y puede ayudar a aumentar los niveles de NAD+.
+5. **Incorpora el [NR (Nicotinamida Ribosida) de Thorne Research en Amazon](https://www.amazon.es/s?k=NR+(Nicotinamida+Ribosida&tag=vladys-21)+de+Thorne+Research&tag=vladys-21) en tu rutina**: El NR es un precursor del NAD+ y puede ayudar a aumentar los niveles de NAD+.
 6. **Incorpora el [Vitamina D3 en Amazon](https://www.amazon.es/s?k=Vitamina+D3&tag=vladys-21) en tu rutina**: La vitamina D3 es importante para la absorción de calcio y puede ayudar a prevenir enfermedades relacionadas con la edad.
 7. **Realiza ejercicio regularmente**: El ejercicio regular puede ayudar a mejorar la función mitocondrial y aumentar los niveles de NAD+.
 8. **Mantén un peso saludable**: Mantener un peso saludable puede ayudar a reducir la inflamación y mejorar la función mitocondrial.

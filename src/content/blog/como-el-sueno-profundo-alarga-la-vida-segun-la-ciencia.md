@@ -57,7 +57,7 @@ Puedes mejorar la calidad de tu sueño estableciendo un horario de sueño regula
 El **sueño profundo** es una etapa del sueño en la que el cerebro se recupera y se repara. Es importante para la **longevidad** y la salud en general.
 
 ### ¿Qué dispositivos wearables son mejores para monitorear el sueño?
-Algunos de los dispositivos wearables más populares para monitorear el sueño son el [Oura Ring (anillo para seguimiento del sueño) en Amazon](https://www.amazon.es/s?k=Oura+Ring+(anillo+para+seguimiento+del+sueño)&tag=vladys-21), el Fitbit y el Garmin.
+Algunos de los dispositivos wearables más populares para monitorear el sueño son el [Oura Ring (anillo para seguimiento del sueño) en Amazon](https://www.amazon.es/s?k=Oura+Ring+(anillo+para+seguimiento+del+sueño&tag=vladys-21)&tag=vladys-21), el Fitbit y el Garmin.
 
 ### ¿Qué suplementos puedo tomar para mejorar el sueño?
 Puedes tomar suplementos de **magnesio** y **glicina** para mejorar la calidad del sueño y aumentar el **sueño profundo**.

@@ -38,7 +38,7 @@ Para incorporar la respiración consciente en la vida diaria, se pueden seguir e
 3. Incluya la respiración consciente en la **rutina diaria**, como al despertar o antes de acostarse.
 
 ## Conclusión y recursos adicionales
-La respiración consciente puede ser una herramienta poderosa para promover la **salud mental** y la **longevidad**. Para aprender más sobre la respiración consciente y cómo incorporarla en la vida diaria, se pueden consultar recursos como el sitio web de la [Asociación Americana de Respiración](https://www.americanlungassociation.org/) o el [Libro de Andrew Weil sobre respiración consciente](https://www.amazon.com/). También se pueden encontrar productos complementarios, como [bolígrafo de meditación en Amazon](https://www.amazon.es/s?k=bolígrafo+de+meditación&tag=vladys-21) o [almohada de meditación en Amazon](https://www.amazon.es/s?k=almohada+de+meditación&tag=vladys-21).
+La respiración consciente puede ser una herramienta poderosa para promover la **salud mental** y la **longevidad**. Para aprender más sobre la respiración consciente y cómo incorporarla en la vida diaria, se pueden consultar recursos como el sitio web de la [Asociación Americana de Respiración](https://www.americanlungassociation.org/) o el [Libro de Andrew Weil sobre respiración consciente](https://www.amazon.com/?tag=vladys-21). También se pueden encontrar productos complementarios, como [bolígrafo de meditación en Amazon](https://www.amazon.es/s?k=bolígrafo+de+meditación&tag=vladys-21) o [almohada de meditación en Amazon](https://www.amazon.es/s?k=almohada+de+meditación&tag=vladys-21).
 
 ## Preguntas Frecuentes
 ### ¿Qué es la respiración consciente?
@@ -52,7 +52,7 @@ El nervio vago es el décimo par de nervios craneales y se extiende desde el cer
 ### ¿Qué tipo de respiración es más efectiva para activar el nervio vago?
 La respiración diafragmática es una técnica específica de respiración que puede ayudar a activar el nervio vago y promover la relajación y la reducción del estrés.
 ### ¿Dónde puedo encontrar más información sobre la respiración consciente?
-Se pueden consultar recursos como el sitio web de la [Asociación Americana de Respiración](https://www.americanlungassociation.org/) o el [Libro de Andrew Weil sobre respiración consciente](https://www.amazon.com/).
+Se pueden consultar recursos como el sitio web de la [Asociación Americana de Respiración](https://www.americanlungassociation.org/) o el [Libro de Andrew Weil sobre respiración consciente](https://www.amazon.com/?tag=vladys-21).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he encontrado que la respiración consciente es una herramienta poderosa para reducir el estrés y promover la relajación. He incorporado la respiración consciente en mi vida diaria, practicándola durante el trabajo y en momentos de estrés. He notado una gran diferencia en mi nivel de estrés y mi capacidad para manejar situaciones difíciles.
@@ -62,7 +62,7 @@ Como desarrollador de apps y cocinero profesional, he encontrado que la respirac
 2. La respiración diafragmática es una técnica específica de respiración que puede ayudar a activar el nervio vago.
 3. Se puede incorporar la respiración consciente en la vida diaria practicándola durante el trabajo, en momentos de estrés o en la rutina diaria.
 4. La respiración consciente puede mejorar la función cardiovascular y aumentar la producción de antioxidantes.
-5. Se pueden consultar recursos como el sitio web de la [Asociación Americana de Respiración](https://www.americanlungassociation.org/) o el [Libro de Andrew Weil sobre respiración consciente](https://www.amazon.com/).
+5. Se pueden consultar recursos como el sitio web de la [Asociación Americana de Respiración](https://www.americanlungassociation.org/) o el [Libro de Andrew Weil sobre respiración consciente](https://www.amazon.com/?tag=vladys-21).
 6. La respiración consciente es una herramienta poderosa para promover la salud mental y la longevidad.
 7. Se pueden encontrar productos complementarios, como [bolígrafo de meditación en Amazon](https://www.amazon.es/s?k=bolígrafo+de+meditación&tag=vladys-21) o [almohada de meditación en Amazon](https://www.amazon.es/s?k=almohada+de+meditación&tag=vladys-21).
 8. La respiración consciente puede ser practicada en cualquier lugar y en cualquier momento.

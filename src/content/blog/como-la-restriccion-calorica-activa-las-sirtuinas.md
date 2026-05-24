@@ -58,7 +58,7 @@ Los beneficios de la restricción calórica incluyen la reducción del riesgo de
 Para implementar la restricción calórica de manera segura y efectiva, es importante seguir algunos consejos prácticos, como reducir la ingesta calórica en un 20-30% en comparación con la ingesta calórica habitual, aumentar la ingesta de nutrientes esenciales y consultar con un profesional de la salud antes de iniciar cualquier programa de restricción calórica.
 
 ### ¿Qué libros puedo leer para aprender más sobre la restricción calórica y la longevidad?
-Algunos libros que puedes leer para aprender más sobre la restricción calórica y la longevidad incluyen [The Longevity Diet: Discover the New Science Behind Aging, Diet, and Longevity](https://www.amazon.com/Longevity-Diet-Discover-Science-Behind/dp/1524760128) y [ Blue Zones Kitchen en Amazon](https://www.amazon.es/s?k=+Blue+Zones+Kitchen&tag=vladys-21). Estos libros ofrecen información valiosa sobre la restricción calórica y la longevidad, y pueden ser una excelente fuente de inspiración para aquellos que buscan mejorar su salud y bienestar.
+Algunos libros que puedes leer para aprender más sobre la restricción calórica y la longevidad incluyen [The Longevity Diet: Discover the New Science Behind Aging, Diet, and Longevity](https://www.amazon.com/Longevity-Diet-Discover-Science-Behind/dp/1524760128?tag=vladys-21) y [ Blue Zones Kitchen en Amazon](https://www.amazon.es/s?k=+Blue+Zones+Kitchen&tag=vladys-21). Estos libros ofrecen información valiosa sobre la restricción calórica y la longevidad, y pueden ser una excelente fuente de inspiración para aquellos que buscan mejorar su salud y bienestar.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he tenido la oportunidad de experimentar con diferentes dietas y estrategias de salud. La restricción calórica ha sido una de las estrategias más efectivas que he encontrado para mejorar mi salud y bienestar. Sin embargo, es importante recordar que la restricción calórica no es para todos, y es importante consultar con un profesional de la salud antes de iniciar cualquier programa de restricción calórica.
@@ -70,7 +70,7 @@ A continuación, te presento algunos puntos de acción concretos que puedes segu
 3. **Incluir alimentos ricos en antioxidantes**, como las frutas y las verduras, en la dieta.
 4. **Evitar la restricción calórica extrema**, ya que puede ser perjudicial para la salud.
 5. **Consultar con un profesional de la salud** antes de iniciar cualquier programa de restricción calórica.
-6. **Leer libros y artículos** sobre la restricción calórica y la longevidad, como [The Longevity Diet: Discover the New Science Behind Aging, Diet, and Longevity](https://www.amazon.com/Longevity-Diet-Discover-Science-Behind/dp/1524760128) y [ Blue Zones Kitchen en Amazon](https://www.amazon.es/s?k=+Blue+Zones+Kitchen&tag=vladys-21).
+6. **Leer libros y artículos** sobre la restricción calórica y la longevidad, como [The Longevity Diet: Discover the New Science Behind Aging, Diet, and Longevity](https://www.amazon.com/Longevity-Diet-Discover-Science-Behind/dp/1524760128?tag=vladys-21) y [ Blue Zones Kitchen en Amazon](https://www.amazon.es/s?k=+Blue+Zones+Kitchen&tag=vladys-21).
 7. **Unirse a comunidades en línea** para conectarse con otras personas que están interesadas en la restricción calórica y la longevidad.
 8. **Buscar apoyo** de amigos y familiares para ayudarte a mantener tu programa de restricción calórica.
 

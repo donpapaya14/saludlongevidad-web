@@ -53,7 +53,7 @@ Como desarrollador de apps y cocinero profesional, he encontrado que la respirac
 1. Practica la meditación regularmente.
 2. Respira profundamente a través del diafragma varias veces al día.
 3. Incorpora técnicas de respiración en tu rutina diaria.
-4. Lee [Respiración Consciente: Una Guía para la Salud y la Longevidad](https://www.amazon.com/Respiración-Consciente-Guía-Salud-Longevidad/dp/1234567890) para aprender más sobre la respiración consciente.
+4. Lee [Respiración Consciente: Una Guía para la Salud y la Longevidad](https://www.amazon.com/Respiración-Consciente-Guía-Salud-Longevidad/dp/1234567890?tag=vladys-21) para aprender más sobre la respiración consciente.
 5. Considera comprar [Respiración Consciente: Una Guía para la Salud y la Longevidad en Amazon](https://www.amazon.es/s?k=Respiración+Consciente:+Una+Guía+para+la+Salud+y+la+Longevidad&tag=vladys-21) y [Meditación para Principiantes en Amazon](https://www.amazon.es/s?k=Meditación+para+Principiantes&tag=vladys-21) para mejorar tu práctica de la respiración consciente.
 6. Visita [OMS](https://www.who.int/) y [Universidad de Harvard](https://www.harvard.edu/) para obtener más información sobre la respiración consciente y la longevidad.
 7. Practica la respiración alternada y la respiración diafragmática para mejorar tu función cardiovascular.

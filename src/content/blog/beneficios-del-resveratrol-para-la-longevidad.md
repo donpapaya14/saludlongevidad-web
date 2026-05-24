@@ -48,7 +48,7 @@ La dosis recomendada de resveratrol varía según la forma de suplemento y la co
 ### ¿Puedo tomar resveratrol con otros medicamentos?
 Es importante consultar con un profesional de la salud antes de tomar resveratrol con otros medicamentos, ya que puede interactuar con ciertos medicamentos.
 ### ¿Dónde puedo comprar suplementos de resveratrol?
-Puedes encontrar suplementos de resveratrol en tiendas de salud y en línea, como [ Nature Made Resveratrol 500 mg 120 tablets en Amazon](https://www.amazon.es/s?k=+Nature+Made+Resveratrol+500+mg+120+tablets&tag=vladys-21)(https://www.amazon.es/).
+Puedes encontrar suplementos de resveratrol en tiendas de salud y en línea, como [ Nature Made Resveratrol 500 mg 120 tablets en Amazon](https://www.amazon.es/s?k=+Nature+Made+Resveratrol+500+mg+120+tablets&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas de mejorar mi salud y bienestar. Descubrí el resveratrol hace unos años y decidí probarlo. Me sorprendió lo bien que me sentí después de tomarlo durante un mes. Mi energía aumentó y mi piel se veía más saludable.
@@ -60,7 +60,7 @@ Aquí hay algunos puntos de acción concretos para incorporar el resveratrol en 
 3. **Combina el resveratrol con una dieta equilibrada** y un estilo de vida saludable.
 4. **Lee las etiquetas** y busca suplementos que contengan ingredientes naturales.
 5. **No excedas la dosis recomendada** y sigue las instrucciones del fabricante.
-6. **Considera combinar el resveratrol con otros suplementos**, como [ Omega-3 en Amazon](https://www.amazon.es/s?k=+Omega-3&tag=vladys-21)(https://www.amazon.es/), para mejorar tu salud en general.
+6. **Considera combinar el resveratrol con otros suplementos**, como [ Omega-3 en Amazon](https://www.amazon.es/s?k=+Omega-3&tag=vladys-21)(https://www.amazon.es/?tag=vladys-21), para mejorar tu salud en general.
 7. **Mantén un registro** de tus progresos y ajusta tu rutina según sea necesario.
 8. **Investiga y educa** sobre los beneficios y posibles efectos secundarios del resveratrol.
 

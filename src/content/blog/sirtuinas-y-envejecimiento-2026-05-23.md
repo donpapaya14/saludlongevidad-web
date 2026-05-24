@@ -54,7 +54,7 @@ Algunos alimentos ricos en resveratrol incluyen uvas, nueces, cacao, berries y p
 ### ¿Qué es el NMN?
 El NMN es un compuesto que se encuentra en algunos alimentos y suplementos. Según la [Universidad de Stanford](https://www.stanford.edu), el NMN puede ayudar a activar las sirtuinas y retrasar el envejecimiento celular.
 ### ¿Cuánto cuesta el suplemento de resveratrol?
-El costo del suplemento de resveratrol varía según la marca y la calidad. Puedes encontrar opciones como el [Resveratrol Suplemento](https://www.amazon.com) en Amazon.
+El costo del suplemento de resveratrol varía según la marca y la calidad. Puedes encontrar opciones como el [Resveratrol Suplemento](https://amazon.es/?tag=vladys-21) en Amazon.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas de mejorar mi salud y bienestar. Después de investigar sobre las sirtuinas y su papel en la regulación del envejecimiento celular, decidí incorporar alimentos ricos en resveratrol en mi dieta y practicar la restricción calórica de forma moderada. También suplemento con NMN y NAD+ bajo la supervisión de un profesional de la salud. Me siento más energizado y enfocado, y creo que esto se debe en parte a la activación de las sirtuinas.
@@ -66,7 +66,7 @@ Para activar las sirtuinas y retrasar el envejecimiento celular, sigue estos pas
 3. **Suplementa con NMN o NAD+** bajo la supervisión de un profesional de la salud.
 4. **Realiza ejercicio físico regular** para aumentar la expresión de las sirtuinas.
 5. **Duerme lo suficiente** para permitir que tus células se recuperen y se renueven.
-6. **Considera agregar** [Resveratrol Suplemento](https://www.amazon.com) a tu rutina diaria.
+6. **Considera agregar** [Resveratrol Suplemento](https://amazon.es/?tag=vladys-21) a tu rutina diaria.
 7. **Consulta con un profesional de la salud** antes de iniciar cualquier suplemento o programa de restricción calórica.
 8. **Mantén un registro** de tus progresos y ajusta tu plan según sea necesario.
 

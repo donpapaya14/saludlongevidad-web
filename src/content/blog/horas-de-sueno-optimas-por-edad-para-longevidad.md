@@ -97,7 +97,7 @@ Aquí te presento 6 puntos de acción concretos para mejorar tu sueño y aumenta
 
 *Este artículo contiene enlaces de afiliado. Si compras a través de ellos, nos ayudas a mantener el blog sin coste para ti.*
 
-- [Oura Ring (3ª generación)](https://www.amazon.es/s?k=Oura+Ring+(3ª+generación)&tag=vladys-21)
+- [Oura Ring (3ª generación)](https://www.amazon.es/s?k=Oura+Ring+(3ª+generación&tag=vladys-21)&tag=vladys-21)
 - [Whoop](https://www.amazon.es/s?k=Whoop&tag=vladys-21)
 
 

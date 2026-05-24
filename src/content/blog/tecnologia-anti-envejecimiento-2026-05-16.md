@@ -50,7 +50,7 @@ La **medicina regenerativa** es un campo que busca reparar o reemplazar tejidos 
 ### ¿Qué es la senolisis?
 La **senolisis** es una tecnología que busca eliminar las células senescentes. Según un informe de la Fundación de Investigación sobre el Envejecimiento, en 2022, la senolisis tiene un gran potencial para mejorar la longevidad y la salud.
 ### ¿Qué es el Suplemento de NAD+ para la longevidad?
-El [Suplemento de NAD+ para la longevidad](https://www.amazon.com/) es un producto que busca mejorar la longevidad y la salud. También se pueden considerar productos complementarios como [Vitaminas y Minerales](https://www.amazon.com/) y [Probióticos](https://www.amazon.com/).
+El [Suplemento de NAD+ para la longevidad](https://www.amazon.com/?tag=vladys-21) es un producto que busca mejorar la longevidad y la salud. También se pueden considerar productos complementarios como [Vitaminas y Minerales](https://www.amazon.com/?tag=vladys-21) y [Probióticos](https://www.amazon.com/?tag=vladys-21).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he siempre estado interesado en la **tecnología anti-envejecimiento**. He encontrado que seguir una **dieta equilibrada** y realizar **ejercicio regular** pueden tener un impacto significativo en la **longevidad** y la **salud**. También he descubierto que la **meditación** y el **yoga** pueden ser herramientas efectivas para reducir el **estrés** y mejorar la calidad de vida.

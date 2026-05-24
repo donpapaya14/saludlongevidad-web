@@ -85,7 +85,7 @@ Como desarrollador de apps y cocinero profesional, he encontrado que el ejercici
 * Utiliza equipo de seguridad.
 * Consulta con un profesional de la salud antes de empezar cualquier programa de ejercicio.
 * Visita la [OMS](https://www.who.int/) y la Academia Americana de Medicina del Deporte para más información sobre el ejercicio de fuerza.
-* Considera comprar [Optimum Nutrition Proteína en Polvo](https://www.amazon.com/Optimum-Nutrition-Gold-Standard-Protein/dp/B000QSNYGI) y otros productos complementarios en [Amazon](https://www.amazon.com/).
+* Considera comprar [Optimum Nutrition Proteína en Polvo](https://www.amazon.com/Optimum-Nutrition-Gold-Standard-Protein/dp/B000QSNYGI?tag=vladys-21) y otros productos complementarios en [Amazon](https://www.amazon.com/?tag=vladys-21).
    
 
 

@@ -63,7 +63,7 @@ El consumo de **polifenoles** puede ser beneficioso para la salud, pero es impor
 * 3 consejos para seguir un protocolo óptimo:
   1. **Consumir 250-500 mg de polifenoles al día**: optar por alimentos ricos en polifenoles como el vino tinto, las frutas y las verduras.
   2. **Combinar con alimentos ricos en grasas**: consumir polifenoles con alimentos ricos en grasas como el aceite de oliva o los frutos secos.
-  3. **Elegir suplementos de alta calidad**: optar por suplementos de polifenoles de alta calidad como el [Suplemento de Resveratrol Pure Encapsulations](https://www.amazon.com/Resveratrol-Supplement-Pure-Encapsulations/dp/B000GFHPFW).
+  3. **Elegir suplementos de alta calidad**: optar por suplementos de polifenoles de alta calidad como el [Suplemento de Resveratrol Pure Encapsulations](https://www.amazon.com/Resveratrol-Supplement-Pure-Encapsulations/dp/B000GFHPFW?tag=vladys-21).
 
 ## Preguntas Frecuentes
 ### ¿Cuánto vino tinto debo beber al día para obtener beneficios para la salud?
@@ -90,12 +90,12 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 ## Resumen Práctico
 * Consumir 250-500 mg de polifenoles al día
 * Combinar polifenoles con alimentos ricos en grasas
-* Elegir suplementos de alta calidad como el [Suplemento de Resveratrol Pure Encapsulations](https://www.amazon.com/Resveratrol-Supplement-Pure-Encapsulations/dp/B000GFHPFW)
+* Elegir suplementos de alta calidad como el [Suplemento de Resveratrol Pure Encapsulations](https://www.amazon.com/Resveratrol-Supplement-Pure-Encapsulations/dp/B000GFHPFW?tag=vladys-21)
 * Beber vino tinto con moderación (1-2 copas al día para hombres y 1 copa al día para mujeres)
 * Alternar con días de abstinencia
 * Consultar con un médico antes de tomar suplementos de polifenoles
 * Incorporar alimentos ricos en polifenoles en la dieta
-* Considerar la compra de [Suplemento de Resveratrol Pure Encapsulations](https://www.amazon.com/Resveratrol-Supplement-Pure-Encapsulations/dp/B000GFHPFW) o [Vino Tinto Malbec](https://www.amazon.com/Malbec-Wine-Red/dp/B07B9R7RYG) en Amazon
+* Considerar la compra de [Suplemento de Resveratrol Pure Encapsulations](https://www.amazon.com/Resveratrol-Supplement-Pure-Encapsulations/dp/B000GFHPFW?tag=vladys-21) o [Vino Tinto Malbec](https://www.amazon.com/Malbec-Wine-Red/dp/B07B9R7RYG?tag=vladys-21) en Amazon
 
 
 ---

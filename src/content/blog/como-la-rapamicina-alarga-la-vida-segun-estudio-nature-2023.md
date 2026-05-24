@@ -51,7 +51,7 @@ Sí, existen compuestos naturales que pueden modular la vía **mTOR**, como la *
 ### ¿Qué es el RTB101?
 El **RTB101** es un análogo de **rapamicina** más seguro que está siendo desarrollado para minimizar los efectos adversos mientras mantiene los beneficios anti-envejecimiento.
 ### ¿Dónde puedo comprar rapamicina?
-La **rapamicina** está disponible en algunas tiendas en línea, como [ Rapamycin Sirolimus 1mg (solo para investigación, no consumo humano) en Amazon](https://www.amazon.es/s?k=+Rapamycin+Sirolimus+1mg+(solo+para+investigación,+no+consumo+humano)&tag=vladys-21)(https://www.amazon.com/). También se puede encontrar en algunas tiendas especializadas en productos para la investigación.
+La **rapamicina** está disponible en algunas tiendas en línea, como [ Rapamycin Sirolimus 1mg (solo para investigación, no consumo humano) en Amazon](https://www.amazon.es/s?k=+Rapamycin+Sirolimus+1mg+(solo+para+investigación,+no+consumo+humano&tag=vladys-21)&tag=vladys-21)(https://www.amazon.com/?tag=vladys-21). También se puede encontrar en algunas tiendas especializadas en productos para la investigación.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas de mejorar mi salud y bienestar. La **rapamicina** me ha llamado la atención debido a sus propiedades anti-envejecimiento. Aunque todavía hay mucho que aprender sobre este fármaco, creo que es importante considerar las opciones naturales y los análogos más seguros que están siendo desarrollados.
@@ -62,7 +62,7 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 3. Es importante evaluar cuidadosamente los riesgos y beneficios de la **rapamicina** antes de su uso en humanos.
 4. Existem compuestos naturales que pueden modular la vía **mTOR**, como la **curcumina** y el **resveratrol**.
 5. El **RTB101** es un análogo de **rapamicina** más seguro que está siendo desarrollado para minimizar los efectos adversos mientras mantiene los beneficios anti-envejecimiento.
-6. La **rapamicina** está disponible en algunas tiendas en línea, como [ Rapamycin Sirolimus 1mg (solo para investigación, no consumo humano) en Amazon](https://www.amazon.es/s?k=+Rapamycin+Sirolimus+1mg+(solo+para+investigación,+no+consumo+humano)&tag=vladys-21)(https://www.amazon.com/).
+6. La **rapamicina** está disponible en algunas tiendas en línea, como [ Rapamycin Sirolimus 1mg (solo para investigación, no consumo humano) en Amazon](https://www.amazon.es/s?k=+Rapamycin+Sirolimus+1mg+(solo+para+investigación,+no+consumo+humano&tag=vladys-21)&tag=vladys-21)(https://www.amazon.com/?tag=vladys-21).
 7. Es importante considerar las opciones naturales y los análogos más seguros que están siendo desarrollados.
 8. La **rapamicina** puede ser utilizada en combinación con otros compuestos para mejorar su eficacia y seguridad.
 

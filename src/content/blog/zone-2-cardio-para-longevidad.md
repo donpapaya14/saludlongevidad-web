@@ -70,13 +70,13 @@ Sí, puedes combinar el entrenamiento de zona 2 con otros ejercicios, como entre
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he encontrado que el entrenamiento de zona 2 es una forma efectiva de mejorar mi función cardíaca y aumentar mi longevidad celular. Me gusta combinar el entrenamiento de zona 2 con otros ejercicios, como entrenamiento de fuerza y entrenamiento de flexibilidad.
 He notado una mejora significativa en mi función cardíaca y una reducción en el estrés oxidativo. Recomiendo el entrenamiento de zona 2 a cualquier persona que busque mejorar su salud y bienestar.
-Me gusta usar el [Garmin Vivosport 4, un reloj inteligente con funciones de entrenamiento de zona 2](https://www.amazon.com/Garmin-Vivosport-Smartwatch-Black) para monitorear mi progreso y ajustar mi plan de entrenamiento según sea necesario.
+Me gusta usar el [Garmin Vivosport 4, un reloj inteligente con funciones de entrenamiento de zona 2](https://www.amazon.com/Garmin-Vivosport-Smartwatch-Black?tag=vladys-21) para monitorear mi progreso y ajustar mi plan de entrenamiento según sea necesario.
 
 ## Resumen Práctico
 Para resumir, aquí hay 6 puntos de acción concretos para incorporar el entrenamiento de zona 2 en tu rutina:
 1. **Comienza con ejercicios para principiantes**: caminata, correr, nadar, ciclismo.
 2. **Integra el entrenamiento de zona 2 con otros ejercicios**: entrenamiento de fuerza, entrenamiento de flexibilidad.
-3. **Monitorea tu progreso**: usa un reloj inteligente como el [Garmin Vivosport 4](https://www.amazon.com/Garmin-Vivosport-Smartwatch-Black) para monitorear tu frecuencia cardíaca y ajustar tu plan de entrenamiento según sea necesario.
+3. **Monitorea tu progreso**: usa un reloj inteligente como el [Garmin Vivosport 4](https://www.amazon.com/Garmin-Vivosport-Smartwatch-Black?tag=vladys-21) para monitorear tu frecuencia cardíaca y ajustar tu plan de entrenamiento según sea necesario.
 4. **Consulta con un médico**: especialmente si tienes alguna condición médica.
 5. **Combina el entrenamiento de zona 2 con una dieta saludable**: come alimentos ricos en nutrientes y evita los alimentos procesados.
 6. **Sé consistente**: entrenamiento de zona 2 durante 30-45 minutos, 3-4 veces a la semana.

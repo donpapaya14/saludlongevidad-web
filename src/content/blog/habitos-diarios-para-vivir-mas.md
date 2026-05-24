@@ -46,7 +46,7 @@ En resumen, **hábitos diarios para longevidad** incluyen meditación, apego soc
 
 ## Recursos adicionales
 Para aprender más sobre **hábitos diarios para longevidad**, consulta estos recursos:
-* [Mindfulness: Una guía práctica para reducir el estrés y aumentar la felicidad](https://www.amazon.es/Mindfulness-Gu%C3%ADa-Pr%C3%A1ctica-Reducir-Estr%C3%A9s/dp/1234567890)
+* [Mindfulness: Una guía práctica para reducir el estrés y aumentar la felicidad](https://www.amazon.es/Mindfulness-Gu%C3%ADa-Pr%C3%A1ctica-Reducir-Estr%C3%A9s/dp/1234567890?tag=vladys-21)
 * [ El poder del ahora en Amazon](https://www.amazon.es/s?k=+El+poder+del+ahora&tag=vladys-21)
 * [ La dieta del Mediterráneo en Amazon](https://www.amazon.es/s?k=+La+dieta+del+Mediterráneo&tag=vladys-21)
 

@@ -61,7 +61,7 @@ Sí, es importante la supervisión médica durante el entrenamiento de fuerza, e
 Puedes encontrar más información sobre el entrenamiento de fuerza para la longevidad en la [OMS](https://www.who.int/) o en la [Universidad de Harvard](https://www.harvard.edu/).
 
 ### ¿Qué libro recomiendas para aprender más sobre el entrenamiento de fuerza para la longevidad?
-Recomiendo el [Libro 'Entrenamiento de fuerza para la longevidad' de Dr. Michael Mosley](https://www.amazon.com/).
+Recomiendo el [Libro 'Entrenamiento de fuerza para la longevidad' de Dr. Michael Mosley](https://www.amazon.com/?tag=vladys-21).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he visto los beneficios del entrenamiento de fuerza en mi propia vida. He notado una mejora en mi función muscular y ósea, lo que me ha permitido mantener una vida activa y saludable.
@@ -77,7 +77,7 @@ En mi experiencia, el entrenamiento de fuerza es una estrategia clave para mejor
 4. **Incluye ejercicios de fuerza** como el entrenamiento con pesas y bandas de resistencia.
 5. **Supervisa tu progreso** y ajusta el entrenamiento según sea necesario.
 6. **Mantén una vida activa y saludable** para mejorar la longevidad y reducir el riesgo de enfermedades crónicas.
-7. **Lee el [Libro 'Entrenamiento de fuerza para la longevidad' de Dr. Michael Mosley](https://www.amazon.com/)** para obtener más información.
+7. **Lee el [Libro 'Entrenamiento de fuerza para la longevidad' de Dr. Michael Mosley](https://www.amazon.com/?tag=vladys-21)** para obtener más información.
 8. **Visita la [OMS](https://www.who.int/) o la [Universidad de Harvard](https://www.harvard.edu/)** para obtener más recursos y información.
 
 

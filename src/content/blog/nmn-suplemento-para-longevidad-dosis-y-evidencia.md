@@ -52,7 +52,7 @@ Un estudio de seguridad a largo plazo encontró que el NMN es seguro, con solo e
 ### ¿Puedo tomar NMN con otros suplementos?
 Se debe tener precaución al combinar NMN con otros suplementos, especialmente aquellos que afecten la función hormonal.
 ### ¿Dónde puedo comprar NMN de alta calidad?
-Puedes encontrar NMN de alta calidad en [ NMN Suplemento 500 mg con Resveratrol (marca ProHealth Longevity) en Amazon](https://www.amazon.es/s?k=+NMN+Suplemento+500+mg+con+Resveratrol+(marca+ProHealth+Longevity)&tag=vladys-21).
+Puedes encontrar NMN de alta calidad en [ NMN Suplemento 500 mg con Resveratrol (marca ProHealth Longevity) en Amazon](https://www.amazon.es/s?k=+NMN+Suplemento+500+mg+con+Resveratrol+(marca+ProHealth+Longevity&tag=vladys-21)&tag=vladys-21).
 ### ¿Cuál es el efecto del NMN en la salud cardiovascular?
 Un meta-análisis encontró que el NMN mejora la función vascular y reduce los biomarcadores inflamatorios.
 ### ¿Puedo tomar NMN si tengo cáncer?
@@ -67,7 +67,7 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 - Tomar NMN en ayunas o con grasas para mejorar la absorción.
 - Evitar tomar NMN con carbohidratos.
 - Consultar con un médico antes de tomar NMN, especialmente si se tiene cáncer hormonodependiente.
-- Comprar NMN de alta calidad en [ NMN Suplemento 500 mg con Resveratrol (marca ProHealth Longevity) en Amazon](https://www.amazon.es/s?k=+NMN+Suplemento+500+mg+con+Resveratrol+(marca+ProHealth+Longevity)&tag=vladys-21).
+- Comprar NMN de alta calidad en [ NMN Suplemento 500 mg con Resveratrol (marca ProHealth Longevity) en Amazon](https://www.amazon.es/s?k=+NMN+Suplemento+500+mg+con+Resveratrol+(marca+ProHealth+Longevity&tag=vladys-21)&tag=vladys-21).
 - Seguir un protocolo de alimentación saludable y hacer ejercicio regularmente.
 
 

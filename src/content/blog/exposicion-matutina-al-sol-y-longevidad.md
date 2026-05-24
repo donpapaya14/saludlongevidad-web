@@ -57,14 +57,14 @@ Las gafas de sol pueden ser beneficiosas para proteger nuestros ojos del sol, pe
 
 1. Evitar el uso de gafas de sol durante la mañana
 2. Utilizar gafas de sol que permitan la luz azul
-3. Considerar la compra de una [Luz de terapia diurna Verilux HappyLight](https://www.amazon.com/Luz-terapia-diurna-Verilux-HappyLight)
+3. Considerar la compra de una [Luz de terapia diurna Verilux HappyLight](https://www.amazon.com/Luz-terapia-diurna-Verilux-HappyLight?tag=vladys-21)
 
 ## Preguntas Frecuentes
 ### ¿Cuánto tiempo debo exponerme al sol por la mañana?
 La exposición a la luz solar durante 30 minutos al día es suficiente para obtener beneficios para la salud. Sin embargo, es importante recordar que la exposición excesiva al sol puede ser perjudicial, por lo que es importante tomar medidas de protección, como el uso de protector solar y ropa de protección.
 
 ### ¿Qué tipo de gafas de sol debo utilizar por la mañana?
-Es importante evitar el uso de gafas de sol que bloqueen la luz azul por la mañana, ya que esto puede reducir la producción de melatonina nocturna. En su lugar, podemos utilizar gafas de sol que permitan la luz azul o considerar la compra de una [Luz de terapia diurna Verilux HappyLight](https://www.amazon.com/Luz-terapia-diurna-Verilux-HappyLight).
+Es importante evitar el uso de gafas de sol que bloqueen la luz azul por la mañana, ya que esto puede reducir la producción de melatonina nocturna. En su lugar, podemos utilizar gafas de sol que permitan la luz azul o considerar la compra de una [Luz de terapia diurna Verilux HappyLight](https://www.amazon.com/Luz-terapia-diurna-Verilux-HappyLight?tag=vladys-21).
 
 ### ¿Cómo puedo aumentar mis niveles de vitamina D?
 Para aumentar nuestros niveles de vitamina D, podemos exponernos a la luz solar durante 10-15 minutos al día, consumir alimentos ricos en vitamina D, como el pescado y los productos lácteos, o considerar suplementos de vitamina D.
@@ -87,7 +87,7 @@ Como desarrollador de apps y cocinero profesional, he encontrado que la exposici
 3. Realizar actividades al aire libre por la mañana
 4. Aumentar los niveles de vitamina D a través de la exposición solar, la dieta o los suplementos
 5. Sincronizar el reloj biológico estableciendo un horario de sueño regular y evitando la luz azul antes de dormir
-6. Considerar la compra de una [Luz de terapia diurna Verilux HappyLight](https://www.amazon.com/Luz-terapia-diurna-Verilux-HappyLight) o de un [Reloj de luz solar](https://www.amazon.com/Reloj-luz-solar)
+6. Considerar la compra de una [Luz de terapia diurna Verilux HappyLight](https://www.amazon.com/Luz-terapia-diurna-Verilux-HappyLight?tag=vladys-21) o de un [Reloj de luz solar](https://www.amazon.com/Reloj-luz-solar?tag=vladys-21)
 7. Incorporar la exposición matutina al sol en la rutina diaria para mejorar la salud y el bienestar
 8. Consultar con un profesional de la salud antes de iniciar cualquier nuevo hábito o suplemento
 

@@ -53,7 +53,7 @@ Las telomerasas juegan un papel crucial en la **longevidad** al mantener la inte
 ### ¿Qué suplementos pueden aumentar la actividad de las telomerasas?
 Existen varios suplementos que pueden aumentar la actividad de las telomerasas, incluyendo la **quercetina** y el **ácido hialurónico**. Un estudio de la [Universidad de Tokio (2016)](https://www.u-tokyo.ac.jp/) encontró que la quercetina puede aumentar la actividad de las telomerasas en un 30%.
 ### ¿Cómo puedo comprar suplementos que contengan telomerasas?
-Puede comprar suplementos que contengan telomerasas en tiendas en línea como Amazon, donde puede encontrar productos como [Now Foods Telomere Support](https://www.amazon.com/Now-Foods-Telomere-Support).
+Puede comprar suplementos que contengan telomerasas en tiendas en línea como Amazon, donde puede encontrar productos como [Now Foods Telomere Support](https://www.amazon.com/Now-Foods-Telomere-Support?tag=vladys-21).
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas de mejorar mi salud y **longevidad**. Recientemente, he estado investigando sobre las telomerasas y su papel en la **longevidad**. Me ha sorprendido descubrir que las telomerasas pueden aumentar la **longevidad** en un 20%.
