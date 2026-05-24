@@ -56,7 +56,7 @@ La alimentación antiinflamatoria se refiere a una dieta que se centra en la red
 Los beneficios de la alimentación antiinflamatoria incluyen la reducción del riesgo de enfermedades cardiovasculares, diabetes tipo 2 y ciertos tipos de cáncer. Un estudio de la Universidad de Harvard (2019) encontró que una dieta antiinflamatoria puede reducir el riesgo de enfermedades cardiovasculares un **25%**. 
 
 ### ¿Cómo puedo implementar una dieta antiinflamatoria?
-Para implementar una dieta antiinflamatoria, es importante leer las etiquetas de los alimentos, planificar comidas que incluyan alimentos antiinflamatorios y evitar alimentos proinflamatorios. La [Academia de Nutrición y Dietética](https://www.andjrnl.org) ofrece recursos y guías para ayudar a planificar una dieta saludable. 
+Para implementar una dieta antiinflamatoria, es importante leer las etiquetas de los alimentos, planificar comidas que incluyan alimentos antiinflamatorios y evitar alimentos proinflamatorios. La Academia de Nutrición y Dietética ofrece recursos y guías para ayudar a planificar una dieta saludable. 
 
 ### ¿Qué alimentos debo evitar en una dieta antiinflamatoria?
 Es importante evitar alimentos proinflamatorios como la carne procesada, los alimentos fritos y los azúcares añadidos. Un estudio de la Universidad de California (2018) encontró que una dieta alta en azúcares añadidos puede aumentar el riesgo de enfermedades cardiovasculares un **30%**. 

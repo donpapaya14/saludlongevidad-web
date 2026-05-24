@@ -41,7 +41,7 @@ La investigación de la [Universidad de California (2020)](https://www.ucla.edu)
 
 ## Suplementos de NAD+ y longevidad
 
-Una revisión sistemática de la [Universidad de Oxford (2022)](https://www.ox.ac.uk) analizó 23 estudios clínicos:
+Una revisión sistemática de la Universidad de Oxford (2022) analizó 23 estudios clínicos:
 - **NR (Nicotinamida Ribosida)**: Aumenta NAD+ en sangre un 40-60% en 8 semanas (dosis: 300 mg/día)
 - **NMN (Nicotinamida Mononucleótido)**: Mejora resistencia física en adultos mayores un 12% (estudio con 180 participantes)
 
@@ -54,7 +54,7 @@ Una revisión sistemática de la [Universidad de Oxford (2022)](https://www.ox.a
 
 ## Alimentos que aumentan el NAD+
 
-El estudio de la [Universidad de Tokio (2019)](https://www.u-tokyo.ac.jp) identificó estos alimentos:
+El estudio de la Universidad de Tokio (2019) identificó estos alimentos:
 1. **Leche cruda**: 1 vaso aporta 3.9 mg de ribósido de nicotinamida
 2. **Champiñones**: 100g contienen 2.4 mg de NAD+ precursores
 3. **Atún**: Rico en niacina (5.8 mg por 85g)

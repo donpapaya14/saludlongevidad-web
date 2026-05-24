@@ -45,11 +45,11 @@ Se recomienda dormir entre 7 y 9 horas cada noche para mantener la salud y la lo
 ### ¿Cómo puedo mejorar la calidad de mi sueño?
 Para mejorar la calidad del sueño, se recomienda establecer un horario de sueño regular, crear un ambiente de sueño relajante y evitar la cafeína y el alcohol antes de acostarse. La [Universidad de Harvard](https://www.harvard.edu/) ofrece consejos y recursos para mejorar el sueño.
 ### ¿Cuál es el impacto de la privación de sueño en la salud?
-La privación de sueño puede tener un impacto negativo en la salud, incluyendo un mayor riesgo de enfermedades cardíacas, diabetes y obesidad. La [Asociación Americana de Medicina del Sueño](https://aasm.org/) proporciona información y recursos sobre el impacto de la privación de sueño en la salud.
+La privación de sueño puede tener un impacto negativo en la salud, incluyendo un mayor riesgo de enfermedades cardíacas, diabetes y obesidad. La Asociación Americana de Medicina del Sueño proporciona información y recursos sobre el impacto de la privación de sueño en la salud.
 ### ¿Cómo puedo reducir el estrés y la ansiedad para mejorar el sueño?
 Para reducir el estrés y la ansiedad, se recomienda practicar técnicas de relajación, como la meditación o el yoga. La [Universidad de California](https://www.uc.edu/) ofrece recursos y consejos para reducir el estrés y la ansiedad.
 ### ¿Cuál es el papel de la melatonina en la regulación del sueño?
-La melatonina es una hormona que regula el ciclo de sueño-vigilia. La [Revista Sleep](https://www.sleep-journal.com/) publica artículos y estudios sobre la melatonina y su papel en la regulación del sueño.
+La melatonina es una hormona que regula el ciclo de sueño-vigilia. La Revista Sleep publica artículos y estudios sobre la melatonina y su papel en la regulación del sueño.
 ### ¿Cómo puedo crear un ambiente de sueño relajante?
 Para crear un ambiente de sueño relajante, se recomienda mantener la habitación oscura, fresca y silenciosa. La [Asociación Nacional de Salud](https://www.nhlbi.nih.gov/) proporciona consejos y recursos para crear un ambiente de sueño saludable.
 

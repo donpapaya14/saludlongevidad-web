@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Introducción al sulforafano y la longevidad
-El **sulforafano** es un compuesto que se encuentra en crucíferas como el brócoli, y ha sido estudiado por su potencial para alargar la vida. Según un estudio de la [Johns Hopkins University](https://www.hopkinsmedicine.org/), el sulforafano se produce a partir de la glucorafanina, un glucósido presente en estas verduras, mediante la acción de la enzima mirosinasa. La biodisponibilidad del sulforafano es del **70-80%** cuando se consume crudo.
+El **sulforafano** es un compuesto que se encuentra en crucíferas como el brócoli, y ha sido estudiado por su potencial para alargar la vida. Según un estudio de la Johns Hopkins University, el sulforafano se produce a partir de la glucorafanina, un glucósido presente en estas verduras, mediante la acción de la enzima mirosinasa. La biodisponibilidad del sulforafano es del **70-80%** cuando se consume crudo.
 
 ## Qué es el sulforafano y cómo se produce
 El sulforafano se forma cuando la glucorafanina se hidroliza en presencia de la enzima mirosinasa, liberando el compuesto activo. Esto puede ocurrir durante el procesamiento de alimentos, como el picado o el cocinado, o en el intestino delgado, donde las enzimas intestinales pueden hidrolizar la glucorafanina.
@@ -27,7 +27,7 @@ El sulforafano se forma cuando la glucorafanina se hidroliza en presencia de la 
 2. Agregar un poco de mostaza o wasabi a tus comidas para aumentar la actividad de la mirosinasa.
 
 ## El mecanismo que activa los genes de longevidad
-El sulforafano activa la vía Nrf2, una ruta de señalización que regula la expresión de **más de 200 genes** antioxidantes y de detoxificación. Esto puede ayudar a proteger las células del daño oxidativo y reducir el estrés inflamatorio. Un estudio de la [Universidad de Warwick](https://www2.warwick.ac.uk/) encontró que el sulforafano puede aumentar la producción de antioxidantes en las células, lo que puede ayudar a reducir el riesgo de enfermedades crónicas.
+El sulforafano activa la vía Nrf2, una ruta de señalización que regula la expresión de **más de 200 genes** antioxidantes y de detoxificación. Esto puede ayudar a proteger las células del daño oxidativo y reducir el estrés inflamatorio. Un estudio de la Universidad de Warwick encontró que el sulforafano puede aumentar la producción de antioxidantes en las células, lo que puede ayudar a reducir el riesgo de enfermedades crónicas.
 
 ## Evidencia en humanos: reducción de biomarcadores de envejecimiento
 Un ensayo clínico de la [Universidad de California](https://www.ucsf.edu/) encontró que el sulforafano puede reducir los biomarcadores de envejecimiento, como la **IL-6** y la **PCR**, en adultos mayores. Esto sugiere que el sulforafano puede tener un efecto anti-envejecimiento en humanos.

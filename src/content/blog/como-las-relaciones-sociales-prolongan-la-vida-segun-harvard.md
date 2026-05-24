@@ -24,10 +24,10 @@ Las **relaciones sociales y la longevidad** están estrechamente relacionadas. S
 La soledad crónica puede acortar la vida más que la obesidad o el tabaquismo moderado. Un estudio de la [Harvard School of Public Health](https://www.hsph.harvard.edu/) (2018) encontró que la soledad puede reducir la **esperanza de vida** en **15 años**.
 
 ## Mecanismos biológicos: cortisol e inflamación
-Las relaciones pobres pueden elevar el **cortisol** y la **proteína C-reactiva**, acelerando el envejecimiento celular. Un estudio publicado en [PNAS](https://www.pnas.org/) (2015) encontró que el estrés social puede aumentar la inflamación en un **30%**.
+Las relaciones pobres pueden elevar el **cortisol** y la **proteína C-reactiva**, acelerando el envejecimiento celular. Un estudio publicado en PNAS (2015) encontró que el estrés social puede aumentar la inflamación en un **30%**.
 
 ## El poder de las 'superredes' sociales
-Las personas con redes diversas (familia, amigos, comunidad) viven **5+ años más** que las aisladas. Un estudio publicado en [PLOS Medicine](https://journals.plos.org/plosmedicine/) (2010) encontró que las redes sociales pueden reducir la **mortalidad** en un **20%**.
+Las personas con redes diversas (familia, amigos, comunidad) viven **5+ años más** que las aisladas. Un estudio publicado en PLOS Medicine (2010) encontró que las redes sociales pueden reducir la **mortalidad** en un **20%**.
 
 ## Calidad vs cantidad: el efecto protector
 **3-5 relaciones profundas** son más beneficiosas que 20 superficiales. Un estudio publicado en el [Journal of Aging and Health](https://journals.sagepub.com/home/jah) (2017) encontró que la calidad de las relaciones puede medirse con el **índice LSNS-6**.
@@ -36,10 +36,10 @@ Las personas con redes diversas (familia, amigos, comunidad) viven **5+ años m�
 Técnicas basadas en evidencia para mantener conexiones significativas:
 1. **Llamadas breves diarias**: 10 minutos al día para mantener el contacto con amigos y familiares.
 2. **Rituales semanales**: reuniones semanales con amigos o familiares para fortalecer las relaciones.
-Un estudio del [Blue Zones Project](https://www.bluezones.com/) (2022) encontró que estas técnicas pueden reducir la **mortalidad** en un **15%**.
+Un estudio del Blue Zones Project (2022) encontró que estas técnicas pueden reducir la **mortalidad** en un **15%**.
 
 ## El rol único de las amistades intergeneracionales
-Interactuar con personas más jóvenes puede reducir **biomarcadores de envejecimiento** (telomerasa, presión arterial). Un estudio de la [Universidad de Oxford](https://www.ox.ac.uk/) (2019) encontró que las amistades intergeneracionales pueden aumentar la **longevidad** en un **10%**.
+Interactuar con personas más jóvenes puede reducir **biomarcadores de envejecimiento** (telomerasa, presión arterial). Un estudio de la Universidad de Oxford (2019) encontró que las amistades intergeneracionales pueden aumentar la **longevidad** en un **10%**.
 
 ## Preguntas Frecuentes
 ### ¿Cuál es el impacto de la soledad en la salud?
@@ -47,11 +47,11 @@ La soledad crónica puede aumentar el riesgo de **enfermedades cardíacas**, **d
 ### ¿Cómo puedo mantener relaciones sociales fuertes?
 Mantener relaciones sociales fuertes requiere **comunicación efectiva**, **empatía** y **compromiso**. Un estudio del [Centro Nacional de Estadísticas de Salud](https://www.cdc.gov/nchs/index.htm) (2020) encontró que las relaciones sociales pueden reducir la **mortalidad** en un **20%**.
 ### ¿Cuál es el papel de las redes sociales en la longevidad?
-Las redes sociales pueden proporcionar **apoyo emocional**, **conexiones sociales** y **acceso a recursos**. Un estudio publicado en [Social Science & Medicine](https://www.journals.elsevier.com/social-science-and-medicine/) (2018) encontró que las redes sociales pueden aumentar la **longevidad** en un **10%**.
+Las redes sociales pueden proporcionar **apoyo emocional**, **conexiones sociales** y **acceso a recursos**. Un estudio publicado en Social Science & Medicine (2018) encontró que las redes sociales pueden aumentar la **longevidad** en un **10%**.
 ### ¿Cómo puedo medir la calidad de mis relaciones?
 La calidad de las relaciones puede medirse con el **índice LSNS-6**. Un estudio publicado en el [Journal of Aging and Health](https://journals.sagepub.com/home/jah) (2017) encontró que el índice LSNS-6 puede predecir la **mortalidad** en un **15%**.
 ### ¿Cuál es el impacto de las amistades intergeneracionales en la salud?
-Las amistades intergeneracionales pueden reducir **biomarcadores de envejecimiento** (telomerasa, presión arterial). Un estudio de la [Universidad de Oxford](https://www.ox.ac.uk/) (2019) encontró que las amistades intergeneracionales pueden aumentar la **longevidad** en un **10%**.
+Las amistades intergeneracionales pueden reducir **biomarcadores de envejecimiento** (telomerasa, presión arterial). Un estudio de la Universidad de Oxford (2019) encontró que las amistades intergeneracionales pueden aumentar la **longevidad** en un **10%**.
 ### ¿Cómo puedo mantener una red social diversa?
 Mantener una red social diversa requiere **conexiones con personas de diferentes edades**, **culturas** y **intereses**. Un estudio del [Centro Nacional de Estadísticas de Salud](https://www.cdc.gov/nchs/index.htm) (2020) encontró que las redes sociales pueden reducir la **mortalidad** en un **20%**.
 

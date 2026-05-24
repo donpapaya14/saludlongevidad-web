@@ -24,7 +24,7 @@ El **entrenamiento de fuerza para longevidad** no es solo para jóvenes. Según 
 
 ### Tres beneficios clave:
 1. **Músculos más fuertes**: A los 50+, perdemos **3-5% de masa muscular anual** (estudio de la Universidad de Harvard, 2019). El entrenamiento revierte esta pérdida.
-2. **Articulaciones protegidas**: Fortalece tendones y ligamentos, reduciendo dolor articular según la [Clínica Mayo](https://www.mayoclinic.org).
+2. **Articulaciones protegidas**: Fortalece tendones y ligamentos, reduciendo dolor articular según la Clínica Mayo.
 3. **Metabolismo activo**: 20 minutos de pesas queman **100-150 kcal** y elevan el gasto calórico hasta 72 horas post-ejercicio (Journal of Applied Physiology, 2018).
 
 ## Ejercicios de fuerza para principiantes
@@ -108,7 +108,7 @@ Un estudio de 10 años en la **Revista de Gerontología (2022)** con 3,000 adult
 **Pesos libres** activan un **15% más** de fibras musculares (Journal of Strength Research, 2019), pero máquinas son más seguras para principiantes con poca movilidad.
 
 ### ¿Puedo hacer fuerza con artritis?
-**Sí**, pero evita rangos extremos. La [Arthritis Foundation](https://www.arthritis.org) recomienda:
+**Sí**, pero evita rangos extremos. La Arthritis Foundation recomienda:
 - Agua tibia antes para lubricar articulaciones
 - 2-3 series cortas (6-8 rep) con descansos frecuentes
 

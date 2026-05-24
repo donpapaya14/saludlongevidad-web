@@ -36,7 +36,7 @@ La soledad crónica, por otro lado, puede ser tan dañina como fumar **15 cigarr
 
 ## Cómo construir y mantener relaciones sociales saludables
 
-La revista [Psychology Today (2020)](https://www.psychologytoday.com) propone este método en 4 pasos:
+La revista Psychology Today (2020) propone este método en 4 pasos:
 
 1. **Iniciar contacto**: Envía 2-3 mensajes semanales a amigos o familiares con preguntas abiertas (ej: "¿Cómo te sentiste con...?").
 2. **Profundizar**: Comparte vulnerabilidades en un 60/40 (60% escucha, 40% habla) para crear confianza.
@@ -63,11 +63,11 @@ Esto se debe a que el aislamiento crónico eleva marcadores inflamatorios como l
 
 ## Estrategias para superar la soledad y aumentar la conexión social
 
-La [Fundación Nacional de Salud Mental (2020)](https://www.nami.org) recomienda:
+La Fundación Nacional de Salud Mental (2020) recomienda:
 
 1. **Terapia cognitivo-conductual**: 12 sesiones reducen la percepción de soledad en un 45%.
-2. **Apps de conexión**: Plataformas como [Meetup](https://www.meetup.com) facilitan encontrar grupos locales.
-3. **Mascotas**: Adoptar un perro disminuye la soledad en un 30% ([estudio Universidad de Liverpool](https://www.liverpool.ac.uk)).
+2. **Apps de conexión**: Plataformas como Meetup facilitan encontrar grupos locales.
+3. **Mascotas**: Adoptar un perro disminuye la soledad en un 30% (estudio Universidad de Liverpool).
 
 **Productos útiles**: [Anillo luminoso para videollamadas en Amazon](https://www.amazon.es/s?k=Anillo+luminoso+para+videollamadas&tag=vladys-21) mejora la calidad de conexiones virtuales, y [Juegos de mesa para grupos en Amazon](https://www.amazon.es/s?k=Juegos+de+mesa+para+grupos&tag=vladys-21) fomenta interacciones presenciales.
 

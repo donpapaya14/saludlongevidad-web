@@ -38,11 +38,11 @@ El **NAD+ (nicotinamida adenina dinucleótido)** es una coenzima esencial presen
 
 > Relacionado: [Técnica Respiratoria Vagus Nervio](/blog/tecnica-respiratoria-vagus-nervio)
 
-La **vitamina B3 (niacina)** es precursora directa. Un estudio de la [Universidad de Tokio (2018)](https://www.u-tokyo.ac.jp) mostró que 500 mg/día de nicotinamida ribósido (NR) elevan el NAD+ en sangre un **40%** en 8 semanas.
+La **vitamina B3 (niacina)** es precursora directa. Un estudio de la Universidad de Tokio (2018) mostró que 500 mg/día de nicotinamida ribósido (NR) elevan el NAD+ en sangre un **40%** en 8 semanas.
 
 ## Suplementos de NAD+
 
-1. **NAD+ Booster** ([NAD+ Booster en Amazon](https://www.amazon.es/s?k=NAD++Booster&tag=vladys-21)): Contiene nicotinamida mononucleótido (NMN), con biodisponibilidad del **90%** según la [Universidad de Oxford (2022)](https://www.ox.ac.uk).
+1. **NAD+ Booster** ([NAD+ Booster en Amazon](https://www.amazon.es/s?k=NAD++Booster&tag=vladys-21)): Contiene nicotinamida mononucleótido (NMN), con biodisponibilidad del **90%** según la Universidad de Oxford (2022).
 2. **Resveratrol + NMN**: Sinergia que potencia sirtuinas. Dosis óptima: 250 mg NMN + 100 mg resveratrol al día.
 
 **Precaución**: Evitar dosis >1,000 mg/día sin supervisión médica (riesgo de hepatotoxicidad).
@@ -57,7 +57,7 @@ La **vitamina B3 (niacina)** es precursora directa. Un estudio de la [Universida
 
 ## Futuro de la investigación sobre el NAD+ y la longevidad
 
-Ensayos clínicos en la [Universidad de Cambridge (2022)](https://www.cam.ac.uk) exploran:
+Ensayos clínicos en la Universidad de Cambridge (2022) exploran:
 - **NAD+ intravenoso** para tratar Alzheimer (fase II).
 - **Nanotransportadores** que lleven NAD+ directamente a mitocondrias dañadas.
 

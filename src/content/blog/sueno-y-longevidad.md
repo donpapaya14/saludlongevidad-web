@@ -19,7 +19,7 @@ draft: false
 
 ## Introducción al Sueño y la Longevidad
 
-El **sueño y longevidad** están intrínsecamente ligados. Según la [National Sleep Foundation (2020)](https://www.sleepfoundation.org), dormir bien regula el sistema inmunológico y mantiene la homeostasis del cuerpo, procesos clave para un envejecimiento saludable. Estudios demuestran que la falta de sueño crónica acelera el deterioro celular, mientras que un descanso adecuado puede añadir años a la vida.
+El **sueño y longevidad** están intrínsecamente ligados. Según la National Sleep Foundation (2020), dormir bien regula el sistema inmunológico y mantiene la homeostasis del cuerpo, procesos clave para un envejecimiento saludable. Estudios demuestran que la falta de sueño crónica acelera el deterioro celular, mientras que un descanso adecuado puede añadir años a la vida.
 
 ## El Impacto del Sueño en la Longevidad
 
@@ -32,7 +32,7 @@ El sueño afecta directamente a los **telómeros**, estructuras que protegen nue
 ## Consejos Prácticos para Mejorar el Sueño y la Longevidad
 
 1. **Rutina de sueño**: Acuéstate y levántate a la misma hora (±30 min), incluso los fines de semana.
-2. **Ambiente óptimo**: Usa cortinas blackout y mantén la habitación a 18-20°C (estudio de la [Asociación Americana de Medicina del Sueño, 2022](https://aasm.org)).
+2. **Ambiente óptimo**: Usa cortinas blackout y mantén la habitación a 18-20°C (estudio de la Asociación Americana de Medicina del Sueño, 2022).
 3. **Suplementos**: Considera [Suplemento de melatonina para dormir en Amazon](https://www.amazon.es/s?k=Suplemento+de+melatonina+para+dormir&tag=vladys-21) en dosis de 0.5-3 mg, 1 hora antes de dormir.
 4. **Tecnología**: Usa [Anillo Oura en Amazon](https://www.amazon.es/s?k=Anillo+Oura&tag=vladys-21) para monitorear tus ciclos de sueño profundo.
 

@@ -18,7 +18,7 @@ draft: false
 ---
 
 ## Horas de sueño óptimas por edad
-Las **horas de sueño óptimas por edad** son fundamentales para mantener una buena salud y prevenir enfermedades. Según la [National Sleep Foundation](https://www.sleepfoundation.org/), los adultos necesitan entre **7 y 9 horas de sueño** cada noche.
+Las **horas de sueño óptimas por edad** son fundamentales para mantener una buena salud y prevenir enfermedades. Según la National Sleep Foundation, los adultos necesitan entre **7 y 9 horas de sueño** cada noche.
 
 ## Recomendaciones de la National Sleep Foundation
 La National Sleep Foundation proporciona recomendaciones detalladas sobre las **horas de sueño óptimas por edad**. Por ejemplo, los bebés de **4 a 11 meses** necesitan entre **12 y 15 horas de sueño** en un período de 24 horas, mientras que los adultos mayores de **65 años** necesitan entre **7 y 8 horas de sueño**.

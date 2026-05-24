@@ -21,7 +21,7 @@ draft: false
 
 El **ejercicio de alta intensidad y longevidad** están directamente relacionados. Según un estudio de la [Universidad de Harvard (2019)](https://www.harvard.edu), realizar entrenamientos intensos 3 veces por semana reduce un **24% el riesgo de mortalidad prematura** en adultos mayores. Este tipo de ejercicio activa mecanismos celulares que retrasan el envejecimiento y previenen enfermedades crónicas como diabetes tipo 2 y cardiopatías.
 
-La clave está en la **intensidad intermitente**: cortos periodos de esfuerzo máximo (85-95% de frecuencia cardíaca) alternados con recuperación. Un protocolo validado por la [Academia Americana de Medicina del Deporte (2020)](https://www.acsm.org) demuestra que 15 minutos de HIIT equivalen a 45 minutos de cardio moderado en beneficios metabólicos.
+La clave está en la **intensidad intermitente**: cortos periodos de esfuerzo máximo (85-95% de frecuencia cardíaca) alternados con recuperación. Un protocolo validado por la Academia Americana de Medicina del Deporte (2020) demuestra que 15 minutos de HIIT equivalen a 45 minutos de cardio moderado en beneficios metabólicos.
 
 ## Cómo el ejercicio de alta intensidad afecta a los telómeros
 
@@ -36,7 +36,7 @@ Mecanismos clave:
 
 ## Ejemplos de ejercicios de alta intensidad para principiantes
 
-Iniciarse en el **ejercicio cardiovascular** intenso requiere progresión. La [Guía de la Academia Americana de Medicina del Deporte (2020)](https://www.acsm.org) recomienda este protocolo para novatos:
+Iniciarse en el **ejercicio cardiovascular** intenso requiere progresión. La Guía de la Academia Americana de Medicina del Deporte (2020) recomienda este protocolo para novatos:
 
 1. **Sprints en bicicleta estática**:
    - 30 segundos al 80% capacidad
@@ -64,7 +64,7 @@ Tabla comparativa de gasto calórico (para 70kg persona):
 
 ## Consejos para incorporar el ejercicio de alta intensidad en tu rutina
 
-El [Journal of Strength and Conditioning Research (2019)](https://journals.lww.com) sugiere este plan de 4 semanas:
+El Journal of Strength and Conditioning Research (2019) sugiere este plan de 4 semanas:
 
 1. **Semana 1-2**:
    - 2 sesiones/semana
@@ -76,11 +76,11 @@ El [Journal of Strength and Conditioning Research (2019)](https://journals.lww.c
    - 15 minutos (1:1 ratio)
    - Intensidad 8/10
 
-**Pro-tip**: Usa apps como [Nike Training Club](https://www.nike.com) para temporizar intervalos. El libro [ 'Ejercicio y Longevidad' en Amazon](https://www.amazon.es/s?k=+'Ejercicio+y+Longevidad'&tag=vladys-21)(https://www.amazon.es) ofrece 12 planes adaptables.
+**Pro-tip**: Usa apps como Nike Training Club para temporizar intervalos. El libro [ 'Ejercicio y Longevidad' en Amazon](https://www.amazon.es/s?k=+'Ejercicio+y+Longevidad'&tag=vladys-21)(https://www.amazon.es) ofrece 12 planes adaptables.
 
 ## Beneficios adicionales del ejercicio de alta intensidad en la salud
 
-Un estudio de la [Universidad de McMaster (2017)](https://www.mcmaster.ca) con 1,200 adultos demostró que el HIIT:
+Un estudio de la Universidad de McMaster (2017) con 1,200 adultos demostró que el HIIT:
 
 - **Mejora la sensibilidad a la insulina** un 28% más que cardio tradicional
 - **Reduce cortisol** (hormona del estrés) en 26%
@@ -92,7 +92,7 @@ Efectos secundarios positivos:
 
 ## Precauciones y contraindicaciones para el ejercicio de alta intensidad
 
-La [Asociación Americana del Corazón (2017)](https://www.heart.org) advierte:
+La Asociación Americana del Corazón (2017) advierte:
 
 **Consultar al médico antes si**:
 1. Historial de cardiopatías
@@ -114,13 +114,13 @@ Alternativas seguras:
 El HIIT es seguro desde los **12 años** según la OMS, pero adultos >50 deben hacer prueba de esfuerzo primero. Un estudio en el [British Journal of Sports Medicine (2020)](https://bjsm.bmj.com) mostró mejoras significativas incluso en octogenarios.
 
 ### ¿Cuánto tiempo debo hacer HIIT para ver resultados?
-**8 semanas** es el período mínimo según metaanálisis de 27 estudios. La [Clínica Mayo (2021)](https://www.mayoclinic.org) recomienda 3 sesiones de 20 minutos semanales para mejorar marcadores de longevidad.
+**8 semanas** es el período mínimo según metaanálisis de 27 estudios. La Clínica Mayo (2021) recomienda 3 sesiones de 20 minutos semanales para mejorar marcadores de longevidad.
 
 ### ¿Es mejor el HIIT o el levantamiento de pesas para vivir más?
-Combinar ambos es ideal. Investigación de la [Universidad de Sydney (2018)](https://www.sydney.edu.au) con 80,000 personas halló que **entrenamiento de fuerza** reduce mortalidad un 23%, y HIIT un 27%.
+Combinar ambos es ideal. Investigación de la Universidad de Sydney (2018) con 80,000 personas halló que **entrenamiento de fuerza** reduce mortalidad un 23%, y HIIT un 27%.
 
 ### ¿Puedo hacer HIIT si tengo sobrepeso?
-Sí, pero adaptado. La [Revista Obesity (2019)](https://onlinelibrary.wiley.com) demostró que personas con IMC>30 lograron **7% más pérdida de grasa** con HIIT acuático vs. convencional.
+Sí, pero adaptado. La Revista Obesity (2019) demostró que personas con IMC>30 lograron **7% más pérdida de grasa** con HIIT acuático vs. convencional.
 
 ### ¿Qué monitor de ritmo cardíaco recomiendan?
 El [ Polar H10 en Amazon](https://www.amazon.es/s?k=+Polar+H10&tag=vladys-21)(https://www.amazon.es) es el más preciso según tests independientes. Mide variabilidad cardíaca, clave para ajustar intensidad.
@@ -129,7 +129,7 @@ El [ Polar H10 en Amazon](https://www.amazon.es/s?k=+Polar+H10&tag=vladys-21)(ht
 
 Como desarrollador de apps y cocinero profesional, pasé años con sedentarismo hasta que un análisis mostró prediabetes a los 35. Empecé con **sprints en escaleras** durante descansos de programación - 3 minutos cada 2 horas. En 6 meses, mi glucosa en ayunas bajó de 110 a 85 mg/dL.
 
-Ahora uso el [ Salter 9009 en Amazon](https://www.amazon.es/s?k=+Salter+9009&tag=vladys-21)(https://www.amazon.es) para medir composición corporal semanal. Mi lección: la **consistencia beats intensidad**. Mejor 5 minutos diarios que 1 hora ocasional. La app [Interval Timer](https://play.google.com) me ayuda a mantener disciplina incluso en viajes.
+Ahora uso el [ Salter 9009 en Amazon](https://www.amazon.es/s?k=+Salter+9009&tag=vladys-21)(https://www.amazon.es) para medir composición corporal semanal. Mi lección: la **consistencia beats intensidad**. Mejor 5 minutos diarios que 1 hora ocasional. La app Interval Timer me ayuda a mantener disciplina incluso en viajes.
 
 ## Resumen Práctico
 

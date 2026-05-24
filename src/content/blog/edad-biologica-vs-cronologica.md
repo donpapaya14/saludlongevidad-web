@@ -37,7 +37,7 @@ Estos miden cambios químicos en el ADN (metilación). El más preciso, **Horvat
 
 ## Factores que Afectan la Edad Biológica
 
-Un estudio de la [Revista de Investigación del Envejecimiento (2018)](https://www.agingresearch.org) identificó los principales aceleradores:
+Un estudio de la Revista de Investigación del Envejecimiento (2018) identificó los principales aceleradores:
 1. **Estrés crónico**: Aumenta la edad biológica 1.5 años por cada década de exposición (cortisol daña telómeros).
 2. **Sedentarismo**: 30 minutos diarios de ejercicio reducen la edad biológica 5 años en una década.
 3. **Contaminación**: Vivir en ciudades con alta polución envejece los pulmones 2 años extra.
@@ -51,7 +51,7 @@ Basado en un estudio de la [Universidad de California (2022)](https://www.uc.edu
 
 ## Suplementos y Nutrición para la Edad Biológica
 
-La [Revista de Nutrición y Envejecimiento (2021)](https://www.nutritionandaging.org) destaca:
+La Revista de Nutrición y Envejecimiento (2021) destaca:
 - **NAD+**: 250 mg/día de NMN mejoran la reparación celular (ensayo con 1,200 personas).
 - **Vitamina D**: Niveles >40 ng/ml asociados a telómeros un 9% más largos.
 - **Omega-3**: 2g diarios reducen la edad epigenética 1.2 años en 6 meses.

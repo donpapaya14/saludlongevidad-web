@@ -53,7 +53,7 @@ Una revisión en [Aging Research Reviews (2020)](https://www.sciencedirect.com) 
 ## Preguntas Frecuentes
 
 ### ¿Cómo saber si mis telómeros están acortándose?
-Los tests comerciales (como los de [Life Length](https://www.lifelength.com)) miden longitud telomérica, pero marcadores indirectos como fatiga crónica o recuperación lenta de enfermedades sugieren posible acortamiento.
+Los tests comerciales (como los de Life Length) miden longitud telomérica, pero marcadores indirectos como fatiga crónica o recuperación lenta de enfermedades sugieren posible acortamiento.
 
 ### ¿El estrés laboral afecta igual que el emocional?
 Sí. Un estudio en 500 médicos (PLOS One, 2017) mostró que quienes trabajaban >60 horas/semana tenían telómeros un 40% más cortos que colegas con horarios normales.

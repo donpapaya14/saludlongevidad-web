@@ -19,13 +19,13 @@ draft: false
 
 
 ## Introducción a NMN Suplemento para Longevidad
-El **NMN suplemento longevidad dosis** es un tema de gran interés en la actualidad, especialmente en el ámbito de la nutrición y el anti-aging. Según un estudio de la Universidad de Harvard (2013) publicado en [Cell Metabolism](https://www.cell.com/cell-metabolism), la disminución de los niveles de NAD+ con la edad es un factor clave en el envejecimiento. A los 50 años, los niveles de NAD+ disminuyen un **40-50%** en comparación con los 20 años.
+El **NMN suplemento longevidad dosis** es un tema de gran interés en la actualidad, especialmente en el ámbito de la nutrición y el anti-aging. Según un estudio de la Universidad de Harvard (2013) publicado en Cell Metabolism, la disminución de los niveles de NAD+ con la edad es un factor clave en el envejecimiento. A los 50 años, los niveles de NAD+ disminuyen un **40-50%** en comparación con los 20 años.
 
 ## Qué es el NMN y cómo aumenta los niveles de NAD+
 El NMN (β-Nicotinamida mononucleótido) es un compuesto que se convierte en NAD+ en el cuerpo, lo que a su vez activa las **sirtuinas**, especialmente la SIRT1. Esta activación es crucial para la regulación de los procesos celulares relacionados con la longevidad y la salud. Un estudio de la Universidad de Tokio (2021) encontró que la suplementación con NMN aumenta los niveles de NAD+ en humanos.
 
 ## Evidencia en humanos: meta-análisis de 2023
-Un meta-análisis publicado en [Aging and Disease](https://www.aginganddisease.org/) en 2023 por Zhou et al. analiza 7 estudios clínicos y encuentra mejoras significativas en la sensibilidad a la insulina (**19%**), función vascular (**+25%** de flujo sanguíneo) y biomarcadores inflamatorios (**IL-6 ↓30%**).
+Un meta-análisis publicado en Aging and Disease en 2023 por Zhou et al. analiza 7 estudios clínicos y encuentra mejoras significativas en la sensibilidad a la insulina (**19%**), función vascular (**+25%** de flujo sanguíneo) y biomarcadores inflamatorios (**IL-6 ↓30%**).
 
 ## Dosis óptima según peso y edad
 La dosis óptima de NMN varía según el peso y la edad. Un estudio clínico de la Universidad de Tokio (2021) sugiere:

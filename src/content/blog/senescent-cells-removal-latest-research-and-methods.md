@@ -24,22 +24,22 @@ La **eliminación de células senescentes** es un aspecto clave en la investigac
 Las células senescentes son células que han alcanzado el final de su ciclo de vida y ya no se dividen. Aunque podrían parecer inofensivas, estas células pueden secretar factores proinflamatorios que afectan a las células sanas circundantes, contribuyendo al envejecimiento y a enfermedades relacionadas con la edad. Un estudio de la [Universidad de California (2022)](https://www.ucsf.edu/) encontró que la presencia de células senescentes en tejidos puede aumentar el riesgo de desarrollar enfermedades como la artritis y la diabetes.
 
 ## Senolíticos naturales vs farmacológicos: eficacia comparada
-Los **senolíticos** son compuestos que pueden eliminar células senescentes. Algunos ejemplos de senolíticos naturales son la **fisetina** y la **quercetina**. Un estudio de la [Mayo Clinic (2021)](https://www.mayoclinic.org/) comparó la eficacia de estos compuestos con la combinación de **Dasatinib** y **Quercetina**, encontrando que ambas opciones pueden ser efectivas en la eliminación de células senescentes, aunque con diferentes dosis y efectos secundarios.
+Los **senolíticos** son compuestos que pueden eliminar células senescentes. Algunos ejemplos de senolíticos naturales son la **fisetina** y la **quercetina**. Un estudio de la Mayo Clinic (2021) comparó la eficacia de estos compuestos con la combinación de **Dasatinib** y **Quercetina**, encontrando que ambas opciones pueden ser efectivas en la eliminación de células senescentes, aunque con diferentes dosis y efectos secundarios.
 
 | Senolítico | Dosis Efectiva | Estudio |
 | --- | --- | --- |
 | Fisetina | 100-200 mg/día | [Estudio de la Universidad de Illinois (2020)](https://www.illinois.edu/) |
 | Quercetina | 500-1000 mg/día | [Estudio de la Universidad de California (2019)](https://www.ucsf.edu/) |
-| Dasatinib + Quercetina | 100 mg + 1000 mg/día | [Estudio de la Mayo Clinic (2021)](https://www.mayoclinic.org/) |
+| Dasatinib + Quercetina | 100 mg + 1000 mg/día | Estudio de la Mayo Clinic (2021) |
 
 ## Nuevos biomarcadores para medir carga senescente
-La medición de la carga senescente es crucial para entender el impacto de las células senescentes en el envejecimiento. Un estudio del [Buck Institute (2022)](https://buckinstitute.org/) encontró que el análisis de **p16INK4a** en sangre puede ser un biomarcador efectivo para medir la carga senescente. Además, nuevos tests comerciales están siendo desarrollados para cuantificar células senescentes de manera más precisa.
+La medición de la carga senescente es crucial para entender el impacto de las células senescentes en el envejecimiento. Un estudio del Buck Institute (2022) encontró que el análisis de **p16INK4a** en sangre puede ser un biomarcador efectivo para medir la carga senescente. Además, nuevos tests comerciales están siendo desarrollados para cuantificar células senescentes de manera más precisa.
 
 ## Terapias emergentes: desde vacunas hasta CRISPR
-La investigación sobre terapias para eliminar células senescentes está en constante evolución. La [Universidad de Japón (2023)](https://www.jnu.ac.jp/) está trabajando en el desarrollo de una vacuna contra células senescentes, mientras que otros enfoques genéticos como **CRISPR** también están siendo explorados para su potencial en la eliminación de células senescentes.
+La investigación sobre terapias para eliminar células senescentes está en constante evolución. La Universidad de Japón (2023) está trabajando en el desarrollo de una vacuna contra células senescentes, mientras que otros enfoques genéticos como **CRISPR** también están siendo explorados para su potencial en la eliminación de células senescentes.
 
 ## Protocolo práctico para reducir senescencia celular
-Para reducir la senescencia celular, se puede seguir un protocolo que combine **suplementos**, **ejercicio** y **ayuno**. Un estudio de [Clinical Interventions in Aging (2022)](https://www.clinicalinterventionsinaging.com/) encontró que la combinación de fisetina, ejercicio regular y ayuno intermitente puede ser efectiva en la reducción de la carga senescente.
+Para reducir la senescencia celular, se puede seguir un protocolo que combine **suplementos**, **ejercicio** y **ayuno**. Un estudio de Clinical Interventions in Aging (2022) encontró que la combinación de fisetina, ejercicio regular y ayuno intermitente puede ser efectiva en la reducción de la carga senescente.
 
 1. Tomar **Fisetin Supplement 100mg (Pure Encapsulations)** diariamente.
 2. Realizar **30 minutos de caminata** diaria.

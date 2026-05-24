@@ -28,13 +28,13 @@ Un estudio de la [Universidad de California, Irvine (2019)](https://www.uci.edu/
 ## Mecanismos Biológicos del Efecto del Sueño en los Telómeros
 
 El vínculo entre el sueño y los telómeros se explica por dos mecanismos clave:
-1. **Estrés oxidativo**: La falta de sueño aumenta la producción de radicales libres, que dañan el ADN y aceleran el acortamiento de los telómeros. Un estudio publicado en la [Revista Sleep Medicine (2018)](https://www.sleepmedicinejournal.org/) encontró que dormir menos de 6 horas por noche eleva los marcadores de estrés oxidativo en un **35%**.
+1. **Estrés oxidativo**: La falta de sueño aumenta la producción de radicales libres, que dañan el ADN y aceleran el acortamiento de los telómeros. Un estudio publicado en la Revista Sleep Medicine (2018) encontró que dormir menos de 6 horas por noche eleva los marcadores de estrés oxidativo en un **35%**.
 2. **Inflamación crónica**: La privación de sueño activa vías inflamatorias como la NF-κB, que está asociada con el acortamiento telomérico. Un sueño profundo adecuado reduce estos marcadores inflamatorios.
 
 ## Consejos Prácticos para Mejorar el Sueño y Proteger los Telómeros
 
 Sigue estos pasos para optimizar tu sueño y cuidar tus telómeros:
-1. **Establece un horario regular**: Acuéstate y levántate a la misma hora cada día, incluso los fines de semana. La [Academia Americana de Medicina del Sueño (2020)](https://aasm.org/) recomienda mantener una ventana de sueño de **7-9 horas** para adultos.
+1. **Establece un horario regular**: Acuéstate y levántate a la misma hora cada día, incluso los fines de semana. La Academia Americana de Medicina del Sueño (2020) recomienda mantener una ventana de sueño de **7-9 horas** para adultos.
 2. **Evita la luz azul antes de dormir**: Usa gafas bloqueadoras de luz azul o activa el modo nocturno en dispositivos 2 horas antes de acostarte. [ Gafas bloqueadoras de luz azul en Amazon](https://www.amazon.es/s?k=+Gafas+bloqueadoras+de+luz+azul&tag=vladys-21)
 3. **Crea un ambiente fresco y oscuro**: Mantén la habitación entre **18-22°C** y usa cortinas blackout. [ Cortinas blackout en Amazon](https://www.amazon.es/s?k=+Cortinas+blackout&tag=vladys-21)
 4. **Practica técnicas de relajación**: 10 minutos de meditación o respiración diafragmática pueden mejorar la calidad del sueño profundo.

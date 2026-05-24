@@ -32,7 +32,7 @@ El Dr. Matthew Walker, neurocientífico de la [Universidad de California (2020)]
 
 ## Técnicas de relajación para un sueño profundo
 
-Un estudio en [Sleep Medicine (2018)](https://www.sleepmedicinejournal.org) comparó 3 métodos:
+Un estudio en Sleep Medicine (2018) comparó 3 métodos:
 
 | Técnica | Reducción tiempo para dormir | Aumento sueño profundo |
 |---------|-----------------------------|------------------------|
@@ -52,7 +52,7 @@ Repite 5 ciclos antes de acostarte.
 
 ## Optimización del entorno de sueño
 
-La [Asociación Americana de Medicina del Sueño (2022)](https://aasm.org) recomienda:
+La Asociación Americana de Medicina del Sueño (2022) recomienda:
 - **Luz roja o ámbar** después de las 20:00 (suprime un 76% menos melatonina que la luz azul)
 - **Ruido blanco** a 50 dB (reduce microdespertares en un 38% según estudios con EEG)
 - **Humedad** al 50%: niveles <30% causan irritación nasal que fragmenta el sueño

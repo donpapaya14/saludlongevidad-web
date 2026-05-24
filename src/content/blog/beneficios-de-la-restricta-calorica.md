@@ -22,25 +22,25 @@ draft: false
 La **restricción calórica** es una práctica que implica reducir la ingesta calórica diaria para promover la **longevidad** y retrasar el **envejecimiento celular**. Según un estudio de la [Universidad de Wisconsin-Madison](https://www.wisc.edu/) (2018), la restricción calórica puede aumentar la esperanza de vida en un 30% en ratones.
 
 ## ¿Qué es la restricción calórica?
-La restricción calórica se define como la reducción de la ingesta calórica diaria sin llegar a la desnutrición. Hay diferentes tipos y niveles de restricción calórica, que van desde una reducción del 10% hasta del 40% de la ingesta calórica diaria. Un estudio de la [Caloric Restriction Society](https://www.crsociety.org/) (2004) encontró que la restricción calórica puede mejorar la salud cardiovascular y reducir el riesgo de enfermedades crónicas.
+La restricción calórica se define como la reducción de la ingesta calórica diaria sin llegar a la desnutrición. Hay diferentes tipos y niveles de restricción calórica, que van desde una reducción del 10% hasta del 40% de la ingesta calórica diaria. Un estudio de la Caloric Restriction Society (2004) encontró que la restricción calórica puede mejorar la salud cardiovascular y reducir el riesgo de enfermedades crónicas.
 
 ## Cómo activa las sirtuinas
 La restricción calórica activa las **sirtuinas**, que son enzimas que juegan un papel importante en la regulación del metabolismo y la longevidad. Un estudio de [Valter y otros](https://academic.oup.com/biomedgerontology) (2008) en el Journal of Gerontology encontró que la restricción calórica aumenta la expresión de las sirtuinas en un 50%. Esto puede ayudar a proteger contra el daño oxidativo y promover la **longevidad**.
 
 ## Retrasa el envejecimiento celular
-La restricción calórica puede retrasar el envejecimiento celular al reducir la acumulación de daño oxidativo. Un estudio de [Lustig et al.](https://www.jci.org/) (2003) en el Journal of Clinical Investigation encontró que la restricción calórica reduce la producción de radicales libres en un 25%. Esto puede ayudar a prevenir el daño celular y promover la **longevidad**.
+La restricción calórica puede retrasar el envejecimiento celular al reducir la acumulación de daño oxidativo. Un estudio de Lustig et al. (2003) en el Journal of Clinical Investigation encontró que la restricción calórica reduce la producción de radicales libres en un 25%. Esto puede ayudar a prevenir el daño celular y promover la **longevidad**.
 
 ## Beneficios para la salud
 La restricción calórica tiene varios beneficios para la salud, incluyendo la reducción del riesgo de **diabetes** y **cáncer**. Un estudio de [Fontana y otros](https://www.nature.com/articles/nrendo.2010.35) (2010) en Nature Reviews Endocrinology encontró que la restricción calórica reduce el riesgo de enfermedades crónicas en un 30%. Esto puede ayudar a promover la **salud** y la **longevidad**.
 
 ## Consejos para implementar la restricción calórica
-Para implementar la restricción calórica, es importante planificar las comidas y limitar la ingesta de alimentos procesados. La [American Heart Association](https://www.heart.org/) (2017) recomienda reducir la ingesta calórica diaria en un 10% para promover la salud cardiovascular. Aquí hay algunos consejos para comenzar:
+Para implementar la restricción calórica, es importante planificar las comidas y limitar la ingesta de alimentos procesados. La American Heart Association (2017) recomienda reducir la ingesta calórica diaria en un 10% para promover la salud cardiovascular. Aquí hay algunos consejos para comenzar:
 1. **Planifica tus comidas**: Planifica tus comidas para asegurarte de que estás obteniendo los nutrientes necesarios.
 2. **Limita los alimentos procesados**: Limita la ingesta de alimentos procesados y azúcares añadidos.
 3. **Come más frutas y verduras**: Come más frutas y verduras para obtener los nutrientes necesarios.
 
 ## Riesgos y precauciones
-Es importante tener en cuenta los riesgos y precauciones al implementar la restricción calórica. La [Sociedad Americana de Medicina del Deporte](https://www.acsm.org/) (2019) advierte que la restricción calórica puede causar pérdida de masa muscular y otros efectos secundarios. Es importante consultar con un profesional de la salud antes de comenzar cualquier programa de restricción calórica.
+Es importante tener en cuenta los riesgos y precauciones al implementar la restricción calórica. La Sociedad Americana de Medicina del Deporte (2019) advierte que la restricción calórica puede causar pérdida de masa muscular y otros efectos secundarios. Es importante consultar con un profesional de la salud antes de comenzar cualquier programa de restricción calórica.
 
 ## Preguntas Frecuentes
 ### ¿Qué es la restricción calórica?
@@ -53,13 +53,13 @@ La restricción calórica activa las **sirtuinas**, que son enzimas que juegan u
 La restricción calórica tiene varios beneficios para la salud, incluyendo la reducción del riesgo de **diabetes** y **cáncer**. Un estudio de [Fontana y otros](https://www.nature.com/articles/nrendo.2010.35) (2010) en Nature Reviews Endocrinology encontró que la restricción calórica reduce el riesgo de enfermedades crónicas en un 30%.
 
 ### ¿Cómo puedo implementar la restricción calórica de manera segura?
-Para implementar la restricción calórica de manera segura, es importante planificar las comidas y limitar la ingesta de alimentos procesados. La [American Heart Association](https://www.heart.org/) (2017) recomienda reducir la ingesta calórica diaria en un 10% para promover la salud cardiovascular.
+Para implementar la restricción calórica de manera segura, es importante planificar las comidas y limitar la ingesta de alimentos procesados. La American Heart Association (2017) recomienda reducir la ingesta calórica diaria en un 10% para promover la salud cardiovascular.
 
 ### ¿Qué riesgos y precauciones debo tener en cuenta al implementar la restricción calórica?
-Es importante tener en cuenta los riesgos y precauciones al implementar la restricción calórica. La [Sociedad Americana de Medicina del Deporte](https://www.acsm.org/) (2019) advierte que la restricción calórica puede causar pérdida de masa muscular y otros efectos secundarios.
+Es importante tener en cuenta los riesgos y precauciones al implementar la restricción calórica. La Sociedad Americana de Medicina del Deporte (2019) advierte que la restricción calórica puede causar pérdida de masa muscular y otros efectos secundarios.
 
 ### ¿Dónde puedo encontrar más información sobre la restricción calórica?
-Puedes encontrar más información sobre la restricción calórica en la [Universidad de Wisconsin-Madison](https://www.wisc.edu/), la [Caloric Restriction Society](https://www.crsociety.org/) y la [American Heart Association](https://www.heart.org/).
+Puedes encontrar más información sobre la restricción calórica en la [Universidad de Wisconsin-Madison](https://www.wisc.edu/), la Caloric Restriction Society y la American Heart Association.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he experimentado personalmente los beneficios de la restricción calórica. He encontrado que reducir la ingesta calórica diaria en un 10% ha mejorado mi salud cardiovascular y ha aumentado mi energía. Sin embargo, es importante tener en cuenta que la restricción calórica no es para todos y es importante consultar con un profesional de la salud antes de comenzar cualquier programa de restricción calórica.

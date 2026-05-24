@@ -22,10 +22,10 @@ La **fisetina** es un flavonoide que se encuentra en frutas y verduras, y ha sid
 Las células senescentes son células que han dejado de dividirse y pueden producir **inflamación crónica** y **degeneración tisular** a través del **SASP (fenotipo secretor asociado a senescencia)**. Un estudio publicado en [Nature Cell Biology](https://www.nature.com/naturecellbiology/) en 2021 encontró que el número de células senescentes **aumenta con la edad**.
 
 ## Evidencia Científica: Fisetina como Senolítico Natural
-Un estudio publicado en [EBioMedicine](https://www.sciencedirect.com/journal/ebiomedicine) en 2018 por la [Clínica Mayo](https://www.mayoclinic.org/) encontró que la fisetina puede reducir los **marcadores de senescencia** en modelos animales en un **30-50%**.
+Un estudio publicado en [EBioMedicine](https://www.sciencedirect.com/journal/ebiomedicine) en 2018 por la Clínica Mayo encontró que la fisetina puede reducir los **marcadores de senescencia** en modelos animales en un **30-50%**.
 
 ## Dosis Óptima Según la Ciencia (y por Qué Más no es Mejor)
-La dosis óptima de fisetina para la eliminación de células senescentes es de **100-500mg/día** en humanos, según un estudio publicado en [Aging Cell](https://onlinelibrary.wiley.com/journal/14749727) en 2020. Es importante tener en cuenta la **biodisponibilidad** y seguir **protocolos intermitentes** (ciclos de 2-3 días).
+La dosis óptima de fisetina para la eliminación de células senescentes es de **100-500mg/día** en humanos, según un estudio publicado en Aging Cell en 2020. Es importante tener en cuenta la **biodisponibilidad** y seguir **protocolos intermitentes** (ciclos de 2-3 días).
 
 ## Biomarcadores para Medir el Efecto Senolítico
 Para medir el efecto senolítico de la fisetina, se pueden utilizar **biomarcadores** como **p16INK4a**, **IL-6** y **β-galactosidasa** en sangre, según un estudio publicado en [Nature Protocols](https://www.nature.com/nprot) en 2022.
@@ -34,7 +34,7 @@ Para medir el efecto senolítico de la fisetina, se pueden utilizar **biomarcado
 Es importante tener en cuenta las **interacciones** de la fisetina con **anticoagulantes** y otros medicamentos. También se puede combinar con **quercetina** o **ejercicio de resistencia** para potenciar sus efectos, según un estudio publicado en [Journal of Gerontology](https://academic.oup.com/biomedgerontology) en 2021.
 
 ## Fuentes Naturales vs Suplementos: Qué Buscar al Comprar
-Al elegir un suplemento de fisetina, es importante buscar **formulaciones liposomales** y una **pureza >98%**, según un informe de [ConsumerLab](https://www.consumerlab.com/) en 2023. También se pueden encontrar fuentes naturales de fisetina en **fresas** y **mangos**.
+Al elegir un suplemento de fisetina, es importante buscar **formulaciones liposomales** y una **pureza >98%**, según un informe de ConsumerLab en 2023. También se pueden encontrar fuentes naturales de fisetina en **fresas** y **mangos**.
 
 ## Preguntas Frecuentes
 ### ¿Qué es la fisetina?

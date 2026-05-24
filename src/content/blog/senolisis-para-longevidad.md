@@ -47,11 +47,11 @@ Actualmente se estudian múltiples enfoques:
 
 > Relacionado: [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-10)
 
-Un informe de la [Fundación para la Investigación del Envejecimiento (2022)](https://www.afar.org) destaca que la fisetina podría ser la primera **terapia senolítica accesible**, con estudios mostrando mejora en función cognitiva en adultos mayores.
+Un informe de la Fundación para la Investigación del Envejecimiento (2022) destaca que la fisetina podría ser la primera **terapia senolítica accesible**, con estudios mostrando mejora en función cognitiva en adultos mayores.
 
 ## Implicaciones y futuro de la senolisis
 
-La conferencia de la [Sociedad Internacional de Investigación del Envejecimiento (2021)](https://www.geron.org) proyecta que para 2030, las terapias senolíticas podrían:
+La conferencia de la Sociedad Internacional de Investigación del Envejecimiento (2021) proyecta que para 2030, las terapias senolíticas podrían:
 
 1. Reducir la incidencia de enfermedades crónicas en un **40%** en mayores de 70 años
 2. Aumentar la esperanza de vida saludable en **7-10 años**

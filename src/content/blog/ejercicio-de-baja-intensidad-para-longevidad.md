@@ -49,7 +49,7 @@ El yoga combina movimiento y mindfulness, potenciando sus beneficios. Un estudio
 
 ## Ejercicio acuático y sus beneficios
 
-La [Asociación Americana de Ejercicio Acuático (2017)](https://www.aeawave.com) destaca que actividades como aquagym o natación suave mejoran la **densidad ósea** en un **15%** y reducen el dolor articular en personas con artritis. Es ideal para quienes necesitan **ejercicio suave** sin impacto.
+La Asociación Americana de Ejercicio Acuático (2017) destaca que actividades como aquagym o natación suave mejoran la **densidad ósea** en un **15%** y reducen el dolor articular en personas con artritis. Es ideal para quienes necesitan **ejercicio suave** sin impacto.
 
 **Recomendaciones:**
 1. **Duración:** 45 minutos/sesión.
@@ -72,7 +72,7 @@ La [OMS (2018)](https://www.who.int) recomienda:
 
 ## Monitoreo del progreso y ajustes en el programa de ejercicio
 
-Según el [Journal of Sports Science and Medicine (2020)](https://www.jssm.org), usar apps como **Strava o MyFitnessPal** ayuda a:
+Según el Journal of Sports Science and Medicine (2020), usar apps como **Strava o MyFitnessPal** ayuda a:
 1. Registrar distancia y tiempo.
 2. Ajustar metas cada 4 semanas.
 3. Monitorear frecuencia cardíaca con dispositivos como [ reloj Garmin Forerunner 55 en Amazon](https://www.amazon.es/s?k=+reloj+Garmin+Forerunner+55&tag=vladys-21).

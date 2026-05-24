@@ -19,13 +19,13 @@ draft: false
 
 
 ## Introducción al Entrenamiento Zona 2
-El **entrenamiento en Zona 2** es una forma de ejercicio cardiovascular que se enfoca en mejorar la función cardiovascular y reducir el estrés oxidativo, lo que puede contribuir a un **envejecimiento saludable**. Según la [American Heart Association (2020)](https://www.heart.org/), el ejercicio regular puede reducir el riesgo de enfermedades cardiovasculares en un **30%**.
+El **entrenamiento en Zona 2** es una forma de ejercicio cardiovascular que se enfoca en mejorar la función cardiovascular y reducir el estrés oxidativo, lo que puede contribuir a un **envejecimiento saludable**. Según la American Heart Association (2020), el ejercicio regular puede reducir el riesgo de enfermedades cardiovasculares en un **30%**.
 
 ## Protocolo Específico para Entrenamiento Zona 2
-Un protocolo de entrenamiento en Zona 2 puede incluir **30 minutos** de ejercicio moderado, **3-4 veces** a la semana, con una intensidad del **50-60%** del máximo esfuerzo. Un estudio publicado en el [Journal of Sports Science and Medicine (2019)](https://www.jssm.org/) encontró que este tipo de entrenamiento puede mejorar la función cardiovascular en un **20%**.
+Un protocolo de entrenamiento en Zona 2 puede incluir **30 minutos** de ejercicio moderado, **3-4 veces** a la semana, con una intensidad del **50-60%** del máximo esfuerzo. Un estudio publicado en el Journal of Sports Science and Medicine (2019) encontró que este tipo de entrenamiento puede mejorar la función cardiovascular en un **20%**.
 
 ## Mecanismos Fisiológicos del Entrenamiento Zona 2
-El entrenamiento en Zona 2 puede mejorar la función mitocondrial y reducir la inflamación, lo que puede contribuir a un **envejecimiento saludable**. Un estudio publicado en el [European Journal of Applied Physiology (2020)](https://link.springer.com/journal/421) encontró que el entrenamiento en Zona 2 puede aumentar la producción de **ATP** en un **15%**.
+El entrenamiento en Zona 2 puede mejorar la función mitocondrial y reducir la inflamación, lo que puede contribuir a un **envejecimiento saludable**. Un estudio publicado en el European Journal of Applied Physiology (2020) encontró que el entrenamiento en Zona 2 puede aumentar la producción de **ATP** en un **15%**.
 
 ## Investigaciones y Evidencia Científica
 Los estudios científicos han demostrado que el entrenamiento en Zona 2 puede reducir el riesgo de enfermedades cardiovasculares y mejorar la función cognitiva. Un estudio publicado en el [National Institutes of Health (2018)](https://www.nih.gov/) encontró que el entrenamiento en Zona 2 puede reducir el riesgo de enfermedades cardiovasculares en un **25%**.
@@ -37,7 +37,7 @@ Aquí hay algunos consejos prácticos para incorporar el entrenamiento en Zona 2
 3. **Comienza con sesiones cortas**: de **20-30 minutos** y aumenta la duración y frecuencia gradualmente.
 
 ## Precauciones y Consideraciones para el Entrenamiento Zona 2
-Antes de comenzar un programa de entrenamiento en Zona 2, es importante evaluar tu salud cardiovascular y buscar asesoramiento médico. Un estudio publicado en el [American College of Sports Medicine (2019)](https://journals.lww.com/msse/) encontró que el entrenamiento en Zona 2 puede ser seguro y efectivo para la mayoría de las personas.
+Antes de comenzar un programa de entrenamiento en Zona 2, es importante evaluar tu salud cardiovascular y buscar asesoramiento médico. Un estudio publicado en el American College of Sports Medicine (2019) encontró que el entrenamiento en Zona 2 puede ser seguro y efectivo para la mayoría de las personas.
 
 ## Preguntas Frecuentes
 ### ¿Cuál es el beneficio del entrenamiento en Zona 2?

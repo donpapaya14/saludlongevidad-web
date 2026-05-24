@@ -25,7 +25,7 @@ El **ejercicio de fuerza para mayores** es fundamental para mantener la salud y 
 ## Beneficios del ejercicio de fuerza
 El ejercicio de fuerza tiene numerosos beneficios para la salud, incluyendo:
 * Mejora de la **masa muscular**: Un estudio de la Universidad de Sydney (2021, BMJ) encontró que 30 minutos de ejercicio de fuerza diario puede aumentar la masa muscular en un 15% en solo 6 meses.
-* Mejora de la **salud ósea**: El ejercicio de fuerza puede mejorar la densidad ósea, reduciendo el riesgo de **osteoporosis** y **fracturas**. Según la [Fundación Nacional de Osteoporosis](https://www.nof.org/), el ejercicio de fuerza puede aumentar la densidad ósea en un 5% en solo 12 meses.
+* Mejora de la **salud ósea**: El ejercicio de fuerza puede mejorar la densidad ósea, reduciendo el riesgo de **osteoporosis** y **fracturas**. Según la Fundación Nacional de Osteoporosis, el ejercicio de fuerza puede aumentar la densidad ósea en un 5% en solo 12 meses.
 * Reducción del riesgo de **enfermedades crónicas**: Un estudio de la Universidad de California (2020) encontró que el ejercicio de fuerza puede reducir el riesgo de enfermedades cardíacas en un 20% y el riesgo de diabetes en un 15%.
 
 ## Ejercicios de fuerza para principiantes
@@ -71,7 +71,7 @@ Es importante estirar antes y después del ejercicio, escuchar al cuerpo y no so
 El ejercicio de fuerza puede mejorar la salud ósea y reducir el riesgo de osteoporosis y fracturas.
 
 ### ¿Dónde puedo encontrar más información sobre el ejercicio de fuerza?
-Puedes encontrar más información sobre el ejercicio de fuerza en la [Academia Americana de Medicina del Deporte](https://www.amssm.org/) y en la [Asociación Americana de Fisioterapia](https://www.apta.org/).
+Puedes encontrar más información sobre el ejercicio de fuerza en la Academia Americana de Medicina del Deporte y en la Asociación Americana de Fisioterapia.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he encontrado que el ejercicio de fuerza es fundamental para mantener la salud y el bienestar. Me gusta empezar mi día con un programa de entrenamiento de fuerza personalizado, que incluye ejercicios como sentadillas, flexiones y extensiones. También me gusta tomar suplementos como la proteína en polvo y la creatina para apoyar mi ejercicio de fuerza.
@@ -84,7 +84,7 @@ Como desarrollador de apps y cocinero profesional, he encontrado que el ejercici
 * Escucha al cuerpo y no sobrepasar los límites.
 * Utiliza equipo de seguridad.
 * Consulta con un profesional de la salud antes de empezar cualquier programa de ejercicio.
-* Visita la [OMS](https://www.who.int/) y la [Academia Americana de Medicina del Deporte](https://www.amssm.org/) para más información sobre el ejercicio de fuerza.
+* Visita la [OMS](https://www.who.int/) y la Academia Americana de Medicina del Deporte para más información sobre el ejercicio de fuerza.
 * Considera comprar [Optimum Nutrition Proteína en Polvo](https://www.amazon.com/Optimum-Nutrition-Gold-Standard-Protein/dp/B000QSNYGI) y otros productos complementarios en [Amazon](https://www.amazon.com/).
    
 

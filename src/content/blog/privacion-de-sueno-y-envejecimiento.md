@@ -76,7 +76,7 @@ Sí, pero con límites: 20-30 minutos antes de las 15h. Investigación de la *NA
 
 ## Mi Experiencia
 
-Como desarrollador de apps, pasé años trabajando hasta altas horas con 4-5 horas de sueño. Noté cómo mi piel perdía elasticidad y cometía errores de código básicos. Al implementar **horarios estrictos de sueño** usando la app [Sleep Cycle](https://www.sleepcycle.com/), en 3 meses recuperé mi capacidad de concentración y reduje mis ojeras visiblemente. Ahora uso [ Máscara de sueño con seda en Amazon](https://www.amazon.es/s?k=+Máscara+de+sueño+con+seda&tag=vladys-21) para bloquear luz completamente - ¡cambió mi calidad de descanso!
+Como desarrollador de apps, pasé años trabajando hasta altas horas con 4-5 horas de sueño. Noté cómo mi piel perdía elasticidad y cometía errores de código básicos. Al implementar **horarios estrictos de sueño** usando la app Sleep Cycle, en 3 meses recuperé mi capacidad de concentración y reduje mis ojeras visiblemente. Ahora uso [ Máscara de sueño con seda en Amazon](https://www.amazon.es/s?k=+Máscara+de+sueño+con+seda&tag=vladys-21) para bloquear luz completamente - ¡cambió mi calidad de descanso!
 
 ## Resumen Práctico
 

@@ -21,7 +21,7 @@ draft: false
 Los **telómeros** son estructuras que se encuentran en los extremos de los cromosomas y juegan un papel crucial en la protección del material genético. Según el [National Institute on Aging](https://www.nia.nih.gov/), en 2020, se demostró que los telómeros son fundamentales para la longevidad y la salud celular. La longitud de los telómeros se reduce con el tiempo debido al envejecimiento y el **estrés oxidativo**.
 
 ## Estrés Oxidativo y Telómeros
-El **estrés oxidativo** puede dañar los telómeros y acelerar el envejecimiento celular. Un estudio publicado en la revista [Cell](https://www.cell.com/) en 2019 encontró que el estrés oxidativo puede reducir la longitud de los telómeros en un **30%**. Esto puede llevar a la activación de vías de señalización que promueven el envejecimiento y la muerte celular.
+El **estrés oxidativo** puede dañar los telómeros y acelerar el envejecimiento celular. Un estudio publicado en la revista Cell en 2019 encontró que el estrés oxidativo puede reducir la longitud de los telómeros en un **30%**. Esto puede llevar a la activación de vías de señalización que promueven el envejecimiento y la muerte celular.
 
 ## Antioxidantes y Protección de Telómeros
 Los **antioxidantes** pueden ayudar a proteger los telómeros del daño oxidativo. El [Instituto Nacional de Salud](https://www.nih.gov/) recomienda consumir una dieta rica en frutas y verduras para aumentar la ingesta de antioxidantes. Algunos ejemplos de alimentos ricos en antioxidantes son:
@@ -32,7 +32,7 @@ Los **antioxidantes** pueden ayudar a proteger los telómeros del daño oxidativ
 Algunos suplementos pueden ayudar a proteger los telómeros, como el **ácido alfa-lipoico** y el **coenzima Q10**. Un estudio publicado en la revista [Journal of Nutrition](https://academic.oup.com/jn) en 2020 encontró que el suplemento de ácido alfa-lipoico puede aumentar la longitud de los telómeros en un **25%**. Puedes encontrar suplementos de ácido alfa-lipoico en [ Suplemento de ácido alfa-lipoico en Amazon](https://www.amazon.es/s?k=+Suplemento+de+ácido+alfa-lipoico&tag=vladys-21) o [ Coenzima Q10 en Amazon](https://www.amazon.es/s?k=+Coenzima+Q10&tag=vladys-21).
 
 ## Estilo de Vida y Salud de los Telómeros
-Un estilo de vida saludable puede ayudar a mantener la salud de los telómeros. Un estudio publicado en la revista [Proceedings of the National Academy of Sciences](https://www.pnas.org/) en 2018 encontró que la práctica regular de **ejercicio** puede aumentar la longitud de los telómeros en un **15%**. Algunos consejos para mantener un estilo de vida saludable son:
+Un estilo de vida saludable puede ayudar a mantener la salud de los telómeros. Un estudio publicado en la revista Proceedings of the National Academy of Sciences en 2018 encontró que la práctica regular de **ejercicio** puede aumentar la longitud de los telómeros en un **15%**. Algunos consejos para mantener un estilo de vida saludable son:
 1.  **Ejercicio regular**: al menos **30 minutos** de ejercicio moderado al día
 2.  **Dieta equilibrada**: rica en frutas, verduras y granos integrales
 3.  **Reducción del estrés**: práctica de técnicas de relajación como la **meditación** o el **yoga**

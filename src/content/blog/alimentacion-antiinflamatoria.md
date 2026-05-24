@@ -50,13 +50,13 @@ La inflamación crónica es un proceso que puede contribuir al envejecimiento y 
 ### ¿Cuáles son los beneficios de la dieta antiinflamatoria?
 La dieta antiinflamatoria puede reducir la inflamación crónica y promover la longevidad. Según la [Universidad de California](https://www.uc.edu/), la dieta antiinflamatoria puede mejorar la función cognitiva en personas mayores.
 ### ¿Cómo puedo incorporar la dieta antiinflamatoria en mi vida diaria?
-Para incorporar la dieta antiinflamatoria en la vida diaria, es importante planificar las comidas, elegir opciones de compra saludables y modificar la dieta según las necesidades individuales. La [Academia de Nutrición y Dietética](https://www.andjrnl.org/) ofrece recursos y consejos para seguir una dieta saludable.
+Para incorporar la dieta antiinflamatoria en la vida diaria, es importante planificar las comidas, elegir opciones de compra saludables y modificar la dieta según las necesidades individuales. La Academia de Nutrición y Dietética ofrece recursos y consejos para seguir una dieta saludable.
 ### ¿Qué suplementos puedo tomar para reducir la inflamación?
 El **Suplemento de omega-3** puede ser beneficioso para reducir la inflamación. También se pueden considerar otros suplementos como el **[Vitamina D en Amazon](https://www.amazon.es/s?k=Vitamina+D&tag=vladys-21)(https://www.amazon.es/)** y el **[Probióticos en Amazon](https://www.amazon.es/s?k=Probióticos&tag=vladys-21)(https://www.amazon.es/)**.
 ### ¿Cómo puedo mantener una buena salud en general?
 Para mantener una buena salud en general, es importante seguir una dieta equilibrada y variada, hacer ejercicio regularmente y dormir lo suficiente. La [Organización Mundial de la Salud](https://www.who.int/) ofrece consejos y recursos para mantener una buena salud.
 ### ¿Qué recursos puedo utilizar para aprender más sobre la dieta antiinflamatoria?
-Para aprender más sobre la dieta antiinflamatoria, se pueden utilizar recursos como la [Universidad de Harvard](https://www.harvard.edu/), la [Universidad de California](https://www.uc.edu/) y la [Academia de Nutrición y Dietética](https://www.andjrnl.org/).
+Para aprender más sobre la dieta antiinflamatoria, se pueden utilizar recursos como la [Universidad de Harvard](https://www.harvard.edu/), la [Universidad de California](https://www.uc.edu/) y la Academia de Nutrición y Dietética.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he podido experimentar personalmente los beneficios de la dieta antiinflamatoria. He notado una mejora significativa en mi salud y energía desde que empecé a seguir una dieta antiinflamatoria. Me gusta compartir mis conocimientos y experiencias con otros para ayudarlos a mejorar su salud.
@@ -68,7 +68,7 @@ Para resumir, aquí hay 6 puntos de acción concretos para incorporar la dieta a
 3. **Modifica tu dieta según tus necesidades individuales**: considera tus necesidades dietéticas personales y ajusta la dieta antiinflamatoria en consecuencia
 4. **Toma suplementos**: considera tomar suplementos como el **Suplemento de omega-3** y el **[Vitamina D en Amazon](https://www.amazon.es/s?k=Vitamina+D&tag=vladys-21)(https://www.amazon.es/)**
 5. **Mantén una buena salud en general**: sigue una dieta equilibrada y variada, haz ejercicio regularmente y duerme lo suficiente
-6. **Aprende más**: utiliza recursos como la [Universidad de Harvard](https://www.harvard.edu/), la [Universidad de California](https://www.uc.edu/) y la [Academia de Nutrición y Dietética](https://www.andjrnl.org/) para aprender más sobre la dieta antiinflamatoria
+6. **Aprende más**: utiliza recursos como la [Universidad de Harvard](https://www.harvard.edu/), la [Universidad de California](https://www.uc.edu/) y la Academia de Nutrición y Dietética para aprender más sobre la dieta antiinflamatoria
 
 
 ### You might also like

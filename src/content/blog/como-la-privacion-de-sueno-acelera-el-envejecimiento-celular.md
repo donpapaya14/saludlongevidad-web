@@ -31,7 +31,7 @@ El **cortisol** es una hormona que se libera en respuesta al estrés. Niveles el
 El **sueño profundo** es crucial para la reparación del ADN. Un estudio publicado en [Nature Communications](https://www.nature.com/ncomms/) en 2020 encontró que las ondas delta durante el sueño profundo permiten la reparación del daño genético. La falta de sueño puede impedir esta reparación, lo que puede llevar a un envejecimiento prematuro.
 
 ## Microbioma intestinal: la conexión oculta
-El **microbioma intestinal** juega un papel importante en nuestra salud. Un estudio publicado en [Cell Reports](https://www.cell.com/cell-reports/) en 2022 encontró que la privación del sueño puede alterar el equilibrio de las bacterias intestinales, lo que puede llevar a una **inflamación crónica**.
+El **microbioma intestinal** juega un papel importante en nuestra salud. Un estudio publicado en Cell Reports en 2022 encontró que la privación del sueño puede alterar el equilibrio de las bacterias intestinales, lo que puede llevar a una **inflamación crónica**.
 
 ## Solución práctica: el protocolo de 4 pasos
 Para recuperar horas de sueño perdido, se puede seguir un protocolo de 4 pasos:

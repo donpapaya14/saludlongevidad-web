@@ -54,19 +54,19 @@ Puedes hacer ejercicios como **caminar**, **correr**, **ciclar** o **nadar**.
 ### ¿Cómo puedo monitorear mi progreso en el entrenamiento en zona 2?
 Puedes medir la frecuencia cardíaca, la distancia recorrida y la percepción del esfuerzo.
 ### ¿Qué tipo de equipo necesito para entrenar en zona 2?
-Puedes utilizar un **reloj de pulsera** como la [Pulsera de frecuencia cardíaca Garmin Forerunner 945](https://www.garmin.com/es-ES/p/forerunner-945) para monitorear tu frecuencia cardíaca y ajustar el entrenamiento según sea necesario.
+Puedes utilizar un **reloj de pulsera** como la Pulsera de frecuencia cardíaca Garmin Forerunner 945 para monitorear tu frecuencia cardíaca y ajustar el entrenamiento según sea necesario.
 
 ## Mi Experiencia
-Como desarrollador de apps y cocinero profesional, he encontrado que el entrenamiento en zona 2 es una forma efectiva de mejorar la salud y reducir el estrés. Me gusta combinar el entrenamiento en zona 2 con otros ejercicios, como el entrenamiento de fuerza y el estiramiento. También me gusta utilizar la [Pulsera de frecuencia cardíaca Garmin Forerunner 945](https://www.garmin.com/es-ES/p/forerunner-945) para monitorear mi progreso y ajustar el entrenamiento según sea necesario.
+Como desarrollador de apps y cocinero profesional, he encontrado que el entrenamiento en zona 2 es una forma efectiva de mejorar la salud y reducir el estrés. Me gusta combinar el entrenamiento en zona 2 con otros ejercicios, como el entrenamiento de fuerza y el estiramiento. También me gusta utilizar la Pulsera de frecuencia cardíaca Garmin Forerunner 945 para monitorear mi progreso y ajustar el entrenamiento según sea necesario.
 
 ## Resumen Práctico
 1. **Comienza** con sesiones cortas y aumenta gradualmente la duración y la intensidad
 2. **Monitorea** tu frecuencia cardíaca y ajusta el entrenamiento según sea necesario
 3. **Combina** el entrenamiento en zona 2 con otros ejercicios, como el entrenamiento de fuerza y el estiramiento
-4. **Utiliza** un reloj de pulsera como la [Pulsera de frecuencia cardíaca Garmin Forerunner 945](https://www.garmin.com/es-ES/p/forerunner-945) para monitorear tu progreso
+4. **Utiliza** un reloj de pulsera como la Pulsera de frecuencia cardíaca Garmin Forerunner 945 para monitorear tu progreso
 5. **Ajusta** el entrenamiento según las necesidades individuales
 6. **Consulta** con un profesional de la salud antes de comenzar cualquier programa de entrenamiento
-7. **Lee** más sobre el entrenamiento en zona 2 en la [revista Journal of Applied Physiology](https://journals.physiology.org/journal/jappl)
+7. **Lee** más sobre el entrenamiento en zona 2 en la revista Journal of Applied Physiology
 8. **Visita** la [página web de la Universidad de Harvard](https://www.harvard.edu/) para obtener más información sobre el entrenamiento en zona 2
 
 

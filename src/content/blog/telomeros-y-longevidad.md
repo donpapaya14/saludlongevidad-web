@@ -50,7 +50,7 @@ Existen varias estrategias para mantener y proteger los telómeros, incluyendo e
 ### ¿Qué suplementos puedo tomar para mantener la salud de mis telómeros?
 Las Vitaminas para la salud del telómero pueden ayudar a mantener la salud de los telómeros. 
 ### ¿Dónde puedo encontrar más información sobre los telómeros?
-Puedes encontrar más información sobre los telómeros en la [OMS](https://www.who.int/), la [Universidad de Harvard](https://www.harvard.edu/) y la [Revista Aging Cell](https://onlinelibrary.wiley.com/journal/14749720). 
+Puedes encontrar más información sobre los telómeros en la [OMS](https://www.who.int/), la [Universidad de Harvard](https://www.harvard.edu/) y la Revista Aging Cell. 
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he aprendido la importancia de mantener un estilo de vida saludable para proteger mis telómeros. Me gusta incluir ingredientes ricos en antioxidantes en mis recetas, como las frutas y verduras, y trato de hacer ejercicio regularmente. 
@@ -61,7 +61,7 @@ Como desarrollador de apps y cocinero profesional, he aprendido la importancia d
 3. **Toma suplementos**: las Vitaminas para la salud del telómero pueden ayudar a mantener la salud de los telómeros.
 4. **Reduce el estrés**: el estrés oxidativo puede acelerar el acortamiento de los telómeros.
 5. **Consulta con un profesional**: si tienes alguna pregunta o inquietud sobre la salud de tus telómeros, consulta con un profesional de la salud.
-6. **Aprende más**: visita la [OMS](https://www.who.int/), la [Universidad de Harvard](https://www.harvard.edu/) y la [Revista Aging Cell](https://onlinelibrary.wiley.com/journal/14749720) para obtener más información sobre los telómeros.
+6. **Aprende más**: visita la [OMS](https://www.who.int/), la [Universidad de Harvard](https://www.harvard.edu/) y la Revista Aging Cell para obtener más información sobre los telómeros.
 
 
 ---

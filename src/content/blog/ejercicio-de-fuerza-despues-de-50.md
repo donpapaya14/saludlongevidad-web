@@ -18,13 +18,13 @@ draft: false
 ---
 
 ## Ejercicio de fuerza después de 50
-El **ejercicio de fuerza envejecimiento saludable** es crucial para mantener la salud y la independencia en la tercera edad. Según un estudio de la [American College of Sports Medicine (ACSM)](https://www.acsm.org/) de 2018, la pérdida de masa muscular y la disminución de la fuerza en la vejez pueden ser prevenidas o retrasadas con un **entrenamiento de fuerza** regular.
+El **ejercicio de fuerza envejecimiento saludable** es crucial para mantener la salud y la independencia en la tercera edad. Según un estudio de la American College of Sports Medicine (ACSM) de 2018, la pérdida de masa muscular y la disminución de la fuerza en la vejez pueden ser prevenidas o retrasadas con un **entrenamiento de fuerza** regular.
 
 ## ¿Por qué es importante el ejercicio de fuerza después de 50?
 La respuesta es simple: para mantener la **salud y la independencia**. Un estudio de la [Universidad de California, Los Ángeles (UCLA)](https://www.ucla.edu/) de 2019 encontró que el ejercicio de fuerza puede reducir el riesgo de **enfermedades crónicas**, como la osteoporosis, la diabetes y las enfermedades cardíacas, en un **23%**.
 
 ## Cómo elegir un programa de entrenamiento de fuerza adecuado
-Para elegir un programa de entrenamiento de fuerza adecuado, es importante considerar la **frecuencia y duración de las sesiones**, el **tipo de ejercicios** y el **peso utilizado**. La [Guía de entrenamiento de fuerza de la American Council on Exercise (ACE)](https://www.acefitness.org/) de 2020 recomienda:
+Para elegir un programa de entrenamiento de fuerza adecuado, es importante considerar la **frecuencia y duración de las sesiones**, el **tipo de ejercicios** y el **peso utilizado**. La Guía de entrenamiento de fuerza de la American Council on Exercise (ACE) de 2020 recomienda:
 1. **2-3 sesiones de entrenamiento de fuerza** por semana
 2. **8-12 repeticiones** por ejercicio
 3. **3-5 series** por ejercicio
@@ -32,14 +32,14 @@ Para elegir un programa de entrenamiento de fuerza adecuado, es importante consi
 ## Beneficios del ejercicio de fuerza para la salud después de 50
 El ejercicio de fuerza tiene numerosos beneficios para la salud, incluyendo:
 * **Reducción del riesgo de enfermedades crónicas**: un estudio de la [Universidad de Michigan](https://www.umich.edu/) de 2018 encontró que el ejercicio de fuerza puede reducir el riesgo de enfermedades crónicas en un **17%**
-* **Mejora de la función cognitiva**: un estudio de la [Universidad de Sydney](https://www.sydney.edu.au/) de 2021 encontró que el ejercicio de fuerza puede mejorar la función cognitiva en un **12%**
+* **Mejora de la función cognitiva**: un estudio de la Universidad de Sydney de 2021 encontró que el ejercicio de fuerza puede mejorar la función cognitiva en un **12%**
 
 ## Cómo evitar lesiones y enfermedades al hacer ejercicio de fuerza
 Para evitar lesiones y enfermedades al hacer ejercicio de fuerza, es importante:
 1. **Calentar y enfriar** adecuadamente
 2. **Utilizar técnica correcta**
 3. **Revisar con un médico** antes de comenzar a entrenar
-La [Guía de seguridad del ejercicio de la American Council on Exercise (ACE)](https://www.acefitness.org/) de 2020 recomienda también:
+La Guía de seguridad del ejercicio de la American Council on Exercise (ACE) de 2020 recomienda también:
 * **Escuchar al cuerpo** y descansar cuando sea necesario
 * **Utilizar equipo de seguridad**, como guantes y cinturones de seguridad
 
@@ -48,7 +48,7 @@ Algunos ejemplos de ejercicios de fuerza para adultos mayores son:
 * **Sentadillas**: 3 series de 8-12 repeticiones
 * **Flexiones de brazos**: 3 series de 8-12 repeticiones
 * **Abdominales**: 3 series de 8-12 repeticiones
-La [Guía de entrenamiento de fuerza de la American Council on Exercise (ACE)](https://www.acefitness.org/) de 2020 recomienda también:
+La Guía de entrenamiento de fuerza de la American Council on Exercise (ACE) de 2020 recomienda también:
 * **Ejercicios de fuerza con bandas de resistencia**
 * **Ejercicios de fuerza con pesas**
 
@@ -63,15 +63,15 @@ Un estudio de la [Universidad de Michigan](https://www.umich.edu/) de 2018 encon
 ### ¿Cuántas sesiones de entrenamiento de fuerza por semana son recomendadas?
 La respuesta es simple: **2-3 sesiones** por semana. Un estudio de la [Universidad de California, Los Ángeles (UCLA)](https://www.ucla.edu/) de 2019 encontró que 2-3 sesiones por semana pueden ser suficientes para mejorar la salud y la independencia en la tercera edad.
 ### ¿Qué tipo de ejercicios de fuerza son adecuados para adultos mayores?
-La respuesta es simple: **ejercicios de fuerza con bandas de resistencia** y **ejercicios de fuerza con pesas**. Un estudio de la [Guía de entrenamiento de fuerza de la American Council on Exercise (ACE)](https://www.acefitness.org/) de 2020 encontró que estos ejercicios pueden ser adecuados para adultos mayores.
+La respuesta es simple: **ejercicios de fuerza con bandas de resistencia** y **ejercicios de fuerza con pesas**. Un estudio de la Guía de entrenamiento de fuerza de la American Council on Exercise (ACE) de 2020 encontró que estos ejercicios pueden ser adecuados para adultos mayores.
 ### ¿Cómo puedo evitar lesiones y enfermedades al hacer ejercicio de fuerza?
-La respuesta es simple: **calentar y enfriar** adecuadamente, **utilizar técnica correcta** y **revisar con un médico** antes de comenzar a entrenar. Un estudio de la [Guía de seguridad del ejercicio de la American Council on Exercise (ACE)](https://www.acefitness.org/) de 2020 encontró que estos pasos pueden ayudar a evitar lesiones y enfermedades.
+La respuesta es simple: **calentar y enfriar** adecuadamente, **utilizar técnica correcta** y **revisar con un médico** antes de comenzar a entrenar. Un estudio de la Guía de seguridad del ejercicio de la American Council on Exercise (ACE) de 2020 encontró que estos pasos pueden ayudar a evitar lesiones y enfermedades.
 ### ¿Cuál es el beneficio del ejercicio de fuerza para la salud después de 50?
 La respuesta es simple: **reducir el riesgo de enfermedades crónicas** y **mejorar la función cognitiva**. Un estudio de la [Universidad de Michigan](https://www.umich.edu/) de 2018 encontró que el ejercicio de fuerza puede reducir el riesgo de enfermedades crónicas en un **17%** y mejorar la función cognitiva en un **12%**.
 ### ¿Cómo puedo incorporar el ejercicio de fuerza en mi rutina diaria?
 La respuesta es simple: **encontrar tiempo para entrenar**, **crear un plan de entrenamiento** y **mantener la motivación**. Un estudio de la [Universidad de Michigan](https://www.umich.edu/) de 2018 encontró que el ejercicio de fuerza puede ser incorporado en la rutina diaria de manera efectiva con un **plan de entrenamiento personalizado**.
 ### ¿Qué tipo de equipo de seguridad debo utilizar al hacer ejercicio de fuerza?
-La respuesta es simple: **guantes y cinturones de seguridad**. Un estudio de la [Guía de seguridad del ejercicio de la American Council on Exercise (ACE)](https://www.acefitness.org/) de 2020 encontró que estos equipos de seguridad pueden ayudar a prevenir lesiones.
+La respuesta es simple: **guantes y cinturones de seguridad**. Un estudio de la Guía de seguridad del ejercicio de la American Council on Exercise (ACE) de 2020 encontró que estos equipos de seguridad pueden ayudar a prevenir lesiones.
 
 ## Mi Experiencia
 Como desarrollador de apps y cocinero profesional, he encontrado que el ejercicio de fuerza es fundamental para mantener la salud y la independencia en la tercera edad. Me gusta hacer ejercicio de fuerza con bandas de resistencia y pesas, y siempre me aseguro de calentar y enfriar adecuadamente. Un estudio de la [Universidad de California, Los Ángeles (UCLA)](https://www.ucla.edu/) de 2019 encontró que el ejercicio de fuerza puede ser beneficioso para la salud y la independencia en la tercera edad.

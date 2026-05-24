@@ -50,20 +50,20 @@ Reducir la ingesta calórica en un **20-30%** aumenta los niveles de NAD+, cofac
 3. **Meditación**: Reduce cortisol, permitiendo mayor actividad de sirtuinas.
 
 ## Investigación Actual y Futura sobre Sirtuinas
-La [Sociedad para la Investigación del Envejecimiento (2023)](https://www.geron.org) explora fármacos como el SRT2104, que en ensayos con humanos extendió la vida saludable en un **15%**. Otra línea prometedora es la terapia génica para sobreexpresar SIRT6, vinculada a la reparación del ADN.
+La Sociedad para la Investigación del Envejecimiento (2023) explora fármacos como el SRT2104, que en ensayos con humanos extendió la vida saludable en un **15%**. Otra línea prometedora es la terapia génica para sobreexpresar SIRT6, vinculada a la reparación del ADN.
 
 ## Preguntas Frecuentes
 ### ¿Las sirtuinas pueden revertir el envejecimiento?
 No revierten, pero ralentizan el proceso. Un estudio en ratones (MIT, 2021) mostró que activar SIRT2 recuperó un **50%** de la función cognitiva perdida.
 
 ### ¿El resveratrol tiene efectos secundarios?
-En dosis altas (>1g/día) puede causar molestias gastrointestinales. La dosis óptima es 150-500 mg/día ([Mayo Clinic, 2022](https://www.mayoclinic.org)).
+En dosis altas (>1g/día) puede causar molestias gastrointestinales. La dosis óptima es 150-500 mg/día (Mayo Clinic, 2022).
 
 ### ¿Funcionan los suplementos de sirtuinas sin dieta?
 No. Un estudio de la Universidad de Cambridge (2020) encontró que su efectividad aumenta un **70%** combinados con restricción calórica.
 
 ### ¿A qué edad empezar a cuidar las sirtuinas?
-Desde los 30 años, cuando los niveles de NAD+ empiezan a descender un **5%** por década ([Cell Metabolism, 2019](https://www.cell.com/cell-metabolism)).
+Desde los 30 años, cuando los niveles de NAD+ empiezan a descender un **5%** por década (Cell Metabolism, 2019).
 
 ### ¿El vino tinto activa suficientes sirtuinas?
 No. Necesitarías beber 40 copas/día para obtener 150 mg de resveratrol. Mejor optar por suplementos o alimentos concentrados.
