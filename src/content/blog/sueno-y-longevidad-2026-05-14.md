@@ -79,3 +79,9 @@ Para promover la longevidad y mejorar la calidad del sueño, se recomienda:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Circadian rhythm optimization for longevity](/blog/circadian-rhythm-optimization-for-longevity)
+- [Cómo sincronizar ritmo circadiano para dormir mejor](/blog/como-sincronizar-ritmo-circadiano-para-dormir-mejor)
+- [Sueño y Longevidad](/blog/sueno-y-longevidad-2026-05-21)

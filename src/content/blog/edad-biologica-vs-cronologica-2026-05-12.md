@@ -91,3 +91,9 @@ Como desarrollador de apps y cocinero profesional, he aprendido la importancia d
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)
+- [Biological age vs chronological age](/blog/biological-age-vs-chronological-age)
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica)

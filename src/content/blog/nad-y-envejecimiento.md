@@ -124,3 +124,9 @@ Como desarrollador de apps y cocinero profesional, he experimentado directamente
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio para vivir más](/blog/ejercicio-para-vivir-mas)
+- [Entrenamiento de fuerza y longevidad](/blog/entrenamiento-de-fuerza-y-longevidad)
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)

@@ -116,3 +116,9 @@ Based on the convergence of evidence across Blue Zones and the meta-analyses: **
 - **No added sugar as default** — only for celebrations
 - **Whole grains only** — sourdough, sweet potatoes, oats, barley
 - **Herbal teas over coffee** — especially rosemary, sage, oregano
+
+## 📚 Sigue leyendo
+
+- [Alimentación en Zonas Azules](/blog/alimentacion-en-zonas-azules)
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento-2026-05-15)
+- [Harvard encuentra en pollo la clave](/blog/harvard-encuentra-en-pollo-la-clave)

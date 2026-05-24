@@ -78,3 +78,9 @@ Puedes encontrar productos como [Extracto de polifenoles de té verde en Amazon]
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento-2026-05-15)
+- [El compuesto en el brócoli que alarga la vida](/blog/el-compuesto-en-el-brocoli-que-alarga-la-vida)
+- [Omega 3 y Longevidad](/blog/omega-3-y-longevidad)

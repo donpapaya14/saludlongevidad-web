@@ -112,3 +112,9 @@ Aquí te presento 6 puntos de acción concretos para mejorar tu sueño y aumenta
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Horas de sueño óptimas por edad](/blog/horas-de-sueno-optimas-por-edad-2026-05-19)
+- [Impacto del Sueño en la Longevidad](/blog/impacto-del-sueno-en-la-longevidad)
+- [Telómeros y Sueño](/blog/telomeros-y-sueno)

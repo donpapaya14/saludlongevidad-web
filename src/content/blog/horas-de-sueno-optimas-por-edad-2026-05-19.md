@@ -91,3 +91,9 @@ Aquí hay algunos puntos de acción para mejorar el sueño y la longevidad:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Circadian rhythm optimization for longevity](/blog/circadian-rhythm-optimization-for-longevity)
+- [Privación de Sueño y Envejecimiento](/blog/privacion-de-sueno-y-envejecimiento)
+- [Privación de sueño y envejecimiento](/blog/privacion-de-sueno-y-envejecimiento-2026-05-24)

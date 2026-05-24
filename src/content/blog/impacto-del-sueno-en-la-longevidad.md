@@ -86,3 +86,9 @@ Aquí hay algunos puntos de acción concretos para mejorar la calidad del **sue�
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Horas de sueño óptimas por edad](/blog/horas-de-sueno-optimas-por-edad-2026-05-19)
+- [Sueño y Longevidad](/blog/sueno-y-longevidad-2026-05-14)
+- [Activación de la vía de la reparación celular](/blog/activacion-de-la-via-de-la-reparacion-celular)

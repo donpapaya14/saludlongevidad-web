@@ -117,3 +117,9 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Bacterias para longevidad](/blog/bacterias-para-longevidad)
+- [Omega 3 y Longevidad](/blog/omega-3-y-longevidad)
+- [El compuesto en el brócoli que alarga la vida](/blog/el-compuesto-en-el-brocoli-que-alarga-la-vida)

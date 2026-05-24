@@ -114,3 +114,9 @@ Hoy diseño apps de nutrición que incluyen recordatorios para el consumo de ome
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Sirtuinas y Longevidad](/blog/sirtuinas-y-longevidad)
+- [Alimentación antiinflamatoria](/blog/alimentacion-antiinflamatoria)
+- [Beneficios de la Restricta Calórica](/blog/beneficios-de-la-restricta-calorica)

@@ -145,3 +145,9 @@ Los resultados fueron notorios en meses: más energía, mejor concentración y h
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Polyfenoles y longevidad](/blog/polyfenoles-y-longevidad)
+- [Alimentación antiinflamatoria](/blog/alimentacion-antiinflamatoria)
+- [Activación de sirtuinas para longevidad](/blog/activacion-de-sirtuinas-para-longevidad)

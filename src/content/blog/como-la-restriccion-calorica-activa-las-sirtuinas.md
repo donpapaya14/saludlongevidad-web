@@ -86,3 +86,9 @@ A continuación, te presento algunos puntos de acción concretos que puedes segu
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Exposición matutina al sol y longevidad](/blog/exposicion-matutina-al-sol-y-longevidad)
+- [Cómo el propósito de vida alarga la longevidad en Zonas Azules](/blog/como-el-proposito-de-vida-alarga-la-longevidad-en-zonas-azules)
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-20)

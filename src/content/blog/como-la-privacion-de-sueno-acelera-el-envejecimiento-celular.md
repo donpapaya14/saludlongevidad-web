@@ -86,3 +86,9 @@ Para resumir, aquí hay 6 puntos de acción concretos para mejorar tu sueño y r
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Sueño](/blog/telomeros-y-sueno)
+- [Horas de sueño óptimas por edad para longevidad](/blog/horas-de-sueno-optimas-por-edad-para-longevidad)
+- [Circadian rhythm optimization for longevity](/blog/circadian-rhythm-optimization-for-longevity)

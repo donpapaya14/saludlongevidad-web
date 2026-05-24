@@ -89,3 +89,9 @@ Para mantener un microbioma intestinal saludable y aumentar la longevidad, sigue
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [La Ruta a la Longevidad: Un Compuesto de la Uva](/blog/la-ruta-a-la-longevidad-un-compuesto-de-la-uva)
+- [Polyfenoles y longevidad](/blog/polyfenoles-y-longevidad)
+- [What People in Blue Zones Actually Eat Every Day (The Real Data)](/blog/blue-zones-diet-real-data)

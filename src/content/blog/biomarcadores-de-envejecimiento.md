@@ -78,3 +78,9 @@ Aquí hay 6 puntos de acción concretos que puedes seguir para mejorar tus bioma
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo)
+- [Telómeros más largos con curcuma](/blog/telomeros-mas-largos-con-curcuma)
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica-2026-05-12)

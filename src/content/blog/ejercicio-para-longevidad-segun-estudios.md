@@ -80,3 +80,9 @@ A continuación, te presento algunos puntos de acción concretos para mejorar tu
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio con pesas para longevidad](/blog/ejercicio-con-pesas-para-longevidad)
+- [Senolisis para longevidad](/blog/senolisis-para-longevidad)
+- [Ejercicio después de 50: guía basada en evidencia](/blog/ejercicio-despues-de-50-guia-basada-en-evidencia)

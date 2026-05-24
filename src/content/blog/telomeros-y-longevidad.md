@@ -83,3 +83,9 @@ Como desarrollador de apps y cocinero profesional, he aprendido la importancia d
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo)
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica)
+- [Telomerasas para la longevidad](/blog/telomerasas-para-la-longevidad)

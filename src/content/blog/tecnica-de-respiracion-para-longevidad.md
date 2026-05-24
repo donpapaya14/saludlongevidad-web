@@ -79,3 +79,9 @@ Como desarrollador de apps y cocinero profesional, he encontrado que la respirac
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Socialización y longevidad](/blog/socializacion-y-longevidad)
+- [Cómo la meditación alarga la vida](/blog/como-la-meditacion-alarga-la-vida)
+- [Técnica Respiratoria Vagus Nervio](/blog/tecnica-respiratoria-vagus-nervio)

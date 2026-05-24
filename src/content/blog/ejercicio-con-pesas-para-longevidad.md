@@ -144,3 +144,9 @@ Lo más revelador fue ver a mi padre (72 años) incorporar sentadillas con silla
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio para Longevidad según Estudios](/blog/ejercicio-para-longevidad-segun-estudios)
+- [Entrenamiento HIIT y longevidad: años ganados según ciencia](/blog/entrenamiento-hiit-y-longevidad-anos-ganados-segun-ciencia)
+- [Entrenamiento de Fuerza para Longevidad](/blog/entrenamiento-de-fuerza-para-longevidad)

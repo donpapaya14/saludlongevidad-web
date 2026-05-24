@@ -89,3 +89,9 @@ Aquí hay algunos puntos de acción concretos para incorporar el entrenamiento e
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio para Longevidad según Estudios](/blog/ejercicio-para-longevidad-segun-estudios)
+- [Minimum ejercicio para beneficios de longevidad WHO](/blog/minimum-ejercicio-para-beneficios-de-longevidad-who)
+- [Ejercicio de fuerza después de 50](/blog/ejercicio-de-fuerza-despues-de-50-2026-05-16)

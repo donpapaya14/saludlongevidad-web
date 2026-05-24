@@ -122,3 +122,9 @@ Ahora uso mi Xiaomi Band para retarme: cuando no llego a los 3,000 pasos rápido
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo el propósito de vida alarga la longevidad en Zonas Azules](/blog/como-el-proposito-de-vida-alarga-la-longevidad-en-zonas-azules)
+- [Hábitos de las Zonas Azules](/blog/habitos-de-las-zonas-azules)
+- [Cómo la meditación alarga la vida](/blog/como-la-meditacion-alarga-la-vida)

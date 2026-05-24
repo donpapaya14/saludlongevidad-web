@@ -91,3 +91,9 @@ Como desarrollador de apps y cocinero profesional, he aprendido que el **sueño 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Sueño y Longevidad](/blog/sueno-y-longevidad)
+- [Telómeros y Sueño](/blog/telomeros-y-sueno)
+- [Privación de sueño y envejecimiento](/blog/privacion-de-sueno-y-envejecimiento-2026-05-24)

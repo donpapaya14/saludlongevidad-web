@@ -78,3 +78,9 @@ Null, [pollo orgánico en Amazon](https://www.amazon.es/s?k=pollo+orgánico&tag=
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Activación de sirtuinas para longevidad](/blog/activacion-de-sirtuinas-para-longevidad)
+- [El papel del L-Carnitina en la longevidad](/blog/el-papel-del-l-carnitina-en-la-longevidad)
+- [Bacterias para longevidad](/blog/bacterias-para-longevidad)

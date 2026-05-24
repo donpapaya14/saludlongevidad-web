@@ -93,3 +93,9 @@ Aquí hay 8 puntos de acción concretos para reducir el estrés oxidativo y prot
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Terapia de senolisis](/blog/terapia-de-senolisis)
+- [Telómeros más largos con curcuma](/blog/telomeros-mas-largos-con-curcuma)
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)

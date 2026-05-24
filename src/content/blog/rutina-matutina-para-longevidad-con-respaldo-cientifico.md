@@ -79,3 +79,9 @@ Aquí hay 6 puntos de acción que puedes seguir para implementar una rutina matu
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Hábito que alarga la vida más que el ejercicio](/blog/habito-que-alarga-la-vida-mas-que-el-ejercicio)
+- [Cómo la meditación alarga la vida](/blog/como-la-meditacion-alarga-la-vida)
+- [Caminar rápido alarga la vida según estudio de la Clínica Mayo](/blog/caminar-rapido-alarga-la-vida-segun-estudio-de-la-clinica-mayo)

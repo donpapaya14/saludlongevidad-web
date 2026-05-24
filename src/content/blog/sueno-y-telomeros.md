@@ -104,3 +104,9 @@ Como desarrollador de apps, pasé años sacrificando sueño por deadlines, hasta
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo el propósito de vida alarga la longevidad en Zonas Azules](/blog/como-el-proposito-de-vida-alarga-la-longevidad-en-zonas-azules)
+- [Técnica Respiratoria Vagus Nervio](/blog/tecnica-respiratoria-vagus-nervio)
+- [Socialización y longevidad](/blog/socializacion-y-longevidad)

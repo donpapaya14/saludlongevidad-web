@@ -78,3 +78,9 @@ Para proteger los telómeros y reducir el estrés oxidativo, sigue estos pasos:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Hábitos diarios para vivir más](/blog/habitos-diarios-para-vivir-mas)
+- [Exposición matutina al sol y longevidad](/blog/exposicion-matutina-al-sol-y-longevidad)
+- [Hábitos de las Zonas Azules](/blog/habitos-de-las-zonas-azules)

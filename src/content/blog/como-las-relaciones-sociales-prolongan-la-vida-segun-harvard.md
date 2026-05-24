@@ -89,3 +89,9 @@ Como desarrollador de apps y cocinero profesional, he aprendido que las **relaci
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Exposición matutina al sol y longevidad](/blog/exposicion-matutina-al-sol-y-longevidad)
+- [Técnica Respiratoria Vagus Nervio](/blog/tecnica-respiratoria-vagus-nervio)
+- [Cómo la meditación alarga la vida](/blog/como-la-meditacion-alarga-la-vida)

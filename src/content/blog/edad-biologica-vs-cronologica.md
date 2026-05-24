@@ -98,3 +98,9 @@ Como desarrollador de apps de salud y cocinero profesional, he probado en mí mi
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad)
+- [Senescent cells removal: latest research and methods](/blog/senescent-cells-removal-latest-research-and-methods)
+- [Telómeros y Estrés Oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-12)

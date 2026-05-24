@@ -82,3 +82,9 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Omega 3 y Longevidad](/blog/omega-3-y-longevidad)
+- [Harvard encuentra en pollo la clave](/blog/harvard-encuentra-en-pollo-la-clave)
+- [Sirtuinas y Longevidad](/blog/sirtuinas-y-longevidad)

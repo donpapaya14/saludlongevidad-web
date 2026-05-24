@@ -116,3 +116,9 @@ Aquí hay algunos puntos de acción para mejorar la calidad del sueño y reducir
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y sueño](/blog/telomeros-y-sueno-2026-05-23)
+- [Sueño y Longevidad](/blog/sueno-y-longevidad-2026-05-14)
+- [Horas de sueño óptimas por edad para longevidad](/blog/horas-de-sueno-optimas-por-edad-para-longevidad)

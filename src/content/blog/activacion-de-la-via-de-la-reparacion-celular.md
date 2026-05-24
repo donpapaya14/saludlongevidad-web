@@ -92,3 +92,9 @@ Como desarrollador de apps y cocinero profesional, he estado interesado en la re
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Circadian rhythm optimization for longevity](/blog/circadian-rhythm-optimization-for-longevity)
+- [Cómo el sueño profundo alarga la vida según la ciencia](/blog/como-el-sueno-profundo-alarga-la-vida-segun-la-ciencia)
+- [Privación de sueño y envejecimiento celular](/blog/privacion-de-sueno-y-envejecimiento-celular)

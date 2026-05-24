@@ -135,3 +135,9 @@ Como desarrollador de apps y cocinero profesional, Vladys Z. comparte: "Durante 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Estrés Emocional](/blog/telomeros-y-estres-emocional)
+- [Sirtuinas y envejecimiento](/blog/sirtuinas-y-envejecimiento-2026-05-23)
+- [Hábitos diarios para vivir más](/blog/habitos-diarios-para-vivir-mas)

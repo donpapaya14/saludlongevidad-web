@@ -119,3 +119,9 @@ Hace dos años, tras sufrir una lesión por sobreentrenamiento, descubrí el pod
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)
+- [Ejercicio con pesas para longevidad](/blog/ejercicio-con-pesas-para-longevidad)
+- [Entrenamiento de Fuerza para Longevidad](/blog/entrenamiento-de-fuerza-para-longevidad)

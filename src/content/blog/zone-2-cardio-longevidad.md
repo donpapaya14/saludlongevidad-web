@@ -89,3 +89,9 @@ Como desarrollador de apps y cocinero profesional, he encontrado que el entrenam
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Minimum ejercicio para beneficios de longevidad WHO](/blog/minimum-ejercicio-para-beneficios-de-longevidad-who)
+- [Senosidades y Longevidad](/blog/senosidades-y-longevidad)
+- [Ejercicio después de 50: guía basada en evidencia](/blog/ejercicio-despues-de-50-guia-basada-en-evidencia)

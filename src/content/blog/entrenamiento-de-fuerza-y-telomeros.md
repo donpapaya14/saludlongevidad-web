@@ -121,3 +121,9 @@ Como desarrollador de apps, pasé años sedentario hasta que a los 35 un anális
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio de alta intensidad y longevidad](/blog/ejercicio-de-alta-intensidad-y-longevidad)
+- [Senosidades y Longevidad](/blog/senosidades-y-longevidad)
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento)

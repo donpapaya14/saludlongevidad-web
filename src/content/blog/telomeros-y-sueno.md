@@ -93,3 +93,9 @@ Como desarrollador de apps que trabaja largas horas frente a pantallas, noté c�
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Circadian rhythm optimization for longevity](/blog/circadian-rhythm-optimization-for-longevity)
+- [Sueño y envejecimiento](/blog/sueno-y-envejecimiento)
+- [Horas de sueño óptimas por edad](/blog/horas-de-sueno-optimas-por-edad-2026-05-19)

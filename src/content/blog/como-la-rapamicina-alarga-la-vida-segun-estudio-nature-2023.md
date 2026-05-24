@@ -78,3 +78,9 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros más largos con curcuma](/blog/telomeros-mas-largos-con-curcuma)
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad)
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica)

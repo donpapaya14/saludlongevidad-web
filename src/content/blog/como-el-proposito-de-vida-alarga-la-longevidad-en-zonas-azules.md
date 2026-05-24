@@ -78,3 +78,9 @@ Para encontrar tu propósito de vida y aumentar tu longevidad, sigue estos pasos
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Técnica de respiración para longevidad](/blog/tecnica-de-respiracion-para-longevidad)
+- [Cómo la restricción calórica activa las sirtuinas](/blog/como-la-restriccion-calorica-activa-las-sirtuinas)
+- [Cómo la meditación alarga la vida](/blog/como-la-meditacion-alarga-la-vida)

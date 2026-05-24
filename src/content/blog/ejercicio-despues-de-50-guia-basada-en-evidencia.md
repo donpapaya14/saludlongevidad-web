@@ -83,3 +83,9 @@ Como desarrollador de apps y cocinero profesional, he visto los beneficios del *
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Entrenamiento de fuerza y longevidad](/blog/entrenamiento-de-fuerza-y-longevidad)
+- [Entrenamiento HIIT y longevidad: años ganados según ciencia](/blog/entrenamiento-hiit-y-longevidad-anos-ganados-segun-ciencia)
+- [Entrenamiento de fuerza y telómeros](/blog/entrenamiento-de-fuerza-y-telomeros)

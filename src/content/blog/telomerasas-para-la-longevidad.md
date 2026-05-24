@@ -82,3 +82,9 @@ A continuación, se presentan algunos puntos de acción prácticos para estimula
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica)
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo)
+- [Telomerasas y longevidad](/blog/telomerasas-y-longevidad)

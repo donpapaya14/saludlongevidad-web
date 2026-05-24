@@ -106,3 +106,9 @@ Un estudio de la [Universidad de Michigan](https://www.umich.edu/) de 2018 encon
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio para Longevidad según Estudios](/blog/ejercicio-para-longevidad-segun-estudios)
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)
+- [Entrenamiento de fuerza y telómeros](/blog/entrenamiento-de-fuerza-y-telomeros)

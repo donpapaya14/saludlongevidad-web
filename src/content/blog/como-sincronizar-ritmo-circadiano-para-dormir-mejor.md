@@ -102,3 +102,9 @@ Como desarrollador de apps y cocinero profesional, he encontrado que la sincroni
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Sueño y envejecimiento](/blog/sueno-y-envejecimiento)
+- [Telómeros y Sueño](/blog/telomeros-y-sueno)
+- [Activación de la vía de la reparación celular](/blog/activacion-de-la-via-de-la-reparacion-celular)

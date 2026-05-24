@@ -117,3 +117,9 @@ A continuación, se presentan 8 puntos de acción concretos para mejorar la long
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Omega 3 y Longevidad](/blog/omega-3-y-longevidad)
+- [NMN y longevidad: dosis, evidencia y precauciones](/blog/nmn-y-longevidad-dosis-evidencia-y-precauciones)
+- [El papel del L-Carnitina en la longevidad](/blog/el-papel-del-l-carnitina-en-la-longevidad)

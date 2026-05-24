@@ -126,3 +126,9 @@ El cambio más notable fue la recuperación muscular post-entreno — a los 42 a
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)
+- [Ejercicio después de 50: guía basada en evidencia](/blog/ejercicio-despues-de-50-guia-basada-en-evidencia)
+- [Entrenamiento de fuerza óptimo para longevidad según ciencia](/blog/entrenamiento-de-fuerza-optimo-para-longevidad-segun-ciencia)

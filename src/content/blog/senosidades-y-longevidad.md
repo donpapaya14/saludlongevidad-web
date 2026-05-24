@@ -83,3 +83,9 @@ Aquí hay algunos puntos de acción concretos para promover senosidades saludabl
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Entrenamiento de fuerza y longevidad](/blog/entrenamiento-de-fuerza-y-longevidad-2026-05-17)
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento)
+- [Ejercicio para Longevidad según Estudios](/blog/ejercicio-para-longevidad-segun-estudios)

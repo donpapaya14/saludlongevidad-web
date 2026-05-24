@@ -108,3 +108,9 @@ Me gusta utilizar el [Monitor de frecuencia cardíaca Polar H10](https://www.pol
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio de alta intensidad y longevidad](/blog/ejercicio-de-alta-intensidad-y-longevidad)
+- [Ejercicio de fuerza después de 50](/blog/ejercicio-de-fuerza-despues-de-50)
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)

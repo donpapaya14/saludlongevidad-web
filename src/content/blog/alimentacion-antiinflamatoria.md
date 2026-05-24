@@ -82,3 +82,9 @@ Para resumir, aquí hay 6 puntos de acción concretos para incorporar la dieta a
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [El papel del L-Carnitina en la longevidad](/blog/el-papel-del-l-carnitina-en-la-longevidad)
+- [El compuesto en el brócoli que alarga la vida](/blog/el-compuesto-en-el-brocoli-que-alarga-la-vida)
+- [Beneficios del Resveratrol para la Longevidad](/blog/beneficios-del-resveratrol-para-la-longevidad)

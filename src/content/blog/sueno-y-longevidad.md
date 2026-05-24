@@ -95,3 +95,9 @@ Como desarrollador de apps, pasé años durmiendo solo 5-6 horas. Tras sufrir fa
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Privación de Sueño y Envejecimiento](/blog/privacion-de-sueno-y-envejecimiento)
+- [Telómeros y sueño](/blog/telomeros-y-sueno-2026-05-23)
+- [Técnica de sueño profundo](/blog/tecnica-de-sueno-profundo)

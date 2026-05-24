@@ -83,3 +83,9 @@ Para resumir, aquí hay algunos puntos clave para incorporar Resveratrol en tu d
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Envejecimiento](/blog/telomeros-y-envejecimiento-2026-05-19)
+- [What People in Blue Zones Actually Eat Every Day (The Real Data)](/blog/blue-zones-diet-real-data)
+- [Fisetina y eliminación de células senescentes: dosis y evidencia](/blog/fisetina-y-eliminacion-de-celulas-senescentes-dosis-y-evidencia)

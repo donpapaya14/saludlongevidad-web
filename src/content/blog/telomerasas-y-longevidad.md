@@ -89,3 +89,9 @@ A continuación, se presentan algunos consejos prácticos para maximizar la acti
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)
+- [Cómo la rapamicina alarga la vida según estudio Nature 2023](/blog/como-la-rapamicina-alarga-la-vida-segun-estudio-nature-2023)
+- [Plasma joven: ¿puede revertir el envejecimiento?](/blog/plasma-joven-puede-revertir-el-envejecimiento)

@@ -112,3 +112,9 @@ Como cocinero, recomiendo esta receta anti-senescencia:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telomerasas y longevidad](/blog/telomerasas-y-longevidad)
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica-2026-05-12)
+- [Plasma joven: ¿puede revertir el envejecimiento?](/blog/plasma-joven-puede-revertir-el-envejecimiento)

@@ -128,3 +128,9 @@ Hoy duermo 7.5 horas consistentemente y mi productividad aumentó un 60%. El cam
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo la privación de sueño acelera el envejecimiento celular](/blog/como-la-privacion-de-sueno-acelera-el-envejecimiento-celular)
+- [Técnica de sueño profundo](/blog/tecnica-de-sueno-profundo)
+- [¿Cómo la luz solar afecta la longevidad?](/blog/como-la-luz-solar-afecta-la-longevidad)

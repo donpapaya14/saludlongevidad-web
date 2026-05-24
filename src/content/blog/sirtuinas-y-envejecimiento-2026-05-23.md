@@ -90,3 +90,9 @@ Para activar las sirtuinas y retrasar el envejecimiento celular, sigue estos pas
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo las relaciones sociales prolongan la vida según Harvard](/blog/como-las-relaciones-sociales-prolongan-la-vida-segun-harvard)
+- [Técnica Respiratoria Vagus Nervio](/blog/tecnica-respiratoria-vagus-nervio)
+- [Hábitos de las Zonas Azules](/blog/habitos-de-las-zonas-azules)

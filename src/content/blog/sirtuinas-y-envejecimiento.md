@@ -86,3 +86,9 @@ Aquí hay 6 puntos de acción concretos que puedes tomar para incorporar estrate
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Técnica de respiración para la longevidad](/blog/tecnica-de-respiracion-para-la-longevidad)
+- [Telómeros y Estrés Emocional](/blog/telomeros-y-estres-emocional)
+- [Hábitos diarios para vivir más](/blog/habitos-diarios-para-vivir-mas)

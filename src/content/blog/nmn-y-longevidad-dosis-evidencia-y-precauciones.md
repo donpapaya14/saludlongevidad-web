@@ -111,3 +111,9 @@ Como desarrollador de apps y cocinero profesional, siempre estoy buscando formas
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Polifenoles en el vino tinto y longevidad: evidencia científica](/blog/polifenoles-en-el-vino-tinto-y-longevidad-evidencia-cientifica)
+- [Beneficios de la Restricta Calórica](/blog/beneficios-de-la-restricta-calorica)
+- [Alimentación en Zonas Azules](/blog/alimentacion-en-zonas-azules)

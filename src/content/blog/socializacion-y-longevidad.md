@@ -89,3 +89,9 @@ Mi consejo es priorizar y fortalecer las conexiones sociales como parte de un es
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Sirtuinas y envejecimiento](/blog/sirtuinas-y-envejecimiento-2026-05-23)
+- [Cómo la restricción calórica activa las sirtuinas](/blog/como-la-restriccion-calorica-activa-las-sirtuinas)
+- [Técnica de respiración para la longevidad](/blog/tecnica-de-respiracion-para-la-longevidad)

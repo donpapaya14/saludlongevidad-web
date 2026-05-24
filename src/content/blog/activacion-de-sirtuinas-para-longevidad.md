@@ -86,3 +86,9 @@ En resumen, la activación de las sirtuinas es un tema de gran interés en la in
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [NMN y longevidad: dosis, evidencia y precauciones](/blog/nmn-y-longevidad-dosis-evidencia-y-precauciones)
+- [Sirtuinas y Longevidad](/blog/sirtuinas-y-longevidad)
+- [El papel del L-Carnitina en la longevidad](/blog/el-papel-del-l-carnitina-en-la-longevidad)

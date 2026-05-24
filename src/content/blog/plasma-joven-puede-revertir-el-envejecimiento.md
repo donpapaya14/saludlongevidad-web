@@ -78,3 +78,9 @@ Aquí hay algunos puntos de acción concretos que puedes seguir para mejorar tu 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad)
+- [Biomarcadores de envejecimiento](/blog/biomarcadores-de-envejecimiento)
+- [Telómeros y envejecimiento](/blog/telomeros-y-envejecimiento)

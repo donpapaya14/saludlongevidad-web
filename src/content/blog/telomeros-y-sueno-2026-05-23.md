@@ -95,3 +95,9 @@ Como desarrollador de apps, pasé años trabajando hasta altas horas con pantall
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Circadian Rhythm Optimization](/blog/circadian-rhythm-optimization)
+- [Cómo la privación de sueño acelera el envejecimiento celular](/blog/como-la-privacion-de-sueno-acelera-el-envejecimiento-celular)
+- [Circadian rhythm optimization for longevity](/blog/circadian-rhythm-optimization-for-longevity)

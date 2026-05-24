@@ -82,3 +82,9 @@ En mi cocina, me gusta experimentar con diferentes recetas que incluyan crucífe
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Polyfenoles y longevidad](/blog/polyfenoles-y-longevidad)
+- [Beneficios del Resveratrol para la Longevidad](/blog/beneficios-del-resveratrol-para-la-longevidad)
+- [Omega 3 y Longevidad](/blog/omega-3-y-longevidad)

@@ -77,3 +77,9 @@ Como desarrollador de apps y cocinero profesional, he encontrado que el **entren
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Senolisis para longevidad](/blog/senolisis-para-longevidad)
+- [Minimum ejercicio para beneficios de longevidad WHO](/blog/minimum-ejercicio-para-beneficios-de-longevidad-who)
+- [Ejercicio mínimo para longevidad](/blog/ejercicio-minimo-para-longevidad)

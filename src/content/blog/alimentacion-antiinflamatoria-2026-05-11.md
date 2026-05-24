@@ -92,3 +92,9 @@ Como desarrollador de apps y cocinero profesional, he visto los beneficios de la
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [What People in Blue Zones Actually Eat Every Day (The Real Data)](/blog/blue-zones-diet-real-data)
+- [Harvard encuentra en pollo la clave](/blog/harvard-encuentra-en-pollo-la-clave)
+- [Fisetina y eliminación de células senescentes: dosis y evidencia](/blog/fisetina-y-eliminacion-de-celulas-senescentes-dosis-y-evidencia)

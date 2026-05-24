@@ -99,3 +99,9 @@ Como desarrollador de apps, pasé años trabajando hasta altas horas con 4-5 hor
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Horas de sueño óptimas por edad](/blog/horas-de-sueno-optimas-por-edad)
+- [Privación de sueño y envejecimiento](/blog/privacion-de-sueno-y-envejecimiento-2026-05-24)
+- [Sueño y Longevidad](/blog/sueno-y-longevidad)

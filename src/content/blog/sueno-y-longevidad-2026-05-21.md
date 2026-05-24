@@ -116,3 +116,9 @@ Ahora como profesional de cocina, noto cómo la calidad del sueño afecta mi pal
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo sincronizar ritmo circadiano para dormir mejor](/blog/como-sincronizar-ritmo-circadiano-para-dormir-mejor)
+- [Telómeros y Sueño](/blog/telomeros-y-sueno)
+- [Circadian Rhythm Optimization](/blog/circadian-rhythm-optimization)

@@ -76,3 +76,9 @@ Aquí hay 6 puntos de acción concretos para incorporar la meditación en su vid
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Técnica de respiración para la longevidad](/blog/tecnica-de-respiracion-para-la-longevidad)
+- [Técnica Respiratoria Vagus Nervio](/blog/tecnica-respiratoria-vagus-nervio)
+- [Técnica de respiración para longevidad](/blog/tecnica-de-respiracion-para-longevidad)

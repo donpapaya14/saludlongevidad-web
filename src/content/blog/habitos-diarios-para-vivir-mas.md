@@ -102,3 +102,9 @@ Para aumentar tu longevidad, sigue estos **6 puntos de acción**:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-20)
+- [Cómo las relaciones sociales prolongan la vida según Harvard](/blog/como-las-relaciones-sociales-prolongan-la-vida-segun-harvard)
+- [Caminar rápido alarga la vida según estudio de la Clínica Mayo](/blog/caminar-rapido-alarga-la-vida-segun-estudio-de-la-clinica-mayo)

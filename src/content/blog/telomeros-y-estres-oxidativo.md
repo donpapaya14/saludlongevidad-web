@@ -101,3 +101,9 @@ Como desarrollador de apps y cocinero profesional, he visto cómo el estrés oxi
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo la rapamicina alarga la vida según estudio Nature 2023](/blog/como-la-rapamicina-alarga-la-vida-segun-estudio-nature-2023)
+- [Telómeros largos y bienes](/blog/telomeros-largos-y-bienes)
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad)

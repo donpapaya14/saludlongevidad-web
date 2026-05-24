@@ -91,3 +91,9 @@ Como desarrollador de apps y cocinero profesional, he encontrado que las **técn
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Hábitos de las Zonas Azules](/blog/habitos-de-las-zonas-azules)
+- [Sirtuinas y envejecimiento](/blog/sirtuinas-y-envejecimiento-2026-05-23)
+- [Rutina matutina para longevidad con respaldo científico](/blog/rutina-matutina-para-longevidad-con-respaldo-cientifico)

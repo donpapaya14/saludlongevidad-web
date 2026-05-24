@@ -117,3 +117,9 @@ En mi etapa como cocinero profesional, aprendí que las cocinas compartidas (don
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Sirtuinas y envejecimiento](/blog/sirtuinas-y-envejecimiento)
+- [Hábitos diarios para vivir más](/blog/habitos-diarios-para-vivir-mas)
+- [Técnica de respiración para longevidad](/blog/tecnica-de-respiracion-para-longevidad)

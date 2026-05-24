@@ -100,3 +100,9 @@ En mi experiencia, el entrenamiento de fuerza es una estrategia clave para mejor
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento)
+- [Entrenamiento Zona 2](/blog/entrenamiento-zona-2)
+- [Entrenamiento de fuerza y telómeros](/blog/entrenamiento-de-fuerza-y-telomeros)

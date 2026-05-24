@@ -111,3 +111,9 @@ Como desarrollador de apps y cocinero profesional, he encontrado que la exposici
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Despertar con longevidad](/blog/despertar-con-longevidad)
+- [Cómo el ayuno intermitente alarga los telómeros](/blog/como-el-ayuno-intermitente-alarga-los-telomeros)
+- [Cómo las relaciones sociales prolongan la vida según Harvard](/blog/como-las-relaciones-sociales-prolongan-la-vida-segun-harvard)

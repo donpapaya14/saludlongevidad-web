@@ -89,3 +89,9 @@ Puedes encontrar más información en [OMS](https://www.who.int/), [Universidad 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Horas de sueño óptimas por edad para longevidad](/blog/horas-de-sueno-optimas-por-edad-para-longevidad)
+- [Privación de sueño y envejecimiento celular](/blog/privacion-de-sueno-y-envejecimiento-celular)
+- [Horas de sueño óptimas por edad](/blog/horas-de-sueno-optimas-por-edad)

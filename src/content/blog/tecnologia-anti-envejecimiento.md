@@ -86,3 +86,9 @@ Para aprovechar la tecnología anti-envejecimiento, sigue estos pasos:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Biomarcadores de envejecimiento](/blog/biomarcadores-de-envejecimiento)
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-10)
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad-2026-05-22)

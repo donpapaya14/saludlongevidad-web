@@ -82,3 +82,9 @@ Aquí hay 6 puntos de acción concretos para aprovechar la luz solar y mejorar n
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo sincronizar ritmo circadiano para dormir mejor](/blog/como-sincronizar-ritmo-circadiano-para-dormir-mejor)
+- [Horas de sueño óptimas por edad](/blog/horas-de-sueno-optimas-por-edad-2026-05-19)
+- [Privación de sueño y envejecimiento celular](/blog/privacion-de-sueno-y-envejecimiento-celular)

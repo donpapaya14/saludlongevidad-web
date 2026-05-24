@@ -79,3 +79,9 @@ Aquí hay algunos puntos de acción concretos para incorporar ejercicio en tu vi
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Ejercicio de fuerza después de 50](/blog/ejercicio-de-fuerza-despues-de-50-2026-05-16)
+- [Entrenamiento de fuerza y longevidad](/blog/entrenamiento-de-fuerza-y-longevidad)
+- [Ejercicio de alta intensidad y longevidad](/blog/ejercicio-de-alta-intensidad-y-longevidad)

@@ -130,3 +130,9 @@ Como desarrollador de apps y cocinero profesional, Vladys Z. comparte:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telomerasas para la longevidad](/blog/telomerasas-para-la-longevidad)
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento-2026-05-16)

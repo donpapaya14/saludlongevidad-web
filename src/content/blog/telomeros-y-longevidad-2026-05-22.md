@@ -107,3 +107,9 @@ Hoy priorizo mi salud celular tanto como mi código. Pequeños cambios generan g
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento-2026-05-13)
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad)
+- [Telómeros largos y bienes](/blog/telomeros-largos-y-bienes)

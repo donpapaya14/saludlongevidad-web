@@ -86,3 +86,9 @@ Para incorporar hábitos de las Zonas Azules en nuestra vida diaria, podemos seg
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo el ayuno intermitente alarga los telómeros](/blog/como-el-ayuno-intermitente-alarga-los-telomeros)
+- [Cómo la restricción calórica activa las sirtuinas](/blog/como-la-restriccion-calorica-activa-las-sirtuinas)
+- [La conexión social alarga la vida](/blog/la-conexion-social-alarga-la-vida)

@@ -93,3 +93,9 @@ Aquí hay 6 puntos de acción concretos para implementar la restricción calóri
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Envejecimiento](/blog/telomeros-y-envejecimiento-2026-05-19)
+- [Alimentación antiinflamatoria](/blog/alimentacion-antiinflamatoria)
+- [Alimentación Antiinflamatoria](/blog/alimentacion-antiinflamatoria-2026-05-11)

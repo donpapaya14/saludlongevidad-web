@@ -103,3 +103,9 @@ Como desarrollador de apps, pasé años durmiendo 5-6 horas por noche. Tras sufr
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Sueño y Longevidad](/blog/sueno-y-longevidad)
+- [Sueño y Longevidad](/blog/sueno-y-longevidad-2026-05-21)
+- [Optimización del Ritmo Circadiano](/blog/optimizacion-del-ritmo-circadiano)

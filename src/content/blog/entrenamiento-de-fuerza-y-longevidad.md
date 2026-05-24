@@ -91,3 +91,9 @@ Aquí te presento 6 puntos de acción concretos para incorporar el entrenamiento
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Senosidades y Longevidad](/blog/senosidades-y-longevidad)
+- [Entrenamiento Zona 2](/blog/entrenamiento-zona-2)
+- [Minimum ejercicio para beneficios de longevidad WHO](/blog/minimum-ejercicio-para-beneficios-de-longevidad-who)

@@ -82,3 +82,9 @@ Aquí te presento algunos consejos prácticos para proteger tus telómeros y pro
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-10)
+- [Biological age vs chronological age](/blog/biological-age-vs-chronological-age)

@@ -80,3 +80,9 @@ A continuación, se presentan algunos puntos de acción para optimizar el ritmo 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Cómo el sueño profundo alarga la vida según la ciencia](/blog/como-el-sueno-profundo-alarga-la-vida-segun-la-ciencia)
+- [Sueño y Longevidad](/blog/sueno-y-longevidad)
+- [Horas de sueño óptimas por edad para longevidad](/blog/horas-de-sueno-optimas-por-edad-para-longevidad)

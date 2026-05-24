@@ -154,3 +154,9 @@ Ahora uso el [ Salter 9009 en Amazon](https://www.amazon.es/s?k=+Salter+9009&tag
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Entrenamiento HIIT y longevidad: años ganados según ciencia](/blog/entrenamiento-hiit-y-longevidad-anos-ganados-segun-ciencia)
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)
+- [Ejercicio mínimo para longevidad](/blog/ejercicio-minimo-para-longevidad)

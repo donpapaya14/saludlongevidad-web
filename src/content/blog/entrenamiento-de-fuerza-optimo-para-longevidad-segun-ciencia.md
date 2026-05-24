@@ -89,3 +89,9 @@ En mi experiencia, el entrenamiento de fuerza no solo ha mejorado mi salud físi
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Senosidades y Longevidad](/blog/senosidades-y-longevidad)
+- [Ejercicio de baja intensidad para longevidad](/blog/ejercicio-de-baja-intensidad-para-longevidad)
+- [Entrenamiento Zona 2](/blog/entrenamiento-zona-2)

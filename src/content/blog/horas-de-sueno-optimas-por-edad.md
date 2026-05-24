@@ -94,3 +94,9 @@ Para mejorar la calidad del sueño y alcanzar las **horas de sueño óptimas por
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Privación de sueño y envejecimiento](/blog/privacion-de-sueno-y-envejecimiento-2026-05-24)
+- [Cómo la privación de sueño acelera el envejecimiento celular](/blog/como-la-privacion-de-sueno-acelera-el-envejecimiento-celular)
+- [Cómo el sueño profundo alarga la vida según la ciencia](/blog/como-el-sueno-profundo-alarga-la-vida-segun-la-ciencia)

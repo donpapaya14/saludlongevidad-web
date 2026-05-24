@@ -107,3 +107,9 @@ Para proteger y aumentar la longitud de los telómeros, se pueden seguir estos p
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad)
+- [Telómeros y Estrés Oxidativo](/blog/telomeros-y-estres-oxidativo-2026-05-12)
+- [Telómeros y estrés oxidativo](/blog/telomeros-y-estres-oxidativo)

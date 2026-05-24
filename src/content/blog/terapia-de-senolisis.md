@@ -83,3 +83,9 @@ Aquí hay algunos pasos que puedes seguir para aprender más sobre la **terapia 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Telómeros y Longevidad](/blog/telomeros-y-longevidad-2026-05-22)
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento-2026-05-13)
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)

@@ -76,3 +76,9 @@ Aquí hay algunos puntos de acción concretos para incorporar el resveratrol en 
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Alimentación Antiinflamatoria](/blog/alimentacion-antiinflamatoria-2026-05-11)
+- [El compuesto en el brócoli que alarga la vida](/blog/el-compuesto-en-el-brocoli-que-alarga-la-vida)
+- [NAD+ y envejecimiento](/blog/nad-y-envejecimiento-2026-05-15)

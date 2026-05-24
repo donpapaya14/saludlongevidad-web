@@ -81,3 +81,9 @@ Para retrasar el envejecimiento biológico, se pueden seguir los siguientes paso
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Edad Biológica vs Cronológica](/blog/edad-biologica-vs-cronologica)
+- [Tecnología anti-envejecimiento](/blog/tecnologia-anti-envejecimiento)
+- [Telomerasas para la longevidad](/blog/telomerasas-para-la-longevidad)

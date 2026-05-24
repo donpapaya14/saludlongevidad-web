@@ -79,3 +79,9 @@ Como desarrollador de apps y cocinero profesional, he visto cómo el **ejercicio
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Zone 2 Cardio Longevidad](/blog/zone-2-cardio-longevidad)
+- [Entrenamiento de fuerza óptimo para longevidad según ciencia](/blog/entrenamiento-de-fuerza-optimo-para-longevidad-segun-ciencia)
+- [Ejercicio para Longevidad según Estudios](/blog/ejercicio-para-longevidad-segun-estudios)

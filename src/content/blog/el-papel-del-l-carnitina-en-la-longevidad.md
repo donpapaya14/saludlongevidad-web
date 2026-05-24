@@ -87,3 +87,9 @@ Para mejorar tu salud y longevidad con la L-Carnitina, sigue estos pasos:
 ---
 
 *Escrito por **Vladys Z.** — Desarrollador de aplicaciones y cocinero profesional. Apasionado por mejorar la vida de las personas con contenido basado en ciencia y experiencia real. Sígueme en [YouTube](https://youtube.com/@SaludLongevidad-e3i).*
+
+## 📚 Sigue leyendo
+
+- [Alimentación antiinflamatoria](/blog/alimentacion-antiinflamatoria)
+- [La Ruta a la Longevidad: Un Compuesto de la Uva](/blog/la-ruta-a-la-longevidad-un-compuesto-de-la-uva)
+- [Beneficios de la Restricta Calórica](/blog/beneficios-de-la-restricta-calorica)
