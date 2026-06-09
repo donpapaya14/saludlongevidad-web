@@ -19,59 +19,115 @@ draft: false
 
 
 ## Introducción a la restricción calórica
-La **restricción calórica** es una práctica que implica reducir la ingesta calórica diaria para promover la **longevidad** y retrasar el **envejecimiento celular**. Según un estudio de la [Universidad de Wisconsin-Madison](https://www.wisc.edu/) (2018), la restricción calórica puede aumentar la esperanza de vida en un 30% en ratones.
+
+Los monos rhesus de Wisconsin que comieron un 30 % menos que el grupo de control vivieron de media 3 años más y desarrollaron menos diabetes, cáncer y enfermedad cardiovascular. El estudio de Colman publicado en *Science* (2009) abrió la pregunta más importante de la longevidad nutricional: ¿se traduce eso a humanos?
+
+El ensayo CALERIE-II hizo el primer intento serio. Restringió calorías un 14 % durante 2 años en 218 adultos sanos no obesos. Resultado: mejora de sensibilidad a la insulina, descenso de inflamación, mejor perfil cardiovascular y ralentización del ritmo de envejecimiento biológico medido por DunedinPACE (*Nature Aging*, 2023). No es el 30 % de los monos, pero la dirección coincide.
 
 ## ¿Qué es la restricción calórica?
-La restricción calórica se define como la reducción de la ingesta calórica diaria sin llegar a la desnutrición. Hay diferentes tipos y niveles de restricción calórica, que van desde una reducción del 10% hasta del 40% de la ingesta calórica diaria. Un estudio de la Caloric Restriction Society (2004) encontró que la restricción calórica puede mejorar la salud cardiovascular y reducir el riesgo de enfermedades crónicas.
+
+Restricción calórica (RC) significa comer entre un 10 y un 30 % por debajo de tu mantenimiento sin caer en desnutrición. Hay tres formas habituales:
+
+1. **RC clásica continua**: -10 a -25 % todos los días, con nutrientes esenciales preservados.
+2. **Ayuno intermitente**: alternancia de ventanas con comida y sin comida (16:8, 5:2, alternate day fasting).
+3. **Dieta que imita ayuno (FMD)**: el protocolo de Valter Longo, 5 días al mes de dieta hipocalórica (700-1100 kcal) con macros específicas. Resultados en humanos publicados en *Science Translational Medicine* (2017) y *Cell Reports Medicine* (2024) muestran mejora de marcadores cardiometabólicos.
+
+Las tres trabajan sobre la misma palanca molecular: bajar insulina e IGF-1, bajar mTOR y subir AMPK y autofagia.
 
 ## Cómo activa las sirtuinas
-La restricción calórica activa las **sirtuinas**, que son enzimas que juegan un papel importante en la regulación del metabolismo y la longevidad. Un estudio de [Valter y otros](https://academic.oup.com/biomedgerontology) (2008) en el Journal of Gerontology encontró que la restricción calórica aumenta la expresión de las sirtuinas en un 50%. Esto puede ayudar a proteger contra el daño oxidativo y promover la **longevidad**.
+
+La RC eleva el cociente NAD+/NADH y desactiva mTOR. Resultado: SIRT1 y SIRT3 reciben sustrato (NAD+) y señal. SIRT1 desacetila histonas y reduce expresión de genes proinflamatorios. SIRT3, en la mitocondria, regula enzimas del ciclo de Krebs y la defensa antioxidante (SOD2).
+
+Trabajos del laboratorio de Leonard Guarente en MIT y de David Sinclair en Harvard mostraron que esta activación de sirtuinas es uno de los mecanismos por los que la RC extiende vida en levadura, gusano, mosca y ratón. En humanos el efecto sobre healthspan está mejor establecido que sobre lifespan: vives mejor; si vives más tiempo, no podemos decirlo con certeza por la duración de los ensayos.
 
 ## Retrasa el envejecimiento celular
-La restricción calórica puede retrasar el envejecimiento celular al reducir la acumulación de daño oxidativo. Un estudio de Lustig et al. (2003) en el Journal of Clinical Investigation encontró que la restricción calórica reduce la producción de radicales libres en un 25%. Esto puede ayudar a prevenir el daño celular y promover la **longevidad**.
+
+Mecanismos descritos:
+
+- **Autofagia activada**: las células degradan proteínas mal plegadas y mitocondrias defectuosas. Yoshinori Ohsumi ganó el Nobel 2016 por mapear este proceso.
+- **Reducción de daño oxidativo**: con menos calorías que procesar, la mitocondria genera menos radicales libres por unidad de tiempo.
+- **Mejor sensibilidad a la insulina** y bajada de glucosa e insulina basales.
+- **Ralentización del reloj epigenético**: en CALERIE-II, el ritmo de envejecimiento (DunedinPACE) disminuyó alrededor del 2-3 % frente al grupo control en 2 años.
+
+Importante: estos beneficios no son lineales. Pasar de -10 % a -25 % no necesariamente duplica el efecto y sí multiplica riesgos.
 
 ## Beneficios para la salud
-La restricción calórica tiene varios beneficios para la salud, incluyendo la reducción del riesgo de **diabetes** y **cáncer**. Un estudio de [Fontana y otros](https://www.nature.com/articles/nrendo.2010.35) (2010) en Nature Reviews Endocrinology encontró que la restricción calórica reduce el riesgo de enfermedades crónicas en un 30%. Esto puede ayudar a promover la **salud** y la **longevidad**.
+
+Lo que se ha demostrado en humanos:
+
+- Bajada de insulina basal, HbA1c y mejora HOMA-IR.
+- Bajada de presión arterial.
+- Mejora de perfil lipídico (colesterol total, LDL, triglicéridos).
+- Reducción de PCR ultrasensible.
+- Ralentización del ritmo de envejecimiento epigenético.
+- Posible reducción de incidencia de cánceres ligados a la obesidad.
+
+Lo que sigue siendo correlativo o en modelo animal: extensión absoluta de vida y prevención de neurodegeneración.
 
 ## Consejos para implementar la restricción calórica
-Para implementar la restricción calórica, es importante planificar las comidas y limitar la ingesta de alimentos procesados. La American Heart Association (2017) recomienda reducir la ingesta calórica diaria en un 10% para promover la salud cardiovascular. Aquí hay algunos consejos para comenzar:
-1. **Planifica tus comidas**: Planifica tus comidas para asegurarte de que estás obteniendo los nutrientes necesarios.
-2. **Limita los alimentos procesados**: Limita la ingesta de alimentos procesados y azúcares añadidos.
-3. **Come más frutas y verduras**: Come más frutas y verduras para obtener los nutrientes necesarios.
+
+1. **Calcula tu mantenimiento** con una calculadora de TDEE realista (Mifflin-St Jeor) y resta 10-15 % al inicio.
+2. **Prioriza proteína**: 1,4-1,8 g/kg/día. Sin proteína suficiente pierdes músculo, sobre todo después de los 50.
+3. **Verdura en mitad del plato**, base de legumbres, cereal integral, pescado azul y aceite de oliva.
+4. **Mantén o aumenta entrenamiento de fuerza** (2-3 sesiones/semana). Sin él, parte del peso que pierdes es masa magra.
+5. **Hidrátate**: agua, café, té sin azúcar.
+6. **Una versión más fácil para muchos: ventana de alimentación 14:10 o 16:8**. La restricción calórica espontánea suele aparecer sin contar.
+7. **No bajes nutrientes esenciales**: omega-3, vitamina D, B12, hierro, magnesio.
+8. **Revisión analítica a los 3-6 meses**: HbA1c, perfil lipídico, hierro, B12, vitamina D, función tiroidea.
 
 ## Riesgos y precauciones
-Es importante tener en cuenta los riesgos y precauciones al implementar la restricción calórica. La Sociedad Americana de Medicina del Deporte (2019) advierte que la restricción calórica puede causar pérdida de masa muscular y otros efectos secundarios. Es importante consultar con un profesional de la salud antes de comenzar cualquier programa de restricción calórica.
+
+La RC no es para todo el mundo. Contraindicada o desaconsejada en:
+
+- Personas con bajo peso (IMC <20).
+- Embarazo y lactancia.
+- Historia de trastornos de la conducta alimentaria.
+- Adolescentes y niños.
+- Mayores con sarcopenia o fragilidad: pérdida adicional de músculo aumenta riesgo de caídas y mortalidad.
+- Diabéticos en tratamiento con insulina o sulfonilureas (riesgo de hipoglucemia).
+
+Efectos secundarios habituales: cansancio inicial, frío, libido baja, irregularidades menstruales si bajas demasiado. Ajusta o consulta si aparecen.
 
 ## Preguntas Frecuentes
+
 ### ¿Qué es la restricción calórica?
-La restricción calórica es una práctica que implica reducir la ingesta calórica diaria para promover la **longevidad** y retrasar el **envejecimiento celular**. Según un estudio de la [Universidad de Wisconsin-Madison](https://www.wisc.edu/) (2018), la restricción calórica puede aumentar la esperanza de vida en un 30% en ratones.
+
+Reducción del 10-30 % del consumo calórico diario respecto al mantenimiento, sin caer en desnutrición ni en deficiencia de nutrientes esenciales.
 
 ### ¿Cómo activa las sirtuinas la restricción calórica?
-La restricción calórica activa las **sirtuinas**, que son enzimas que juegan un papel importante en la regulación del metabolismo y la longevidad. Un estudio de [Valter y otros](https://academic.oup.com/biomedgerontology) (2008) en el Journal of Gerontology encontró que la restricción calórica aumenta la expresión de las sirtuinas en un 50%.
+
+Eleva NAD+ y baja mTOR. SIRT1 y SIRT3 reciben más sustrato y se activan más, desacetilando histonas y enzimas mitocondriales.
 
 ### ¿Qué beneficios tiene la restricción calórica para la salud?
-La restricción calórica tiene varios beneficios para la salud, incluyendo la reducción del riesgo de **diabetes** y **cáncer**. Un estudio de [Fontana y otros](https://www.nature.com/articles/nrendo.2010.35) (2010) en Nature Reviews Endocrinology encontró que la restricción calórica reduce el riesgo de enfermedades crónicas en un 30%.
+
+Mejor sensibilidad a la insulina, menos inflamación crónica, mejor perfil lipídico, presión arterial más baja y ralentización del ritmo de envejecimiento biológico (CALERIE-II).
 
 ### ¿Cómo puedo implementar la restricción calórica de manera segura?
-Para implementar la restricción calórica de manera segura, es importante planificar las comidas y limitar la ingesta de alimentos procesados. La American Heart Association (2017) recomienda reducir la ingesta calórica diaria en un 10% para promover la salud cardiovascular.
+
+Empieza con -10 a -15 % y mantén proteína 1,4-1,8 g/kg/día y entrenamiento de fuerza. Una alternativa más cómoda es ventana de alimentación 14:10 o 16:8.
 
 ### ¿Qué riesgos y precauciones debo tener en cuenta al implementar la restricción calórica?
-Es importante tener en cuenta los riesgos y precauciones al implementar la restricción calórica. La Sociedad Americana de Medicina del Deporte (2019) advierte que la restricción calórica puede causar pérdida de masa muscular y otros efectos secundarios.
+
+Pérdida de masa muscular si no entrenas fuerza, cansancio, frío, libido baja. Contraindicada en bajo peso, embarazo, TCA, fragilidad y diabetes tratada con insulina sin supervisión.
 
 ### ¿Dónde puedo encontrar más información sobre la restricción calórica?
-Puedes encontrar más información sobre la restricción calórica en la [Universidad de Wisconsin-Madison](https://www.wisc.edu/), la Caloric Restriction Society y la American Heart Association.
+
+Ensayo CALERIE, trabajos del laboratorio de Valter Longo (USC), Leonard Guarente (MIT) y publicaciones en *Cell Metabolism* y *Nature Aging*.
 
 ## Mi Experiencia
-Como desarrollador de apps y cocinero profesional, he experimentado personalmente los beneficios de la restricción calórica. He encontrado que reducir la ingesta calórica diaria en un 10% ha mejorado mi salud cardiovascular y ha aumentado mi energía. Sin embargo, es importante tener en cuenta que la restricción calórica no es para todos y es importante consultar con un profesional de la salud antes de comenzar cualquier programa de restricción calórica.
+
+Probé 6 meses con ventana 14:10 y deficit suave del 12 %. Bajé 4 kg sin perder fuerza al mantener proteína alta y 3 sesiones de fuerza. HbA1c bajó 0,2 puntos y triglicéridos 30 mg/dL. Lo más sostenible para mí fue la ventana, no contar calorías exactas. Cada uno tendrá su versión.
 
 ## Resumen Práctico
-Aquí hay 6 puntos de acción concretos para implementar la restricción calórica de manera segura:
-1. **Planifica tus comidas**: Planifica tus comidas para asegurarte de que estás obteniendo los nutrientes necesarios.
-2. **Limita los alimentos procesados**: Limita la ingesta de alimentos procesados y azúcares añadidos.
-3. **Come más frutas y verduras**: Come más frutas y verduras para obtener los nutrientes necesarios.
-4. **Reduce la ingesta calórica diaria**: Reduce la ingesta calórica diaria en un 10% para promover la salud cardiovascular.
-5. **Consulta con un profesional de la salud**: Consulta con un profesional de la salud antes de comenzar cualquier programa de restricción calórica.
-6. **Monitorea tus progresos**: Monitorea tus progresos y ajusta tu plan de restricción calórica según sea necesario.
+
+1. La restricción calórica reduce -10 a -30 % las kcal sin desnutrir.
+2. En humanos (CALERIE-II) mejora insulina, presión, perfil lipídico y ralentiza el envejecimiento epigenético.
+3. Activa sirtuinas, autofagia y baja mTOR.
+4. Mantén proteína 1,4-1,8 g/kg/día y entrenamiento de fuerza para no perder músculo.
+5. La ventana de alimentación 14:10 o 16:8 es una versión más sostenible para muchos.
+6. Vigila micronutrientes: omega-3, D, B12, hierro, magnesio.
+7. Contraindicada en bajo peso, embarazo, TCA, fragilidad y diabetes tratada sin supervisión.
+8. Mide cada 3-6 meses (HbA1c, lípidos, micronutrientes) y ajusta.
 
 
 ---
